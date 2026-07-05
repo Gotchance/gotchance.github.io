@@ -1,0 +1,36 @@
+/*-- scss:defaults --*/
+$primary: #2c5282;
+$headings-font-weight: 600;
+
+/*-- scss:rules --*/
+.cv-header {
+  display: grid;
+  grid-template-columns: 200px 1fr;
+  gap: 1.5rem;
+  align-items: start;
+  margin-bottom: 2rem;
+  padding-bottom: 1.5rem;
+  border-bottom: 1px solid #dee2e6;
+}
+
+.cv-header .profile-photo {
+  border-radius: 4px;
+  width: 200px;
+  height: auto;
+}
+
+@media (max-width: 640px) {
+  .cv-header {
+    grid-template-columns: 1fr;
+    text-align: center;
+  }
+
+  .cv-header .profile-photo {
+    margin: 0 auto;
+  }
+}
+
+.table-scroll {
+  overflow-x: auto;
+  margin: 1rem 0;
+}

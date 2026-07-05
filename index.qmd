@@ -1,0 +1,30 @@
+---
+title: "Chansu Han, Ph.D."
+page-layout: article
+---
+
+::: {.cv-header}
+![](cv/assets/profile.jpg){.profile-photo width=200}
+
+# Chansu Han, Ph.D.
+
+**Researcher**, Center for Research on AI Security and Technology Evolution (CREATE),  
+National Institute of Information and Communications Technology (NICT), Japan
+
+**Contact:** [han@nict.go.jp](mailto:han@nict.go.jp)
+
+[Google Scholar](https://scholar.google.com/citations?user=ZvvIWZ4AAAAJ&hl=en) ·
+[ResearchGate](https://www.researchgate.net/profile/Chansu-Han-2) ·
+[dblp](https://dblp.org/pid/186/6829.html) ·
+[Semantic Scholar](https://www.semanticscholar.org/author/Chansu-Han/3467047) ·
+[Web of Science](https://www.webofscience.com/wos/author/record/K-3263-2019) ·
+[ORCID: 0000-0002-1728-5300](https://orcid.org/0000-0002-1728-5300) ·
+[LinkedIn](https://www.linkedin.com/in/chansu-han-aa0857193/)
+:::
+
+Welcome. This site hosts my academic CV and a curated list of computer security conference deadlines.
+
+- [**CV**](cv/index.qmd) — biography, publications, awards, and professional activities
+- [**Conferences**](conferences/index.qmd) — submission deadlines and venue information
+
+> Site under construction (Phase 0). Content is being migrated from [HackMD](https://hackmd.io/@gotchance/BJ7ACLZ0E).

@@ -1,0 +1,36 @@
+project:
+  type: website
+  output-dir: docs
+  render:
+    - index.qmd
+    - cv/index.qmd
+    - conferences/index.qmd
+
+website:
+  title: "Chansu Han, Ph.D."
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: cv/index.qmd
+        text: CV
+      - href: conferences/index.qmd
+        text: Conferences
+    right:
+      - icon: github
+        href: https://github.com/gotchance/gotchance.github.io
+        aria-label: GitHub
+  page-footer:
+    center: "Last updated: 2026-07-05"
+
+format:
+  html:
+    theme:
+      - cosmo
+      - styles/site.scss
+    toc: true
+    toc-depth: 3
+    smooth-scroll: true
+
+execute:
+  freeze: auto

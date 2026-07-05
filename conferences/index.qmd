@@ -1,0 +1,11 @@
+---
+title: "Conference Deadlines"
+---
+
+::: {.callout-note}
+## Work in progress
+
+Conference deadline tables will be migrated from `conference_deadlines.md` in Phase 2.
+:::
+
+[← Back to Home](../index.qmd)

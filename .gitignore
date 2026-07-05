@@ -1,0 +1,27 @@
+# Quarto / build output
+/.quarto/
+/_site/
+/docs/
+**/*.knit.md
+**/*.utf8.md
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+*.swp
+*~
+.idea/
+.vscode/
+
+# LaTeX aux files (Phase 1+)
+*.aux
+*.log
+*.out
+*.toc
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+
+**/*.quarto_ipynb
