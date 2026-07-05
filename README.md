@@ -15,12 +15,12 @@ HackMD で公開中の CV と学会締切情報を、研究者向けの静的 We
 
 | ファイル | 内容 | 行数規模 |
 |---|---|---|
-| `CVprofile.md` | 経歴・論文・受賞・プロジェクト等 | 約 450 行 |
-| `conference_deadlines.md` | 学会一覧・Tier 分類・ワークショップ等 | 約 310 行 |
+| `rawdata_hackmd/CVprofile.md` | 経歴・論文・受賞・プロジェクト等（HackMD 移行元） | 約 450 行 |
+| `rawdata_hackmd/conference_deadlines.md` | 学会一覧・Tier 分類・ワークショップ等（HackMD 移行元） | 約 310 行 |
 
 ### 1.2 HackMD 固有の記法（移行時に変換が必要）
 
-**CVprofile.md**
+**rawdata_hackmd/CVprofile.md**
 
 - HTML テーブル + `<font size>` によるヘッダー（プロフィール写真・連絡先）
 - `<details>` / `<summary>` による折りたたみ（2023 年以前の論文、日本語履歴等）
@@ -28,7 +28,7 @@ HackMD で公開中の CV と学会締切情報を、研究者向けの静的 We
 - Imgur ホスティングの画像（プロフィール写真、メールアドレス画像）
 - HTML コメント `<!-- ... -->` 内の下書き・非公開情報
 
-**conference_deadlines.md**
+**rawdata_hackmd/conference_deadlines.md**
 
 - HackMD メタデータ `[name=Chansu Han]`
 - `:::info` ブロック（Tier 説明）
@@ -232,7 +232,7 @@ CVprofile_confDL/
 - [x] `SETUP.md` にローカル構築手順を記載
 - [x] **Quarto ローカルインストール**（1.9.38）
 - [x] `quarto render` でローカルビルド確認（`render:` でソース `.md` を除外）
-- [ ] **GitHub リポジトリ作成**（`gotchance/gotchance.github.io`）
+- [ ] **GitHub リポジトリ作成**（`gotchance/gotchance.github.io` — 未作成のため push 失敗中）
 - [x] `quarto preview` でローカル確認
 - [ ] GitHub Pages 有効化（`/docs` から公開）
 

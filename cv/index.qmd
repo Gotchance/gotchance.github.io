@@ -5,7 +5,7 @@ title: "Curriculum Vitae"
 ::: {.callout-note}
 ## Work in progress
 
-CV content will be migrated from `CVprofile.md` in Phase 1.  
+CV content will be migrated from `rawdata_hackmd/CVprofile.md` in Phase 1.  
 A PDF download will be available at `cv/Chansu_Han_CV.pdf` once rendering is set up.
 :::
 

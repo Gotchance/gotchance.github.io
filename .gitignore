@@ -1,9 +1,10 @@
-# Quarto / build output
+# Quarto cache / alternate output
 /.quarto/
 /_site/
-/docs/
 **/*.knit.md
 **/*.utf8.md
+
+# docs/ は GitHub Pages 公開のためコミット対象（gitignore しない）
 
 # OS
 .DS_Store

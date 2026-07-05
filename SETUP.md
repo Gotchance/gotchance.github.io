@@ -8,8 +8,8 @@
 |---|---|
 | Git | インストール済み |
 | TeX (pdfTeX) | インストール済み (TeX Live 2026) |
-| Quarto | **要インストール**（下記） |
-| GitHub CLI (`gh`) | 未インストール（ブラウザでリポジトリ作成可） |
+| Quarto | インストール済み (1.9.38) |
+| GitHub リポジトリ | **未作成**（`gotchance.github.io` → push で 404） |
 
 ## 1. Quarto のインストール
 
@@ -37,7 +37,7 @@ cd "/Users/han/Downloads/cursor projects/CVprofile_confDL"
 quarto preview
 ```
 
-> **注意:** `CVprofile.md` と `conference_deadlines.md` は移行元ソースです。`_quarto.yml` の `render:` で `.qmd` のみを指定しています。これを外すと `---` 区切りを YAML と誤認識してエラーになります。
+> **注意:** `rawdata_hackmd/*.md` は HackMD 移行元です。`_quarto.yml` の `render:` で `.qmd` のみを指定しています。ルートや `rawdata_hackmd/` の `.md` を render 対象に入れると `---` 区切りを YAML と誤認識してエラーになります。
 
 ブラウザで Home / CV / Conferences のナビゲーションが表示されれば Phase 0 完了です。
 
@@ -55,21 +55,49 @@ quarto render
 touch docs/.nojekyll
 ```
 
-## 4. GitHub リポジトリ作成
+## 4. GitHub リポジトリ作成と push
 
-1. https://github.com/new を開く
-2. Repository name: **`gotchance.github.io`**
-3. Public を選択
-4. README / .gitignore は追加しない（ローカルに既にある）
-5. Create repository
+### エラー: `remote: Repository not found`
 
-ローカルで初回 push:
+**原因:** GitHub 上に `gotchance/gotchance.github.io` がまだ存在しない（404 確認済み）。  
+`git remote add` だけではリポジトリは作られません。**先に GitHub 上で空リポジトリを作成**してください。
+
+### 手順
+
+1. **ログイン確認** — ブラウザで https://github.com/gotchance にアクセスし、ご自身のアカウントか確認
+2. **リポジトリ作成** — https://github.com/new
+   - Owner: **gotchance**
+   - Repository name: **`gotchance.github.io`**（完全一致）
+   - Visibility: **Public**
+   - **Add a README / .gitignore / license はすべてオフ**
+   - Create repository
+3. **ビルド成果物を含めて push**（GitHub Pages は `/docs` フォルダを参照するため）
 
 ```bash
 cd "/Users/han/Downloads/cursor projects/CVprofile_confDL"
-git init
-git add .
-git commit -m "Phase 0: Quarto site skeleton"
+quarto render
+touch docs/.nojekyll
+git add docs/
+git commit -m "Add rendered site to docs/"   # 初回のみ。既に commit 済みならこの行は不要
+git push -u origin main
+```
+
+`git remote add` は既に設定済みの場合は不要です。  
+再度 `Repository not found` が出る場合:
+
+- リポジトリ名の typo（`gotchance.github.io` か）
+- 別アカウントでログインしている（HTTPS の認証ユーザーが `gotchance` か）
+- リポジトリが Private で権限がない
+
+認証確認（GitHub CLI がある場合）:
+
+```bash
+gh auth status
+```
+
+### 初回セットアップ（リモート未設定の場合）
+
+```bash
 git branch -M main
 git remote add origin https://github.com/gotchance/gotchance.github.io.git
 git push -u origin main
@@ -87,8 +115,8 @@ git push -u origin main
 
 ## 6. 次のフェーズ
 
-- **Phase 1:** `CVprofile.md` → `cv/index.qmd` へ移行、PDF 生成
-- **Phase 2:** `conference_deadlines.md` → `conferences/` へ移行
+- **Phase 1:** `rawdata_hackmd/CVprofile.md` → `cv/index.qmd` へ移行、PDF 生成
+- **Phase 2:** `rawdata_hackmd/conference_deadlines.md` → `conferences/` へ移行
 
 ## ディレクトリ構成（Phase 0 時点）
 
@@ -104,8 +132,10 @@ CVprofile_confDL/
 │   └── index.qmd          # Phase 2 で本文化
 ├── styles/
 │   └── site.scss
-├── CVprofile.md           # 移行元（保持）
-├── conference_deadlines.md
+├── rawdata_hackmd/
+│   ├── CVprofile.md           # HackMD 移行元
+│   └── conference_deadlines.md
+├── docs/                      # quarto render 出力（GitHub Pages 公開用）
 ├── README.md
-└── SETUP.md               # 本ファイル
+└── SETUP.md
 ```
