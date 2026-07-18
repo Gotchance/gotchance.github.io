@@ -210,7 +210,7 @@ CVprofile_confDL/
 | 現セクション | 移行先ファイル |
 |---|---|
 | Ranking / CFP Calendar リンク | `conferences/index.qmd` 冒頭 |
-| Conference List テーブル | `conferences/list.qmd` |
+| Conference List テーブル | `conferences/data/conferences.yml` → 生成 `conferences/_list.qmd` |
 | Workshop / Domestic テーブル | `conferences/workshops.qmd` |
 | By Tier (+ :::info) | `conferences/tier.qmd` |
 | Journal リンク | `conferences/index.qmd` 末尾 |
@@ -218,7 +218,23 @@ CVprofile_confDL/
 **テーブル最適化案**
 
 - 年列（2027〜2020）が多い → **直近 3 年 + 「Older」列**に縮小するか、年を行・学会を列に転置を検討
-- 更新頻度が高い部分だけ `data/conferences.yaml` に切り出すと diff が見やすくなる（Phase 3）
+- **YAML 化済み**: `conferences/data/conferences.yml` を編集 → `quarto render`（pre-render で `_list.qmd` を再生成）
+
+**YAML の書き方（例）**
+
+```yaml
+- name: NDSS
+  tier: "1"
+  approx_dl: May, Aug
+  h5: https://scholar.google.com/...
+  editions:
+    2027:
+      label: Mar 22-26, Seoul, Korea
+      url: https://www.ndss-symposium.org/ndss2027/
+      dl: May 6, Aug 19
+```
+
+初回のみ: `python3 -m venv .venv && .venv/bin/pip install -r requirements.txt`
 
 ---
 
@@ -245,14 +261,15 @@ CVprofile_confDL/
 - [x] PDF 初版: `cv/cv-pdf.qmd`（xelatex + 日本語フォント）→ `docs/cv/Chansu_Han_CV.pdf`
 - [x] 「Download CV (PDF)」ボタン / ナビリンク
 - [x] `post-render` で PDF 自動生成（`scripts/render-cv-pdf.sh`）
-- [ ] ローカル `quarto preview` で見た目確認 → `docs/` を push
+- [x] ローカル `quarto preview` で見た目確認 → `docs/` を push
 
 ### Phase 2: 学会ページ（2 日）
 
-- [ ] `conference_deadlines.md` を `conferences/` 配下に分割移行
-- [ ] 横スクロールテーブルの CSS 実装
-- [ ] `:::info` → callout 変換
-- [ ] CV ページ ↔ 学会ページのナビゲーション
+- [x] `conference_deadlines.md` を `conferences/` 配下に分割移行（案 A: 2027–2020 全列＋横スクロール）
+- [x] 横スクロールテーブルの CSS 実装（`.table-scroll` / sticky Conf 列）
+- [x] `:::info` → 箇条書き／callout 変換
+- [x] CV ページ ↔ 学会ページのナビゲーション
+- [x] 見やすさの仕上げ（空列削除、セル短縮、モバイル調整、YAML 化など）
 
 ### Phase 3: 公開・自動化（1 日）
 
@@ -265,7 +282,7 @@ CVprofile_confDL/
 
 - [ ] HackMD 旧ページに移行先 URL を追記
 - [ ] Google Scholar / ORCID / 所属ページから新 URL へリンク更新
-- [ ] 学会データの YAML 化（更新効率向上）
+- [x] 学会データの YAML 化（更新効率向上）→ `conferences/data/conferences.yml`
 - [ ] 日本語履歴の独立ページ (`/cv/ja`)
 - [ ] アクセス解析（Plausible / Google Analytics）
 

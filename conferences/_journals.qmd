@@ -1,0 +1,19 @@
+## Journal
+
+- [Mark Stamp’s Security Journals](https://www.cs.sjsu.edu/~stamp/securityJournals.html)
+- [FIU Cybersecurity Journals](https://cyber.fiu.edu/security-journals/)
+
+### IEEE/ACM
+
+#### Top
+
+- [IEEE Transactions on Dependable and Secure Computing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8858)
+- [IEEE Transactions on Information Forensics and Security](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=10206)
+- [ACM Transactions on Privacy and Security](https://dl.acm.org/journal/tops)
+
+#### Below Tier 2
+
+- [IEEE/ACM Transactions on Networking](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=90)
+- [IEEE Transactions on Network and Service Management](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4275028)
+- [IEEE Transactions on Network Science and Engineering](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6488902)
+- [Digital Threats: Research and Practice](https://dl.acm.org/journal/dtrap)

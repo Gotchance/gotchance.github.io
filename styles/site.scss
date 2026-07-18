@@ -321,7 +321,85 @@ details.cv-details[open] > summary {
 
 .table-scroll {
   overflow-x: auto;
-  margin: 1rem 0;
+  -webkit-overflow-scrolling: touch;
+  margin: 1rem 0 1.5rem 0;
+  border: 1px solid #dee2e6;
+  border-radius: 4px;
+  background: #fff;
+}
+
+.table-scroll > table {
+  margin: 0;
+  font-size: 0.85rem;
+  width: max-content;
+  max-width: none;
+}
+
+.table-scroll-wide > table {
+  min-width: 56rem;
+}
+
+.table-scroll > table th,
+.table-scroll > table td {
+  white-space: normal;
+  vertical-align: top;
+  line-height: 1.35;
+  padding: 0.45rem 0.55rem;
+}
+
+.table-scroll-wide > table th:not(:first-child),
+.table-scroll-wide > table td:not(:first-child) {
+  max-width: 10.5rem;
+  min-width: 7.5rem;
+}
+
+.table-scroll-wide > table th:nth-child(2),
+.table-scroll-wide > table td:nth-child(2) {
+  max-width: 6.5rem;
+  min-width: 5rem;
+  white-space: nowrap;
+}
+
+.table-scroll-wide > table th:first-child,
+.table-scroll-wide > table td:first-child {
+  position: sticky;
+  left: 0;
+  z-index: 1;
+  background: #fff;
+  box-shadow: 2px 0 4px rgba(0, 0, 0, 0.06);
+  min-width: 9.5rem;
+  max-width: 12.5rem;
+}
+
+.table-scroll-wide > table tbody tr:nth-child(even) td:first-child {
+  background: #f8f9fa;
+}
+
+.table-scroll-wide > table thead th:first-child {
+  z-index: 2;
+  background: #f8f9fa;
+}
+
+.table-scroll-wide > table tbody tr:has(td:first-child strong):not(:has(td:nth-child(2):not(:empty))) td,
+.table-scroll-wide > table tbody tr.section-row td {
+  background: #eef2f6;
+  font-size: 0.8rem;
+}
+
+.table-scroll-wide > table td br {
+  display: block;
+  content: "";
+  margin-top: 0.15rem;
+}
+
+.table-scroll a .bi-bar-chart-line {
+  font-size: 0.9em;
+  opacity: 0.65;
+  vertical-align: -0.05em;
+}
+
+.table-scroll a:hover .bi-bar-chart-line {
+  opacity: 1;
 }
 
 @media (max-width: 640px) {

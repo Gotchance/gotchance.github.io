@@ -5,6 +5,8 @@ project:
     - index.qmd
     - cv/index.qmd
     - conferences/index.qmd
+  pre-render:
+    - scripts/render-conference-table.sh
   post-render:
     - scripts/render-cv-pdf.sh
 

@@ -4,6 +4,9 @@
 **/*.knit.md
 **/*.utf8.md
 
+# Local Python venv (PyYAML for conference table)
+.venv/
+
 # docs/ は GitHub Pages 公開のためコミット対象（gitignore しない）
 
 # OS

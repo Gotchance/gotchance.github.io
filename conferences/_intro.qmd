@@ -1,0 +1,31 @@
+::: {.callout-note}
+## About
+
+This page was created by [Chansu Han](https://gotchance.github.io/). The main purpose is to track submission deadlines, rankings, and venues of conferences of interest. Information is updated occasionally and may be incomplete—please use it as a reference.
+:::
+
+**Ranking (Computer Security)**
+
+- [Research.com — Best Computer Science Conferences for Computer Security and Cryptography](https://research.com/conference-rankings/computer-science/computer-security-cryptography)
+- [Google Scholar — Top Publications for Computer Security & Cryptography](https://scholar.google.com/citations?view_op=top_venues&hl=en&vq=eng_computersecuritycryptography)
+- [Computer Security Conference Ranking and Statistic by Guofei Gu](http://faculty.cs.tamu.edu/guofei/sec_conf_stat.htm)
+- [Top Cyber Security Conferences Ranking by Jianying Zhou](http://jianying.space/conference-ranking.html)
+
+**CFP Calendar**
+
+- [sec-deadlines.github.io](https://sec-deadlines.github.io/)
+- [IEEE Cipher’s Calendar of Security and Privacy Related Events](http://www.ieee-security.org/CFP/Cipher-Call-for-Papers.html)
+- [WikiCFP](http://www.wikicfp.com/cfp/)
+
+**Information of Conferences in Other Fields**
+
+- [Networking Conferences Statistics](https://www.cs.ucsb.edu/~almeroth/conf/stats/)
+
+**Ranking (Computer Science)**
+
+- [Research.com — Top Computer Science Conferences](https://research.com/conference-rankings/computer-science)
+- [CORE Conference Rankings](https://portal.core.edu.au/conf-ranks/)
+- [Google Scholar — Top Publications](https://scholar.google.es/citations?view_op=top_venues&hl=en)
+- [AMiner — Conference Rank: Computer Science](https://www.aminer.org/ranks/conf)
+- [Conference Ranks — Microsoft Academic field ratings](http://www.conferenceranks.com/visualization/msar2014.html)
+- [Conference Ranks](http://www.conferenceranks.com/index.html)

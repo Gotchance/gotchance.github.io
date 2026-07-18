@@ -1,0 +1,93 @@
+## By Tier
+### Tier1
+- CCS (ACM Conference on Computer and Communications Security)
+  - Open Access: Optional? (ACM Digital Library)
+  - Slide: No
+  - Video: Optional? (ACM Digital Library)
+- USENIX Security (USENIX Security Symposium)
+  - Open Access: Yes
+  - Slide: Yes
+  - Video: Yes
+- NDSS (Network and Distributed System Security Symposium)
+  - Open Access: Yes
+  - Slide: Yes
+  - Video: Yes (https://www.youtube.com/c/NDSSSymposium/)
+- S&P (IEEE Symposium on Security and Privacy)
+  - Open Access: Yes
+  - Slide: Depends on the year?
+  - Video: Yes (https://www.youtube.com/channel/UC6pXMS7qre9GZW7A7FVM90Q/)
+
+### Tier2
+- RAID (International Symposium on Research in Attacks, Intrusions and Defenses)
+  - Open Access: Yes (2019~)
+  - Slide: No
+  - Video: No
+- ESORICS (European Symposium on Research in Computer Security)
+  - Open Access: No
+  - Slide: No
+  - Video: No
+- ACSAC (Annual Computer Security Applications Conference)
+  - Open Access: Yes (2019~?)
+  - Slide: Yes (2019~?)
+  - Video: Yes
+- IMC (Internet Measurement Conference)
+  - Open Access: Yes
+  - Slide: Yes
+  - Video: Yes
+- AsiaCCS (ACM ASIA Conference on Computer and Communications Security)
+  - Open Access: Optional
+  - Slide: No
+  - Video: No
+- EuroS&P (IEEE European Symposium on Security and Privacy)
+  - Open Access: No
+  - Slide: No
+  - Video: No
+- DSN (IEEE/IFIP International Conference on Dependable Systems and Networks)
+  - Open Access: No
+  - Slide: No
+  - Video: No
+- CSF (IEEE Computer Security Foundations Symposium)
+  - Open Access: Yes (2018~)
+  - Slide: Depends on the year
+  - Video: No
+
+
+### Tier3
+- ACNS (International Conference on Applied Cryptography and Network Security)
+- SAC (ACM Symposium on Applied Computing)
+- CODASPY (ACM Conference on Data and Application Security and Privacy)
+- CNS (IEEE Conference on Communications and Network Security)
+- SOUPS (Symposium On Usable Privacy and Security)
+- WiSec	(ACM Conference on Security and Privacy in Wireless and Mobile Networks)
+- DIMVA (SIG SIDAR Conference on Detection of Intrusions and Malware & Vulnerability Assessment)
+- ISC (Information Security Conference)
+- SecureComm(Internation Conference on Security and Privacy in Communication Networks)
+- IFIP SEC (International Conference on ICT Systems Security and Privacy Protection)
+- MALCON (International Conference on Malicious and Unwanted Software)
+- ICICS (International Conference on Information and Communications Security)
+- ICISC (International Conference on Information Security and Cryptology)
+- ACISP (Australasian Conference on Information Security and Privacy)
+
+
+### Tier ?? (2~3.5)
+
+Conferences not listed on [Prof. Guofei Gu's page](http://faculty.cs.tamu.edu/guofei/sec_conf_stat.htm).
+
+**Closer to Tier 2**
+
+- IEEE ICC (IEEE International Conference on Communications)
+- IEEE GlobeCom (IEEE Global Communications Conference)
+- IEEE TrustCom (IEEE International Conference on Trust, Security and Privacy in Computing and Communications)
+
+**Other / mid-tier**
+
+- IEEE ISCC (IEEE Symposium on Computers and Communications)
+- IEEE NOMS (IEEE/IFIP Network Operations and Management Symposium)
+- AsiaJCIS (Asia Joint Conference on Information Security; mid. Apr)
+- IWSEC (International Workshop on Security; end. Mar)
+- PST (International Conference on Privacy, Security and Trust; end. Apr)
+- ICISSP (International Conference on Information Systems Security and Privacy)
+- WISA (World Conference on Information Security Applications)
+- ARES (International Conference on Availability, Reliability and Security)
+- ICCCN (International Conference on Computer Communications and Networks)
+- IoTBDS (International Conference on Internet of Things, Big Data and Security)

@@ -1,0 +1,1326 @@
+# Conference deadlines — edit this file, then re-render.
+# Table is generated into conferences/_list.qmd by scripts/render-conference-table.py
+
+years:
+- 2027
+- 2026
+- 2025
+- 2024
+- 2023
+- 2022
+- 2021
+- 2020
+conferences:
+- name: ACM CCS
+  tier: '1'
+  approx_dl: Jan, Apr
+  h5: https://scholar.google.com/citations?hl=en&view_op=search_venues&vq=%22ACM+Symposium+on+Computer+and+Communications+Security%22
+  editions:
+    2027:
+      label: Oct TBA, Atlanta
+      url: https://www.sigsac.org/ccs/CCS2027/
+    2026:
+      label: Nov 15-19, The Hague, Netherlands
+      url: https://www.sigsac.org/ccs/CCS2026/
+      dl: Jan 14, Apr 29
+    2025:
+      label: Oct 13-17, Taipei, Taiwan
+      url: https://www.sigsac.org/ccs/CCS2025/
+    2024:
+      label: Oct 14-18, Salt Lake City
+      url: https://www.sigsac.org/ccs/CCS2024/
+    2023:
+      label: Nov 26-30, Copenhagen, Denmark
+      url: https://www.sigsac.org/ccs/CCS2023/
+    2022:
+      label: Nov 7-11, LA
+      url: https://www.sigsac.org/ccs/CCS2022/
+    2021:
+      label: Nov 14-19, Seoul, Korea
+      url: https://sigsac.org/ccs/CCS2021/
+    2020:
+      label: Nov 9-13, Orlando
+      url: https://sigsac.org/ccs/CCS2020/
+- name: ESORICS
+  tier: '2'
+  approx_dl: Jan, Apr
+  h5: https://scholar.google.com/citations?hl=en&view_op=search_venues&vq=European+Symposium+on+Research+in+Computer+Security
+  editions:
+    2026:
+      label: Sep 14-18, Rome, Italy
+      url: https://sites.google.com/di.uniroma1.it/esorics2026/
+      dl: Jan 9, Apr 21
+    2025:
+      label: Sep 22-26, Toulouse, France
+      url: https://esorics2025.sciencesconf.org/
+    2024:
+      label: Sep 16-20, Bydgoszcz, Poland
+      url: https://esorics2024.org/
+    2023:
+      label: Sep 25-29, The Hague, Netherlands
+      url: https://esorics2023.org/
+    2022:
+      label: Sep 26-30, Copenhagen, Denmark
+      url: https://esorics2022.compute.dtu.dk/
+    2021:
+      label: Oct 04–08, online
+      url: https://esorics2021.athene-center.de/
+      dl: Jan 12, May 12
+    2020:
+      label: Guildford, UK
+      url: http://esorics2020.sccs.surrey.ac.uk/
+      dl: Apr 24
+- name: ICICS
+  tier: '3'
+  approx_dl: Mar, Jun
+  h5: https://scholar.google.com/citations?hl=en&view_op=search_venues&vq=International+Information+and+Communications+Security+Conference
+  editions:
+    2026:
+      label: Oct 27-30, Fukui, Japan
+      url: https://sulab-sever.u-aizu.ac.jp/icics2026/
+    2025:
+      label: Oct 29-31, Nanjing, China
+      url: https://www.icics2025.org/
+    2024:
+      label: Aug 26-28, Mytilene, Greece
+      url: https://icics2024.aegean.gr/
+    2023:
+      label: Nov 18-20, Tianjin, China
+      url: https://icics23.nankai.edu.cn/
+      dl: Apr 6
+    2022:
+      label: Sep 5-8, Canterbury, UK
+      url: https://icics2022.cyber.kent.ac.uk/
+      dl: Apr 11
+    2021:
+      label: Sep 17-19, Chongqing, China
+      url: https://www.icics.cn/
+      dl: May 22
+    2020:
+      label: Copenhagen, Denmark
+      url: http://icics2020.compute.dtu.dk/
+- name: NDSS
+  tier: '1'
+  approx_dl: May, Aug
+  h5: https://scholar.google.com/citations?hl=en&view_op=search_venues&vq=Network+and+Distributed+System+Security+Symposium
+  editions:
+    2027:
+      label: Mar 22-26, Seoul, Korea
+      url: https://www.ndss-symposium.org/ndss2027/
+      dl: May 6, Aug 19
+    2026:
+      label: Feb 23-27, San Diego
+      url: https://www.ndss-symposium.org/ndss2026/
+    2025:
+      label: Feb 23-28, San Diego
+      url: https://www.ndss-symposium.org/ndss2025/
+    2024:
+      label: Feb 26-Mar 1, San Diego
+      url: https://www.ndss-symposium.org/ndss2024/
+    2023:
+      label: Feb 27-Mar 3, San Diego, CA
+      url: https://www.ndss-symposium.org/ndss2023/
+    2022:
+      label: Feb 27–Mar 3, San Diego, CA
+      url: https://www.ndss-symposium.org/ndss2022/
+    2021:
+      label: Feb 21–24, online
+      url: https://www.ndss-symposium.org/ndss-2021/
+    2020:
+      label: Feb 23-26, San Diego, CA
+      url: https://www.ndss-symposium.org/ndss2020/
+- name: IEEE S&P
+  tier: '1'
+  approx_dl: Jun, Nov
+  h5: https://scholar.google.com/citations?hl=en&view_op=search_venues&vq=%22IEEE+Symposium+on+Security+and+Privacy%22
+  editions:
+    2027:
+      label: May TBA, Montreal, Canada
+      url: https://sp2027.ieee-security.org/
+      dl: Jun 11, Nov 17
+    2026:
+      label: May 18-21, San Francisco
+      url: https://sp2026.ieee-security.org/
+    2025:
+      label: May 12-14, San Francisco, CA
+      url: https://sp2025.ieee-security.org/
+    2024:
+      label: May 20-22, San Francisco
+      url: https://sp2024.ieee-security.org/
+    2023:
+      label: May 22-26, San Francisco, CA
+      url: https://www.ieee-security.org/TC/SP2023/
+    2022:
+      label: May 22-26, San Francisco, CA
+      url: https://www.ieee-security.org/TC/SP2022/
+    2021:
+      label: May 23-27, online
+      url: https://www.ieee-security.org/TC/SP2021/
+    2020:
+      label: May 18-20, San Francisco, CA
+      url: https://www.ieee-security.org/TC/SP2020/
+- name: IEEE CSF
+  tier: '2'
+  approx_dl: Jul, Oct, Jan
+  h5: https://scholar.google.com/citations?hl=en&view_op=search_venues&vq=IEEE+Computer+Security+Foundations+Symposium
+  editions:
+    2027:
+      label: TBA, 2027
+      url: https://csf2027.ieee-security.org/
+      dl: Aug 3, Oct 15, Jan 28
+    2026:
+      label: Jul 26-29, Lisbon, Portugal
+      url: https://csf2026.ieee-security.org/
+    2025:
+      label: Jun 16-20, Santa Cruz, CA
+      url: https://www.ieee-security.org/TC/CSF2025/
+    2024:
+      label: Jul 8-12, Enschede, Netherlands
+      url: https://www.ieee-security.org/TC/CSF2024/
+    2023:
+      label: Jul 9-13, Dubrovnik, Croatia
+      url: https://www.ieee-security.org/TC/CSF2023/
+    2022:
+      label: Aug 7-10, Haifa, Israel
+      url: https://www.ieee-security.org/TC/CSF2022/
+    2021:
+      label: Jun 21-25, online
+      url: https://www.ieee-security.org/TC/CSF2021/
+    2020:
+      label: Jun 22-26, online
+      url: https://www.ieee-security.org/TC/CSF2020/
+- name: USENIX Security
+  tier: '1'
+  approx_dl: Aug, Jan
+  h5: https://scholar.google.com/citations?hl=en&view_op=search_venues&vq=USENIX+Security+Symposium
+  editions:
+    2027:
+      label: Aug 11-13, Denver, CO
+      url: https://www.usenix.org/conference/usenixsecurity27
+      dl: Aug 25, Jan 26
+    2026:
+      label: Aug 12-14, Baltimore, MD
+      url: https://www.usenix.org/conference/usenixsecurity26
+      dl: Feb 5
+    2025:
+      label: Aug 13-15, Seattle
+      url: https://www.usenix.org/conference/usenixsecurity25
+    2024:
+      label: Aug 14-16, Philadelphia
+      url: https://www.usenix.org/conference/usenixsecurity24
+    2023:
+      label: Aug 9-11, Anaheim, CA
+      url: https://www.usenix.org/conference/usenixsecurity23
+    2022:
+      label: Aug 10–12, Boston, MA
+      url: https://www.usenix.org/conference/usenixsecurity22
+    2021:
+      label: Aug 11–13, online
+      url: https://www.usenix.org/conference/usenixsecurity21
+    2020:
+      label: Aug 12–14, Boston, MA
+      url: https://www.usenix.org/conference/usenixsecurity20
+- name: ACM AsiaCCS
+  tier: '2'
+  approx_dl: Aug, Dec
+  h5: https://scholar.google.com/citations?hl=en&view_op=search_venues&vq=ACM+ASIA+Conference+on+Computer+and+Communications+Security
+  editions:
+    2027:
+      label: Jul 12-16, Macau, China
+      url: https://asiaccs2027.cityu.edu.mo/
+      dl: Aug 21, Dec 11
+    2026:
+      label: Jun 1-5, Bangalore, India
+      url: https://asiaccs2026.cse.iitkgp.ac.in/home/
+      dl: Aug 25, Dec 12
+    2025:
+      label: Aug 25-29, Hanoi, Vietnam
+      url: https://asiaccs2025.hust.edu.vn/
+    2024:
+      label: Jul 1-5, Singapore
+      url: https://asiaccs2024.sutd.edu.sg/
+    2023:
+      label: Jul 10-14, Melbourne, Australia
+      url: https://asiaccs2023.org/
+    2022:
+      label: May 30-Jun 3, Nagasaki
+      url: https://asiaccs2022.conferenceservice.jp/
+      dl: Jul 30, Nov 19
+    2021:
+      label: Jun 7-11, online
+      url: https://asiaccs2021.comp.polyu.edu.hk/
+      dl: 21 Aug, 11 Dec
+    2020:
+      label: Oct 5-9, Taipei, Taiwan
+      url: https://asiaccs2020.cs.nthu.edu.tw/
+- name: ACNS
+  tier: '3'
+  approx_dl: Sep, Jan
+  h5: https://scholar.google.com/citations?hl=en&view_op=search_venues&vq=Applied+Cryptography+and+Network+Security
+  editions:
+    2027:
+      label: Jun 28-Jul 1, Egham, UK
+      url: https://acns2027.isg.rhul.ac.uk/
+      dl: Sep 24, Jan 21
+    2026:
+      label: Jun 22-25, Stony Brook, NY
+      url: https://acns2026.github.io/
+    2025:
+      label: Jun 23-26, Munich, Germany
+      url: http://acns2025.fordaysec.de/
+    2024:
+      label: Mar 5-8, Abu Dhabi, UAE
+      url: https://wp.nyu.edu/acns2024/
+    2023:
+      label: Jun 19-22, Kyoto, Japan
+      url: https://sulab-sever.u-aizu.ac.jp/acns2023/
+    2022:
+      label: Jun 20-23, Rome, Italy
+      url: https://sites.google.com/di.uniroma1.it/acns2022/
+    2021:
+      label: Jun 21-24, online
+      url: http://sulab-sever.u-aizu.ac.jp/ACNS2021/index.html
+    2020:
+      label: Oct 19-22, online
+      url: https://sites.google.com/di.uniroma1.it/ACNS2020/home
+- name: ACM WiSec
+  tier: '3'
+  approx_dl: Nov, Mar
+  editions:
+    2026:
+      label: Jun 30-Jul 3, Saarbrücken, Germany
+      url: https://wisec26.events.cispa.de/
+      dl: Nov 18, Mar 3
+    2025:
+      label: Jun 30-Jul 3, Arlington, VA
+      url: https://wisec2025.gmu.edu/
+    2024:
+      label: May 27-30, Seoul, Korea
+      url: https://wisec2024.kaist.ac.kr/
+    2023:
+      label: May 29-Jun 1, Guildford, UK
+      url: https://wisec2023.surrey.ac.uk/home/
+    2022:
+      label: May 16-19, San Antonio, TX
+      url: https://wisec2022.cs.utsa.edu/
+      dl: Feb 12
+    2021:
+      label: Jun 28-Jul 2, online
+      url: https://sites.nyuad.nyu.edu/wisec21/
+      dl: Mar 25
+    2020:
+      label: Jul 8-10, online
+      url: https://wisec2020.ins.jku.at/
+      dl: Mar 13
+- name: ACISP
+  tier: '3'
+  approx_dl: Nov, Feb
+  h5: https://scholar.google.com/citations?hl=en&view_op=search_venues&vq=ACISP
+  editions:
+    2026:
+      label: Jul 6-9, Perth, Australia
+      url: https://acisp.org/index.html
+    2025:
+      label: Jul 14-16, Wollongong, Australia
+      url: https://uow-ic2.github.io/acisp2025/
+    2024:
+      label: Jul 15-17, Sydney, Australia
+      url: https://www.qut.edu.au/about/faculty-of-science/school-of-computer-science/acisp
+    2023:
+      label: Jul 5-7, Brisbane, Australia
+      url: https://www.qut.edu.au/about/faculty-of-science/school-of-computer-science/acisp
+      dl: Feb 13
+    2022:
+      label: Nov 28-30, Wollongong, Australia
+      url: https://uow-ic2.github.io/acisp2022/
+      dl: Feb 21
+    2021:
+      label: Jul 7-9, Perth, Australia
+      url: https://data61dsslab.github.io/acisp2021/
+      dl: Feb 15
+    2020:
+      label: Perth, Australia
+      url: http://nsclab.org/acisp2020/cfp.html
+- name: IMC
+  tier: '2'
+  approx_dl: Nov, Apr
+  h5: https://scholar.google.com/citations?hl=en&view_op=search_venues&vq=Internet+Measurement+Conference
+  editions:
+    2026:
+      label: Oct 12-16, Karlsruhe, Germany
+      url: https://conferences.sigcomm.org/imc/2026/
+      dl: Nov 20, Apr 29
+    2025:
+      label: Oct 28-31, Madison, WI
+      url: https://conferences.sigcomm.org/imc/2025/
+    2024:
+      label: Nov 4-6, Madrid, Spain
+      url: https://conferences.sigcomm.org/imc/2024/
+      dl: May 15
+    2023:
+      label: Oct 24-26, Montreal, Canada
+      url: https://conferences.sigcomm.org/imc/2023/
+      dl: May 26
+    2022:
+      label: Oct 25-27, Nice, France
+      url: https://conferences.sigcomm.org/imc/2022/
+      dl: May 18
+    2021:
+      label: Nov 2-4, online
+      url: https://conferences.sigcomm.org/imc/2021/
+      dl: May 26
+    2020:
+      label: Oct 27-29, Pittsburgh, PA
+      url: https://conferences.sigcomm.org/imc/2020/
+      dl: May 26
+- name: ACM CoNEXT
+  approx_dl: Dec, Jun
+  h5: https://scholar.google.com/citations?hl=en&view_op=search_venues&vq=CoNEXT
+  editions:
+    2026:
+      label: Dec 7-11, Utrecht, Netherlands
+      url: https://conferences.sigcomm.org/co-next/2026/#!/home
+      dl: Dec 12, Jun 5
+    2025:
+      label: Dec 1-4, Hong Kong
+      url: https://conferences.sigcomm.org/co-next/2025/#!/home
+    2024:
+      label: Dec 9-12, LA
+      url: https://conferences.sigcomm.org/co-next/2024/#!/home
+    2023:
+      label: Dec 5-8, Paris, France
+      url: http://conferences.sigcomm.org/co-next/2023/#!/home
+    2022:
+      label: Dec 6-9, Rome, Italy
+      url: https://conferences2.sigcomm.org/co-next/2022/#!/home
+      dl: Jun 29
+    2021:
+      label: Dec 6-10, Munich, Germany
+      url: https://conferences.sigcomm.org/co-next/2021/#!/home
+      dl: Jun 28
+    2020:
+      label: Dec 1-4, Barcelona, Spain
+      url: https://conferences.sigcomm.org/co-next/2020/#!/home
+      dl: Jun 24
+- name: DIMVA
+  tier: '3'
+  approx_dl: Dec, Feb
+  editions:
+    2026:
+      label: Jul 1-3, Chania, Greece
+      url: https://dimva.org/dimva2026/
+      dl: Dec 10, Feb 11
+    2025:
+      label: Jul 9-11, Graz, Austria
+      url: https://www.dimva.org/dimva2025/
+    2024:
+      label: Jul 17-19, Lausanne, Switzerland
+      url: https://www.dimva.org/dimva2024/
+    2023:
+      label: Jul 12-14, Hamburg, Germany
+      url: https://dimva2023.de/
+    2022:
+      label: Jun 29-Jul 1, Cagliari, Italy
+      url: https://sites.unica.it/dimva2022/
+      dl: Mar 17
+    2021:
+      label: Jul 14-16, Lisboa, Portugal
+      url: https://dimva2021.campus.ciencias.ulisboa.pt/
+      dl: Feb 23
+    2020:
+      label: Jun 4-26, Lisboa, Portugal
+      url: https://dimva2020.campus.ciencias.ulisboa.pt/
+- name: SecureComm
+  tier: '3'
+  approx_dl: Jan, Feb
+  h5: https://scholar.google.com/citations?hl=en&view_op=search_venues&vq=Security+and+Privacy+in+Communication+Networks
+  editions:
+    2026:
+      label: Jul 21-24, Lancaster, UK
+      url: https://securecomm.eai-conferences.org/2026/
+      dl: Jan 15, Feb 15
+    2025:
+      label: Jul 4-6, Xiangtan, China
+      url: https://securecomm.eai-conferences.org/2025/
+      dl: Apr 10
+    2024:
+      label: Oct 28-30, Dubai, UAE
+      url: https://securecomm.eai-conferences.org/2024/
+      dl: May 10
+    2023:
+      label: Oct 19-21, Hong Kong
+      url: https://securecomm.eai-conferences.org/2023/
+      dl: May 20
+    2022:
+      label: Oct 17-19, Kansas City
+      url: https://securecomm.eai-conferences.org/2022/
+      dl: Apr 17
+    2021:
+      label: Sep 6-9, Canterbury, UK
+      url: https://securecomm.eai-conferences.org/2021/
+      dl: Mar 15
+    2020:
+      label: Oct 21-23, Washington
+      url: https://securecomm.eai-conferences.org/2020/
+- type: section
+  label: Multi-Cycle (above)
+- type: section
+  label: Single-Cycle (below)
+- name: CODASPY
+  tier: '3'
+  approx_dl: beg. Jan
+  h5: https://scholar.google.com/citations?hl=en&view_op=search_venues&vq=ACM+Conference+on+Data+and+Application+Security+and+Privacy
+  editions:
+    2026:
+      label: Jun 23-25, Frankfurt, Germany
+      url: https://www.codaspy.org/2026/
+      dl: Jan 2
+    2025:
+      label: Jun 4-6, Pittsburgh
+      url: https://www.codaspy.org/2025/
+      dl: Dec 6, 2024
+    2024:
+      label: Jun 19-21, Porto, Portugal
+      url: https://www.codaspy.org/2024/
+      dl: Dec 29, 2023
+    2023:
+      label: Apr 24-26, Charlotte
+      url: http://www.codaspy.org/2023/
+      dl: Oct 17
+    2022:
+      label: Apr 24-26
+      url: http://www.codaspy.org/2022/
+      dl: Oct 4, 2021
+    2021:
+      label: Apr 26-28, online
+      url: http://www.codaspy.org/2021/
+      dl: Oct 1, 2020
+    2020:
+      label: Aug 3-4, online
+      url: http://www.codaspy.org/2020/
+      dl: Sep 23
+- name: USENIX SOUPS
+  tier: '3'
+  approx_dl: mid. Feb
+  h5: https://scholar.google.com/citations?hl=en&view_op=search_venues&vq=Usable+Privacy+and+Security
+  editions:
+    2026:
+      label: Aug 23-26, Hannover, Germany
+      url: https://soups.page/
+      dl: Feb 19
+    2024:
+      label: Aug 11-13, Philadelphia
+      url: https://www.usenix.org/conference/soups2024
+      dl: Feb 15
+    2023:
+      label: Aug 6-8, Anaheim
+      url: https://www.usenix.org/conference/soups2023
+      dl: Feb 16
+    2022:
+      label: Aug 7-9, Boston, MA
+      url: https://www.usenix.org/conference/soups2022
+      dl: Feb 17
+    2021:
+      label: Aug 8–10, Vancouver, Canada
+      url: https://www.usenix.org/conference/soups2021
+      dl: Feb 25
+    2020:
+      label: Aug 9–11, Boston, MA
+      url: https://www.usenix.org/conference/soups2020
+- name: IEEE ISCC
+  approx_dl: mid. Feb
+  h5: https://scholar.google.com/citations?hl=en&view_op=search_venues&vq=%22IEEE+Symposium+on+Computers+and+Communications%22
+  editions:
+    2026:
+      label: Jun 23-26, Vilamoura, Portugal
+      url: https://ieee-iscc.computer.org/2026/
+      dl: Feb 20, 2026
+    2025:
+      label: Jul 2-5, Bologna, Italy
+      url: https://ieee-iscc.computer.org/2025/
+      dl: Jan 10
+    2024:
+      label: Jun 26-29, Paris, France
+      url: https://attend.ieee.org/iscc-2024/
+      dl: Feb 23
+    2023:
+      label: Jul 9-12, Tunis, Tunisia
+      url: https://2023.ieee-iscc.org/
+      dl: Apr 9
+    2022:
+      label: Jun 30-Jul3, Rhodes, Greece
+      url: https://iscc2022.unipi.gr/
+      dl: Mar 14
+    2021:
+      label: Sep 5-8, Athens, Greece
+      url: https://iscc2021.unipi.gr/index.php
+      dl: May 15
+    2020:
+      label: Jul 7-10, Rennes, France
+      url: https://iscc2020.live-website.com/home
+- name: IEEE COMPSAC
+  approx_dl: mid. Feb
+  h5: https://scholar.google.com/citations?hl=en&view_op=search_venues&vq=COMPSAC
+  editions:
+    2026:
+      label: Jul 13-17, Madrid, Spain
+      url: https://ieeecompsac.computer.org/2026/
+      dl: Feb 20, 2026
+    2025:
+      label: Jul 8-11, Toronto, Canada
+      url: https://ieeecompsac.computer.org/2025/
+      dl: Jan 31
+    2024:
+      label: Jul 2-4, Osaka, Japan
+      url: https://ieeecompsac.computer.org/2024/
+      dl: Feb 15
+    2023:
+      label: Jun 26-30, Torino, Italy
+      url: https://ieeecompsac.computer.org/2023/
+      dl: Feb 15
+    2022:
+      label: Jun 27-Jul 1, online
+      url: https://ieeecompsac.computer.org/2022/
+      dl: Feb 18
+    2021:
+      label: Jul 12-16, online
+      url: https://ieeecompsac.computer.org/2021/sept/
+      dl: Feb 18
+- name: IoTBDS
+  approx_dl: mid. Mar
+  h5: https://scholar.google.com/citations?hl=en&view_op=search_venues&vq=%22International+Conference+on+Internet+of+Things+and+Big+Data%22
+  editions:
+    2026:
+      label: May 21-23, Benidorm, Spain
+      url: https://iotbds.scitevents.org/
+      dl: Mar 17
+    2025:
+      label: Apr 6-8, Porto, Portugal
+      url: https://iotbds.scitevents.org/Home.aspx
+      dl: Dec 13, 2024
+    2024:
+      label: Apr 28-30, Angers, France
+      url: https://iotbds.scitevents.org/Home.aspx
+      dl: Dec 13
+    2023:
+      label: Apr 21-23, Prague, Czech
+      url: https://iotbds.scitevents.org/Home.aspx
+      dl: Nov 18, 2022
+- name: ICCCN
+  approx_dl: mid. Mar
+  h5: https://scholar.google.com/citations?hl=en&view_op=search_venues&vq=International+Conference+on+Computer+Communications+and+Networks
+  editions:
+    2026:
+      label: Jul 27-30, Honolulu, Hawaii
+      url: http://www.icccn.org/
+      dl: Mar 13
+    2025:
+      label: Aug 4-7, Tokyo, Japan
+      url: http://www.icccn.org/index.html
+      dl: Feb 13
+    2024:
+      label: Jul 29-31, Big Island, Hawaii
+      url: http://www.icccn.org/index.html
+      dl: Mar 1
+    2023:
+      label: Jul 24-26, Waikiki Beach
+      url: http://www.icccn.org/index.html
+      dl: Mar 17
+    2022:
+      label: Jul 25-28, online
+      url: http://www.icccn.org/
+      dl: Mar 20
+    2021:
+      label: Jul 19-22, online
+      url: http://www.icccn.org/icccn21/index.html
+      dl: Mar 5
+- name: ARES
+  approx_dl: mid. Mar
+  h5: https://scholar.google.com/citations?hl=en&view_op=search_venues&vq=International+Conference+on+Availability%2C+Reliability+and+Security
+  editions:
+    2026:
+      label: Aug 24-27, Linköping, Sweden
+      url: https://www.ares-conference.eu/
+      dl: Mar 9
+    2025:
+      label: Aug 11-14, Ghent, Belgium
+      url: https://2025.ares-conference.eu/
+      dl: Mar 11
+    2024:
+      label: Jul 30-Aug 2, Vienna, Austria
+      url: https://www.ares-conference.eu/
+      dl: Feb 28
+    2023:
+      label: Aug 29-Sep 1, Benevento, Italy
+      url: https://www.ares-conference.eu/cfp2023/
+      dl: Mar 16
+    2022:
+      label: Aug 23-26, Vienna, Austria
+      url: https://www.ares-conference.eu/
+    2021:
+      label: Aug 17-20, online
+      url: https://www.ares-conference.eu/
+      dl: Mar 25
+- name: TMA
+  approx_dl: end. Mar
+  h5: https://scholar.google.com/citations?hl=en&view_op=search_venues&vq=Traffic+Measurement+and+Analysis
+  editions:
+    2026:
+      label: Jun 29-Jul 2, Delft, Netherlands
+      url: https://tma.ifip.org/2026/
+      dl: Mar 28
+    2025:
+      label: Jun 10-13, Copenhagen, Denmark
+      url: https://tma.ifip.org/2025/
+      dl: Mar 28
+    2024:
+      label: May 21-24, Dresden, Germany
+      url: https://tma.ifip.org/2024/
+      dl: Mar 8
+    2023:
+      label: Jun 26-29, Napoli, Italy
+      url: https://tma.ifip.org/2023/
+      dl: Mar 27
+    2022:
+      label: Jun 27-Jul 1, Enschede, Netherlands
+      url: https://tma.ifip.org/2022/
+      dl: Mar 3
+    2021:
+      label: Sep 13-15, online
+      url: https://tma.ifip.org/2021/
+      dl: Mar 26
+    2020:
+      label: Berlin, Germany
+      url: https://tma.ifip.org/2020/
+- name: RAID
+  tier: '2'
+  approx_dl: mid. Apr
+  h5: https://scholar.google.com/citations?hl=en&view_op=search_venues&vq=Research+in+Attacks
+  editions:
+    2026:
+      label: Oct 11-14, Lancaster, UK
+      url: https://raid2026.org/
+      dl: Apr 16
+    2025:
+      label: Oct 19-22, Gold Coast, Australia
+      url: https://raid2025.github.io/
+      dl: Apr 17
+    2024:
+      label: Sep 30-Oct 2, Padua, Italy
+      url: https://raid2024.github.io/
+      dl: Apr 9
+    2023:
+      label: Oct 16-18, Hong Kong
+      url: https://raid2023.org/welcome.html
+      dl: Mar 29
+    2022:
+      label: Oct 26-28, Limassol, Cyprus
+      url: https://raid2022.cs.ucy.ac.cy/index.html
+      dl: Apr 7
+    2021:
+      label: Oct 6-8, San Sebastian, Spain
+      url: https://raid2021.org/
+      dl: Mar 26
+    2020:
+      label: Oct 14-16, San Sebastian, Spain
+      url: https://raid2020.org/
+      dl: Apr 7
+- name: PST
+  tier: '3'
+  approx_dl: end. Apr
+  h5: https://scholar.google.com/citations?hl=en&view_op=search_venues&vq=%22Conference+on+Privacy%2C+Security+and+Trust%22
+  editions:
+    2026:
+      label: Aug 26-28, Ottawa, Canada
+      url: https://pstnet.ca/pst2026/
+      dl: Apr 28
+    2025:
+      label: Aug 26-28, Fredericton, Canada
+      url: https://pstnet.ca/
+      dl: Apr 4
+    2024:
+      label: Aug 28-30, Sydney, Australia
+      url: https://pstnet.ca/
+      dl: May 1
+    2023:
+      label: Aug 21-23, Copenhagen, Denmark
+      url: https://pstnet.ca/
+      dl: May 20
+    2022:
+      label: Aug 22-24, Fredericton, Canada
+      url: https://pstnet.ca/
+      dl: May 2
+    2021:
+      label: Dec 13-15, Auckland, NZ
+      url: https://pstnet.ca/
+      dl: Aug 16
+    2020:
+      label: Hangzhou, China
+      url: https://pstnet.ca/
+- name: IEEE GlobeCom
+  tier: 2?
+  approx_dl: beg. Apr
+  editions:
+    2026:
+      label: Dec 7-11, Macau, China
+      url: https://globecom2026.ieee-globecom.org/
+      dl: Apr 1
+    2025:
+      label: Dec 8-12, Taipei, Taiwan
+      url: https://globecom2025.ieee-globecom.org/
+      dl: Apr 1
+    2024:
+      label: Dec 8-12, Cape Town, South Africa
+      url: https://globecom2024.ieee-globecom.org/
+      dl: Apr 1
+    2023:
+      label: Dec 4-8, Kuala Lumpur, Malaysia
+      url: https://globecom2023.ieee-globecom.org/
+      dl: May 21
+    2022:
+      label: Dec 4-8, Rio de Janeiro, Brazil
+      url: https://globecom2022.ieee-globecom.org/
+      dl: May 8
+    2021:
+      label: Dec 7-11, Madrid, Spain
+      url: https://globecom2021.ieee-globecom.org/
+      dl: Apr 15
+    2020:
+      label: Taipei, Taiwan
+      url: https://globecom2020.ieee-globecom.org/
+      dl: Apr 15
+- name: AsiaJCIS
+  approx_dl: mid. May
+  editions:
+    2026:
+      label: Aug 4-5, Guangdong, China
+      url: https://asiajcis2026.gdust.edu.cn/index.html
+      dl: May 14
+    2025:
+      label: Aug 19-20, Seoul, Korea
+      url: http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=185833&copyownerid=180591
+      dl: Apr 17
+    2024:
+      label: Aug 13-14, Taiwan
+      url: https://asiajcis2024.web2.ncku.edu.tw/
+      dl: Apr 15
+    2023:
+      label: Aug 15-16, Tokyo, Japan
+      url: https://asiajcis2023.nict.go.jp/index.html
+      dl: May 8
+    2022:
+      label: Aug 15-16, Baoding, China
+      url: https://cs.hbu.edu.cn/asiajcis2022/
+      dl: Apr 24
+    2021:
+      label: Aug 19-20, Seoul, Korea
+      url: http://asiajcis2021.sch.ac.kr/index.php
+      dl: Apr 30
+    2020:
+      label: Aug 20-21, Taipei, Taiwan
+      url: https://asiajcis2020.cs.nccu.edu.tw/index.html
+      dl: Apr 24
+- name: IEEE CNS
+  tier: '3'
+  approx_dl: mid. May
+  h5: https://scholar.google.com/citations?hl=en&view_op=search_venues&vq=%22IEEE+Conference+on+Communications+and+Network+Security%22
+  editions:
+    2026:
+      label: Sep 14-17, Newark, DE
+      url: https://cns2026.ieee-cns.org/
+      dl: May 18
+    2025:
+      label: Sep 8-11, Avignon, France
+      url: https://cns2025.ieee-cns.org/
+      dl: May 5
+    2024:
+      label: Sep 30-Oct 3, Taipei, Taiwan
+      url: https://cns2024.ieee-cns.org/
+      dl: Jun 24
+    2023:
+      label: Oct 2-5, Orlando
+      url: https://cns2023.ieee-cns.org/
+      dl: Jun 12
+    2022:
+      label: Sep 25-28, Austin, TX
+      url: https://cns2022.ieee-cns.org/
+      dl: May 20
+    2021:
+      label: Oct 4-6, online
+      url: https://cns2021.ieee-cns.org/
+      dl: Jun 17
+    2020:
+      label: Jun 29-Jul 1, online
+      url: https://cns2020.ieee-cns.org/
+- name: ICONIP
+  approx_dl: mid. May
+  h5: https://scholar.google.com/citations?hl=en&view_op=search_venues&vq=International+Conference+on+Neural+Information+Processing
+  editions:
+    2026:
+      label: Nov 23-27, Melbourne, Australia
+      url: https://www.iconip2026.org/
+      dl: May 10
+    2025:
+      label: Nov 20-24, Okinawa, Japan
+      url: https://iconip2025.apnns.org/
+      dl: May 22
+    2024:
+      label: Dec 2-6, Auckland, NZ
+      url: https://iconip2024.org/
+      dl: Jul 22
+    2023:
+      label: Nov 20-23, Changsha, China
+      url: http://iconip2023.org/
+      dl: Jun 10
+    2022:
+      label: Nov 22-26, New Delhi, India
+      url: https://www.iconip2022.apnns.org/
+      dl: Jun 15
+    2021:
+      label: Dec 8-12, BALI, Indonesia
+      url: https://iconip2021.apnns.org/
+      dl: Jun 30
+    2020:
+      label: Nov 18-22, Bangkok, Thailand
+      url: http://www.apnns.org/ICONIP2020/file/ICONIP2020-CFP_v4-02.pdf
+      dl: May 1
+- name: ACSAC
+  tier: '2'
+  approx_dl: end. May
+  h5: https://scholar.google.com/citations?hl=en&view_op=search_venues&vq=%22Computer+Security+Applications+Conference%22
+  editions:
+    2026:
+      label: Dec 7-11, LA, CA
+      url: https://www.acsac.org/2026/
+      dl: May 26
+    2025:
+      label: Dec 8-12, Waikiki
+      url: https://www.acsac.org/2025/
+      dl: May 30
+    2024:
+      label: Dec 9-13, Waikiki
+      url: https://www.acsac.org/2024/
+      dl: May 28
+    2023:
+      label: Dec 4-8, Austin
+      url: https://www.acsac.org/2023/
+      dl: May 26
+    2022:
+      label: Dec 5-9, Austin TX
+      url: https://www.acsac.org/2022/
+      dl: Jun 29
+    2021:
+      label: Dec 6-10, Austin, TX
+      url: https://www.acsac.org/2021/
+      dl: Jun 23
+    2020:
+      label: Dec 7-11, Austin, TX
+      url: https://www.acsac.org/2020/
+      dl: Jun 12
+- name: IWSEC
+  approx_dl: mid. Jun
+  editions:
+    2026:
+      label: Nov 24-26, Tokyo, Japan
+      url: https://www.iwsec.org/2026/
+      dl: Jun 18
+    2025:
+      label: Nov 25-27, Fukuoka, Japan
+      url: https://www.iwsec.org/2025/index.html
+      dl: Apr 3, Jul 17
+    2024:
+      label: Sep 17-19, Kyoto, Japan
+      url: https://www.iwsec.org/2024/
+      dl: Apr 16
+    2023:
+      label: Aug 29-31, Yokohama, Japan
+      url: https://www.iwsec.org/2023/
+      dl: Apr 3
+    2022:
+      label: Aug 31-Sep 2, Tokyo
+      url: https://www.iwsec.org/2022/
+      dl: Apr 6
+    2021:
+      label: Sep 8-10, online
+      url: https://www.iwsec.org/2021/
+      dl: Mar 29
+    2020:
+      label: Fukui, Japan
+      url: https://www.iwsec.org/index.html
+- name: IEEE DSC
+  approx_dl: mid. Jun
+  h5: https://scholar.google.com/citations?hl=en&view_op=search_venues&vq=IEEE+Conference+on+Dependable+and+Secure+Computing
+  editions:
+    2026:
+      label: Oct 9-11, New York, NY
+      url: https://attend.ieee.org/dsc-2025/dsc-2026/
+      dl: Jun 12
+    2025:
+      label: Oct 18-20, Taipei, Taiwan
+      url: https://attend.ieee.org/dsc-2025/
+      dl: May 24
+    2024:
+      label: Nov 6-8, Tokyo, Japan
+      url: https://attend.ieee.org/dsc-2024/
+      dl: Jul 18
+    2023:
+      label: Nov 7-9, Tampa
+      url: https://attend.ieee.org/dsc-2023/
+      dl: May 31
+    2022:
+      label: Jun 22-24, Edinburgh, UK
+      url: https://attend.ieee.org/dsc-2022/
+      dl: Jan 31
+    2021:
+      label: Jan 30 - Feb 2, Fukushima, Japan
+      url: http://nsclab.org/dsc2021/
+      dl: Aug 10, 2020
+- name: WISA
+  approx_dl: beg. Jun
+  h5: https://scholar.google.com/citations?hl=en&view_op=search_venues&vq=%22International+Workshop+on+Information+Security+Applications%22
+  editions:
+    2026:
+      label: Aug 26-28, Jeju, Korea
+      url: https://www.wisa.or.kr/
+    2025:
+      label: Aug 20-22, Jeju, Korea
+      url: https://wisa.or.kr/
+      dl: Jun 13
+    2024:
+      label: Aug 21-23, Jeju, Korea
+      url: https://wisa.or.kr/
+      dl: Jun 25
+    2023:
+      label: Aug 23-25, Jeju, Korea
+      url: https://wisa.or.kr/
+      dl: Jun 9
+    2022:
+      label: Aug 24-26, Jeju, Korea
+      url: https://www.wisa.or.kr/
+      dl: May 8
+    2021:
+      label: Aug 11-13, Jeju, Korea
+      url: https://wisa.or.kr/
+      dl: Jun 30
+- name: ISC
+  tier: '3'
+  approx_dl: mid. Jun
+  h5: https://scholar.google.com/citations?hl=en&view_op=list_hcore&venue=Vnq3DIsft2YJ.2024
+  editions:
+    2026:
+      label: Oct 28-30, Rennes, France
+      url: https://isc2026.github.io/
+      dl: Jul 2
+    2025:
+      label: Oct 20-22, Seoul, Korea
+      url: https://isc25.skku.edu/
+      dl: Jun 4
+    2024:
+      label: Oct 23-25, Arlington, VA
+      url: https://isc24.cs.gmu.edu/
+      dl: Jun 6
+    2022:
+      label: Dec 18-22, Bali, Indonesia
+      url: https://isc2022.petra.ac.id/
+      dl: Aug 5
+    2021:
+      label: Nov 9–13, Bali, Indonesia
+      url: https://isc2021.petra.ac.id/
+      dl: Jul 7
+    2020:
+      label: Dec 16–20, Bali, Indonesia
+      url: http://isc2020.petra.ac.id/
+      dl: 28 Jun
+- name: IEEE TrustCom
+  approx_dl: beg. Aug
+  h5: https://scholar.google.com/citations?hl=en&view_op=search_venues&vq=Trust%2C+Security+and+Privacy+in+Computing+and+Communications
+  editions:
+    2024:
+      label: Nov 14-17, Guiyang, China
+      url: https://ieee-aiplus-2025.org/
+      dl: Aug 1
+    2023:
+      label: Dec 17-21, Sanya, China
+      url: http://ieee-aiplus.org/2024/trustcom/index.php
+      dl: Sep 1
+    2022:
+      label: Nov 1-3, Exeter, UK
+      url: https://hpcn.exeter.ac.uk/trustcom2023/
+      dl: Jul 1
+    2021:
+      label: Oct 28-30, Wuhan, China
+      url: http://www.ieee-hust-ncc.org/2022/TrustCom/
+      dl: Jul 1
+    2020:
+      label: Aug 18-20, Shenyang, China
+      url: https://trustcom2021.sau.edu.cn/
+      dl: Mar 20
+- name: IEEE BigData
+  approx_dl: mid. Aug
+  h5: https://scholar.google.com/citations?hl=en&view_op=search_venues&vq=%22IEEE+International+Conference+on+Big+Data%22
+  editions:
+    2026:
+      label: Dec 14-17, Phoenix, AZ
+      url: https://bigdataieee.org/BigData2026/
+      dl: Aug 21
+    2024:
+      label: Dec 15-18, Washington DC
+      url: https://www3.cs.stonybrook.edu/~ieeebigdata2024/
+      dl: Sep 3
+    2023:
+      label: Dec 15-18, Sorrento, Italy
+      url: https://bigdataieee.org/BigData2023/
+      dl: Sep 3
+    2022:
+      label: Dec 17-20, Osaka, Japan
+      url: https://bigdataieee.org/BigData2022/index.html
+      dl: Aug 20
+    2021:
+      label: Dec 15-18, online
+      url: http://bigdataieee.org/BigData2021/
+      dl: Sep 5
+- name: ICISC
+  tier: '3'
+  approx_dl: mid. Sep
+  editions:
+    2024:
+      label: Nov 19-21, Seoul, Korea
+      url: http://www.icisc.org/
+      dl: Sep 5
+    2023:
+      label: Nov 20-22, Seoul, Korea
+      url: http://www.icisc.org/
+      dl: Sep 6
+    2022:
+      label: Nov 29-Dec 1, Seoul, Korea
+      url: http://www.icisc.org/
+      dl: Oct 6
+    2021:
+      label: Nov 30-Dec 2, Seoul, Korea
+      url: http://www.icisc.org/
+      dl: Sep 16
+    2020:
+      label: Dec 1-3, Seoul, Korea
+      url: http://www.icisc.org/
+      dl: Sep 7
+- name: SAC
+  tier: '3'
+  approx_dl: beg. Oct
+  h5: https://scholar.google.com/citations?hl=en&view_op=search_venues&vq=ACM+Symposium+on+Applied+Computing
+  editions:
+    2027:
+      label: Apr 5-9, Gwangju, Korea
+      url: https://www.sigapp.org/sac/sac2027/
+      dl: Oct 2
+    2026:
+      label: Mar 23-27, Thessaloniki, Greece
+      url: https://www.sigapp.org/sac/sac2026/
+      dl: Oct 17
+    2025:
+      label: Mar 31-Apr 4, Sicily, Italy
+      url: https://www.sigapp.org/sac/sac2025/
+      dl: Sep 20, 2024
+    2024:
+      label: Apr 8-12, Avila, Spain
+      url: https://www.sigapp.org/sac/sac2024/
+      dl: Sep 15, 2023
+    2023:
+      label: Mar 27-Apr 2,Tallinn, Estonia
+      url: https://www.sigapp.org/sac/sac2023/
+      dl: Oct 1, 2022
+    2022:
+      label: Apr 25-29, Brno, Czech Republic
+      url: http://www.sigapp.org/sac/sac2022/
+      dl: Oct 15, 2021
+    2021:
+      label: Mar 22-26, online
+      url: http://www.sigapp.org/sac/sac2021/
+      dl: Oct 12
+    2020:
+      label: Mar 30-Apr 3, online
+      url: https://www.sigapp.org/sac/sac2020/index.html
+      dl: Sep 29
+- name: ICISSP
+  approx_dl: Sep, Oct
+  h5: https://scholar.google.com/citations?hl=en&view_op=search_venues&vq=International+Conference+on+Information+Systems+Security+and+Privacy
+  editions:
+    2027:
+      label: Feb 22-24, Valletta, Malta
+      url: https://icissp.scitevents.org/Home.aspx?y=2027
+      dl: Sep 15, Oct 22
+    2026:
+      label: Mar 4-6, Marbella, Spain
+      url: https://icissp.scitevents.org/Home.aspx?y=2026
+    2025:
+      label: Feb 20-22, Porto, Portugal
+      url: https://icissp.scitevents.org/
+      dl: Oct 2 & Nov 13, 2024
+    2024:
+      label: Feb 26-28, Rome, Italy
+      url: https://icissp.scitevents.org/
+      dl: Oct 9
+    2023:
+      label: Feb 16-18, Lisbon, Portugal
+      url: https://icissp.scitevents.org/
+      dl: Oct 10, 2022
+    2022:
+      label: Feb 9-11, Vienna, Austria
+      url: http://www.icissp.org/Home.aspx
+      dl: Sep 14, 2021
+    2021:
+      label: Feb 11-13, online
+      url: http://www.icissp.org/Home.aspx?y=2021
+      dl: Oct 6, 2020
+- name: IEEE NOMS
+  approx_dl: end. Oct
+  h5: https://scholar.google.com/citations?hl=en&view_op=search_venues&vq=IEEE%2FIFIP+Network+Operations+and+Management+Symposium
+  editions:
+    2026:
+      label: May 18-22, Rome, Italy
+      url: https://noms2026.ieee-noms.org/
+      dl: Oct 27, 2025
+    2025:
+      label: May 12-16, Honolulu
+      url: https://noms2025.ieee-noms.org/
+      dl: Sep 13, 2024
+    2024:
+      label: May 6-10, Seoul, Korea
+      url: https://noms2024.ieee-noms.org/
+      dl: Oct 27
+    2023:
+      label: May 8-12, Miami
+      url: https://noms2023.ieee-noms.org/
+      dl: Oct 21
+    2022:
+      label: Apr 25-29, Budapest, Hungary
+      url: https://noms2022.ieee-noms.org/
+      dl: Sep 20, 2021
+    2020:
+      label: Apr 20-24, Budapest, Hungary
+      url: https://noms2020.ieee-noms.org/
+      dl: Oct 2
+- name: IEEE ICC
+  tier: 2?
+  approx_dl: mid. Nov
+  h5: https://scholar.google.com/citations?hl=en&view_op=search_venues&vq=%22IEEE+International+Conference+on+Communications%22
+  editions:
+    2026:
+      label: May 24-28, Glasgow, UK
+      url: https://icc2026.ieee-icc.org/
+      dl: Nov 10
+    2025:
+      label: Jun 8-12, Montreal, Canada
+      url: https://icc2025.ieee-icc.org/
+      dl: Nov 8
+    2024:
+      label: Jun 9-13, Denver
+      url: https://icc2024.ieee-icc.org/
+      dl: Oct 11
+    2023:
+      label: May 28-Jun 1, Rome, Italy
+      url: https://icc2023.ieee-icc.org/
+      dl: Nov 13
+    2022:
+      label: May 16-20, Seoul, Korea
+      url: https://icc2022.ieee-icc.org/
+    2021:
+      label: Jun 14-18, online
+      url: https://icc2021.ieee-icc.org/
+      dl: Oct 12
+    2020:
+      label: Jun 7-11, online
+      url: https://icc2020.ieee-icc.org/
+- name: IEEE EuroS&P
+  tier: '2'
+  approx_dl: end. Nov
+  h5: https://scholar.google.com/citations?hl=en&view_op=search_venues&vq=IEEE+European+Symposium+on+Security+and+Privacy
+  editions:
+    2026:
+      label: Jul 6-10, Lisbon, Portugal
+      url: https://www.ieee-security.org/TC/EuroSP2026/
+      dl: Nov 20
+    2025:
+      label: Jun 30-Jul 4, Venice, Italy
+      url: https://www.ieee-security.org/TC/EuroSP2025/
+      dl: Oct 24
+    2024:
+      label: Jul 8-12, Vienna
+      url: https://www.ieee-security.org/TC/EuroSP2024/
+      dl: Nov 2
+    2023:
+      label: Jul 3-7, Delft
+      url: https://www.ieee-security.org/TC/EuroSP2023/
+      dl: Oct 26
+    2022:
+      label: Jun 6-10
+      url: https://www.ieee-security.org/TC/EuroSP2022/
+    2021:
+      label: Sep 7-11, online
+      url: https://www.ieee-security.org/TC/EuroSP2021
+      dl: Nov 5
+    2020:
+      label: Sep 7-11, online
+      url: https://www.ieee-security.org/TC/EuroSP2020/
+      dl: Nov 20
+- name: IEEE/IFIP DSN
+  tier: '2'
+  approx_dl: beg. Dec
+  h5: https://scholar.google.com/citations?hl=en&view_op=search_venues&vq=International+Conference+on+Dependable+Systems+and+Networks
+  editions:
+    2026:
+      label: Jun 22-25, Charlotte, NC
+      url: https://dsn2026.github.io/
+      dl: Dec 4
+    2025:
+      label: Jun 23-26, Naples, Italy
+      url: https://dsn2025.github.io/
+      dl: Dec 4
+    2024:
+      label: '[Jun 24-27, Brisbane, Australia](https://dsn2024uq.github.io/)<br>DL:'
+    2023:
+      label: Jun 27-30, Porto, Portugal
+      url: https://dsn2023.dei.uc.pt/
+      dl: Dec 7
+    2022:
+      label: Jun 27-30, Baltimore, MD
+      url: https://dsn2022.github.io/
+      dl: Dec 10
+    2021:
+      label: Jun 21-24, Taipei, Taiwan
+      url: http://dsn2021.ntu.edu.tw/
+      dl: Dec 11
+    2020:
+      label: València, Spain
+      url: https://dsn2020.webs.upv.es/
+- name: IFIP SEC
+  tier: '3'
+  approx_dl: mid. Dec
+  h5: https://scholar.google.com/citations?hl=en&view_op=search_venues&vq=ICT+Systems+Security
+  editions:
+    2026:
+      label: Jun 9-11, Perth, Australia
+      url: https://ifipsec.org/
+      dl: Dec 19
+    2025:
+      label: May 21-23, Maribor, Slovenia
+      url: https://sec2025.um.si/
+      dl: Dec 20
+    2024:
+      label: Jun 12-14, Edinburgh, UK
+      url: https://ifipsec2024.co.uk/
+      dl: Feb 15
+    2023:
+      label: Jun 14-16, Poznan, Poland
+      url: https://ifipsec2023.psnc.pl/
+      dl: Mar 12
+    2022:
+      label: Jun 13-15, Copenhagen, Denmark
+      url: https://ifipsec2022.compute.dtu.dk/
+      dl: Feb 3
+    2021:
+      label: Jun 22–24, Oslo, Norway
+      url: https://ifipsec.org/2021/
+      dl: Jan 29
+    2020:
+      label: Sep 21–23, Maribor, Slovenia
+      url: https://sec2020.um.si/

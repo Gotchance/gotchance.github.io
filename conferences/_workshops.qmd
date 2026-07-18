@@ -1,0 +1,84 @@
+## Workshop Deadlines
+
+::: {.table-scroll}
+| Conference            | Submission |
+|:--------------------- |:---------- |
+| Infocom-MobiSec       | mid. Jan   |
+| Infocom-BigSecurity   | mid. Jan   |
+| USENIX-ScAINet        | beg. Apr   |
+| USENIX-CSET           | end. May   |
+| USENIX-WOOT           | end. May   |
+| USENIX-FOCI           | beg. Jun   |
+| ACM CCS-AIsec         | beg. Jul   |
+| CoNEXT-Big-DAMA       | mid. Sep   |
+| ACSAC-DYNAMICS        | end. Sep   |
+| NIPS-SML              | end. Oct   |
+| IEEE BigData-PSBD     | Oct        |
+| IEEE BigData-BigCyber | Oct        |
+| AAAI-AICS             | mid. Nov   |
+| S&P-DLS               | mid. Dec   |
+:::
+
+
+## Domestic
+
+::: {.table-scroll}
+| Conference                                           | Submission                 |
+| ---------------------------------------------------- |:-------------------------- |
+| [IA研究会](https://www.ieice.org/cs/ia/jpn/doku.php) | 年7回(1,3,6,9,10,11,12月)  |
+| [ICSS](https://www.ieice.org/iss/icss/)              | 年4回(3,6,7,11月の1ヶ月前) |
+| [CSEC](https://www.iwsec.org/csec/index.html)        | 年4回(3,5,7,11月の1ヶ月前) |
+| [DICOMO](https://dicomo.org/)，表彰が多い            | 5月中旬 (概要締切3月中旬)  |
+| FIT，表彰が多い                                      | 6月下旬                    |
+| [CSS](https://www.iwsec.org/css/)                    | 8月中旬                    |
+| [SCIS](https://www.ieice.org/~isec/)                 | 12月中旬                   |
+:::
+
+
+---
+
+### Workshop notes (detail)
+- USENIX-CSET (end. May, Cyber Security Experimentation and Test)
+- USENIX-WOOT (end. May, Workshop on Offensive Technologies)
+- USENIX-FOCI (beg. Jun, Free and Open Communications on the Internet)
+- ICONIP-AICS(beg. Jun, International Conference on Neural Information Processing, The International Workshop on Artificial Intelligence and Cybersecurity)
+- CCS-AIsec(beg. Jul, ACM Workshop on Artificial Intelligence and Security (AISec))
+- ACSAC-DYNAMICS(end. Sep, DYnamic and Novel Advances in Machine Learning and Intelligent Cyber Security (DYNAMICS) Workshop)
+- IEEE BigData-PSBD (Oct, Privacy and Security of Big Data)
+- IEEE BigData-BigCyber (Oct, Big Data for CyberSecurity)
+- NIPS-SML(end. Oct, Workshop on Security in Machine Learning, Machine Learning and Computer Security)
+- AAAI-AICS(mid. Nov, The AAAI Workshop on Artificial Intelligence for Cyber Security (AICS))
+- S&P-DLS(mid. Dec, Deep Learning and Security Workshop IEEE Symposium on Security and Privacy)
+- ICML (Security and Privacy of Machine Learning)
+
+### Poster (will be included in the proceedings)
+- IEEE NOMS (end. Jan)
+- ACM CODASPY (end. Jan) T3
+- ACM AsiaCCS (beg. Mar) T2
+- IEEE DSN (DSN supplemental volume, mid. Mar) T2
+- ACNS (beg. May) T3
+- ACM WiSec (mid. May) T3
+- IEEE EuroS&P (mid. May) T2
+- SecureComm (beg. Jun) T3
+- ESORICS (mid. Jul) T2
+- IEEE ISCC (end. Jul)
+- ACM CCS (mid. Aug) T1
+- IEEE CNS (mid. Aug) T3
+- ACM SAC (mid. Oct?) T3
+- IEEE BigData (DL: mid. Nov)
+
+### Network / Measurement
+- IEEE INFOCOM(end of July, security あり)
+    - ワークショップも豊富(middle of January)
+        - MobiSec: Security, Privacy, and Digital Forensics of Mobile Systems and Networks
+        - BigSecurity: Security and Privacy in Big Data
+- ACM SIGCOMM(end of January, security なし)
+- ACM IMC
+- ACM CoNEXT (end of June, security あり, Tier 3?)
+    - CoNEXT-Big-DAMA(middle of September, ACM CoNEXT Workshop on Big DAta, Machine Learning and Artificial Intelligence for Data Communication Networks (Big-DAMA))
+- PAM [The Passive and Active Measurement] (middle of October, security なし)
+- TMA [Network Traffic Measurement and Analysis Conference] (beginning of March, security あり)
+
+
+
+---

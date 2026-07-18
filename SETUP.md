@@ -34,8 +34,12 @@ quarto check
 
 ```bash
 cd "/Users/han/Downloads/cursor projects/CVprofile_confDL"
+python3 -m venv .venv
+.venv/bin/pip install -r requirements.txt   # PyYAML（学会表の生成に必要）
 quarto preview
 ```
+
+学会一覧の編集は `conferences/data/conferences.yml` のみ。`quarto render` / `preview` 時に pre-render が `conferences/_list.qmd` を自動生成します。
 
 > **注意:** `rawdata_hackmd/*.md` は HackMD 移行元です。`_quarto.yml` の `render:` で `.qmd` のみを指定しています。ルートや `rawdata_hackmd/` の `.md` を render 対象に入れると `---` 区切りを YAML と誤認識してエラーになります。
 

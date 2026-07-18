@@ -1,12 +1,15 @@
 ---
 title: "Conference Deadlines"
+toc: true
+toc-depth: 3
 ---
 
-::: {.callout-note}
-## Coming in Phase 2
+{{< include _intro.qmd >}}
 
-Conference deadline tables will be migrated from `rawdata_hackmd/conference_deadlines.md`.
-For now, see the [HackMD version](https://hackmd.io/@gotchance/rJEW9rEoV).
-:::
+{{< include _list.qmd >}}
 
-[← Back to Home](../index.qmd)
+{{< include _workshops.qmd >}}
+
+{{< include _tier.qmd >}}
+
+{{< include _journals.qmd >}}
