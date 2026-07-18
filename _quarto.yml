@@ -5,6 +5,8 @@ project:
     - index.qmd
     - cv/index.qmd
     - conferences/index.qmd
+  post-render:
+    - scripts/render-cv-pdf.sh
 
 website:
   title: "Chansu Han, Ph.D."
@@ -16,12 +18,15 @@ website:
         text: CV
       - href: conferences/index.qmd
         text: Conferences
+      - href: cv/Chansu_Han_CV.pdf
+        text: "CV (PDF)"
+        target: _blank
     right:
       - icon: github
-        href: https://github.com/gotchance/gotchance.github.io
+        href: https://github.com/Gotchance/gotchance.github.io
         aria-label: GitHub
   page-footer:
-    center: "Last updated: 2026-07-05"
+    center: "Last updated: 2026-07-18"
 
 format:
   html:

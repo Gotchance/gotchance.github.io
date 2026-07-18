@@ -1,12 +1,49 @@
 ---
 title: "Curriculum Vitae"
+toc: true
+toc-depth: 3
 ---
 
-::: {.callout-note}
-## Work in progress
+::: {.cv-header}
+![](assets/profile.jpg){.profile-photo}
 
-CV content will be migrated from `rawdata_hackmd/CVprofile.md` in Phase 1.  
-A PDF download will be available at `cv/Chansu_Han_CV.pdf` once rendering is set up.
+::: {.cv-header-text}
+::: {.cv-name}
+Chansu Han, Ph.D.
 :::
 
-[← Back to Home](../index.qmd)
+::: {.cv-role}
+Researcher, NICT, Japan
+:::
+
+::: {.cv-role-sub}
+Visiting Assistant Professor, Kyushu University
+:::
+
+::: {.cv-affiliation}
+CREATE / Cybersecurity Laboratory, NICT
+:::
+
+::: {.cv-contact}
+**Contact:** han (at) nict.go.jp
+:::
+
+::: {.cv-links}
+[![Google Scholar](assets/icons/scholar.png){.link-icon} Google Scholar](https://scholar.google.com/citations?user=ZvvIWZ4AAAAJ&hl=en) ·
+[![ResearchGate](assets/icons/researchgate.png){.link-icon} ResearchGate](https://www.researchgate.net/profile/Chansu-Han-2) ·
+[![dblp](assets/icons/dblp.png){.link-icon} dblp](https://dblp.org/pid/186/6829.html)
+
+[![Semantic Scholar](assets/icons/semanticscholar.png){.link-icon} Semantic Scholar](https://www.semanticscholar.org/author/Chansu-Han/3467047) ·
+[![Web of Science](assets/icons/wos.png){.link-icon} Web of Science](https://www.webofscience.com/wos/author/record/K-3263-2019)
+
+[![ORCID](assets/icons/orcid.png){.link-icon} ORCID: 0000-0002-1728-5300](https://orcid.org/0000-0002-1728-5300) ·
+[![LinkedIn](assets/icons/linkedin.png){.link-icon} LinkedIn](https://www.linkedin.com/in/chansu-han-aa0857193/)
+:::
+
+::: {.cv-download}
+[Download CV (PDF)](Chansu_Han_CV.pdf){.btn-pdf target="_blank"}
+:::
+:::
+:::
+
+{{< include _content.qmd >}}

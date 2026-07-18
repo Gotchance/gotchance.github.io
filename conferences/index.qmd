@@ -3,9 +3,10 @@ title: "Conference Deadlines"
 ---
 
 ::: {.callout-note}
-## Work in progress
+## Coming in Phase 2
 
-Conference deadline tables will be migrated from `rawdata_hackmd/conference_deadlines.md` in Phase 2.
+Conference deadline tables will be migrated from `rawdata_hackmd/conference_deadlines.md`.
+For now, see the [HackMD version](https://hackmd.io/@gotchance/rJEW9rEoV).
 :::
 
 [← Back to Home](../index.qmd)

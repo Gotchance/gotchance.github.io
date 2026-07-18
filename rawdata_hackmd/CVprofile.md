@@ -74,7 +74,8 @@ Chansu Han received his B.E. degree in computer science, and M.S. and Ph.D. degr
 1. S. Kato, **C. Han**, T. Takahashi, and K. Sakurai, ''MemTAP: Memory-Augmented Tree of Attacks with Pruning for Automated Jailbreak Generation against Large Language Models,'' *IEEE DSC*, 2026.
 1. **C. Han**, and T. Takahashi, ''Does Refusal-Direction Drift on Safety Benchmarks Predict Fine-Tuning Safety Loss?,'' *IEEE DSC Workshop*, 2026.
 1. **C. Han**, and T. Takahashi, ''Weight Drift as a Fine-Tuning Safety Screen: Signal and Its Limits,'' *SCIS&ISIS*, 2026.
-1. J. Kim, H. Lee, **C. Han**, and S. Choi, ''Isolating the Signal from Noise: Model Inversion Attacks against PEFT-Based Text Classifiers,'' *EMNLP*, 2026. **(Tier 1)**
+1. S. Lee, **C. Han**, I. Choi, and T. Takahashi, ''From CVEs to Countermeasures: Benchmarking D3FEND Selection on Attack-Defense Scenarios,'' *SCIS&ISIS*, 2026.
+. J. Kim, H. Lee, **C. Han**, and S. Choi, ''Isolating the Signal from Noise: Model Inversion Attacks against PEFT-Based Text Classifiers,'' *EMNLP*, 2026. **(Tier 1)**
 1. S. Lee, **C. Han**, S. Choi, and T. Takahashi, ''Toward Systematic Cyberattack Analysis via MITRE ATT&CK TTP Mapping,'' *Information Security Conference (ISC)*, 2026. **(Tier 3)**
 1. **[Rejected]** K. Miyamoto, **C. Han**, A. Tanaka, and T. Takahashi, ''Experimental Study of Backdoor Attacks on Auto-regressive and Diffusion-based LLMs,'' *The 28th Annual International Conference on Information Security and Cryptology (ICISC)*, 2025. **(Tier 3)**
 -->
@@ -331,7 +332,7 @@ Budget: 200 Million Yen -->
 - [Local Arrangement Chair] International Conference on Artificial Intelligence Computing and Systems (AICompS), 2025
 
 ### Program Committee Member
-- [Poster Session Chair] IEEE Conference on Dependable and Secure Computing (DSC), 2024
+- IEEE Conference on Dependable and Secure Computing (DSC), 2026, 2024(Poster Session Chair)
 - International Conference on Neural Information Processing (ICONIP), 2024, 2021, 2019
 - IEEE International Joint Conference on Neural Networks (IJCNN), 2024
 

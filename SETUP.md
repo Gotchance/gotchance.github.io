@@ -113,9 +113,26 @@ git push -u origin main
 
 数分後: https://gotchance.github.io/
 
-## 6. 次のフェーズ
+## 6. ビルド（HTML + PDF）
 
-- **Phase 1:** `rawdata_hackmd/CVprofile.md` → `cv/index.qmd` へ移行、PDF 生成
+```bash
+cd "/Users/han/Downloads/cursor projects/CVprofile_confDL"
+quarto render          # HTML + post-render で PDF 生成
+quarto preview         # ローカル確認
+```
+
+PDF のみ再生成:
+
+```bash
+./scripts/render-cv-pdf.sh
+```
+
+公開用 PDF パス: `docs/cv/Chansu_Han_CV.pdf`  
+（ナビ / CV ページの Download ボタンからリンク）
+
+## 7. 次のフェーズ
+
+- ~~Phase 1: CV + PDF~~ ✅
 - **Phase 2:** `rawdata_hackmd/conference_deadlines.md` → `conferences/` へ移行
 
 ## ディレクトリ構成（Phase 0 時点）

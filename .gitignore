@@ -24,5 +24,8 @@ Thumbs.db
 *.fls
 *.fdb_latexmk
 *.synctex.gz
+cv/*.tex
+cv/*.pdf
+!docs/cv/Chansu_Han_CV.pdf
 
 **/*.quarto_ipynb

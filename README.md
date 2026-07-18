@@ -232,18 +232,20 @@ CVprofile_confDL/
 - [x] `SETUP.md` にローカル構築手順を記載
 - [x] **Quarto ローカルインストール**（1.9.38）
 - [x] `quarto render` でローカルビルド確認（`render:` でソース `.md` を除外）
-- [ ] **GitHub リポジトリ作成**（`gotchance/gotchance.github.io` — 未作成のため push 失敗中）
+- [x] **GitHub リポジトリ作成**（`Gotchance/gotchance.github.io`）
 - [x] `quarto preview` でローカル確認
-- [ ] GitHub Pages 有効化（`/docs` から公開）
+- [x] `docs/` を push 済み
+- [x] GitHub Pages 有効化（https://gotchance.github.io/ 公開確認済み）
 
 ### Phase 1: CV ページ MVP（2〜3 日）
 
-- [ ] `_quarto.yml` でサイト骨格・ナビ・テーマ設定
-- [ ] `CVprofile.md` を `cv/cv.qmd` に変換（HackMD 記法除去）
-- [ ] ヘッダー（写真 + リンク）を CSS Grid で実装
-- [ ] ローカル preview: `quarto preview`
-- [ ] PDF 初版: `quarto render cv/cv-pdf.qmd --to pdf`
-- [ ] 「Download PDF」ボタンを CV ページに配置
+- [x] `_quarto.yml` でサイト骨格・ナビ・テーマ設定
+- [x] `rawdata_hackmd/CVprofile.md` → `cv/_content.qmd`（HackMD 記法除去）
+- [x] `cv/index.qmd` ヘッダー（写真 + メール + リンク）+ 本文 include
+- [x] PDF 初版: `cv/cv-pdf.qmd`（xelatex + 日本語フォント）→ `docs/cv/Chansu_Han_CV.pdf`
+- [x] 「Download CV (PDF)」ボタン / ナビリンク
+- [x] `post-render` で PDF 自動生成（`scripts/render-cv-pdf.sh`）
+- [ ] ローカル `quarto preview` で見た目確認 → `docs/` を push
 
 ### Phase 2: 学会ページ（2 日）
 
@@ -375,12 +377,23 @@ jobs:
 
 ## 12. 次のアクション
 
-1. ~~本 README の未決事項（§10）を確認・決定~~ ✅ 完了
-2. **Phase 0 から着手**（リポジトリ作成 + Quarto セットアップ）
-3. Phase 1 で CV の Web + PDF MVP を完成させ、見た目を確認
-4. Phase 2 で学会ページを追加
-5. Phase 3 で GitHub Pages 公開、HackMD からリンク差し替え
+1. ~~Phase 0~~ ✅ / ~~Phase 1 実装~~ ✅
+2. **ローカルで `quarto preview` 確認 → `docs/` を push**
+3. Phase 2 で学会ページを追加
+4. Phase 3 で CI 自動化、HackMD からリンク差し替え
+
+### Phase 1 ファイル構成
+
+```
+cv/
+├── index.qmd              # Web CV（ヘッダー + Download ボタン）
+├── cv-pdf.qmd             # PDF 用（xelatex）
+├── _content.qmd           # 共通本文（HackMD から変換）
+├── assets/profile.jpg
+└── (build) cv-pdf.pdf → docs/cv/Chansu_Han_CV.pdf
+scripts/render-cv-pdf.sh   # post-render
+```
 
 ---
 
-*Last updated: 2026-07-05*
+*Last updated: 2026-07-18*

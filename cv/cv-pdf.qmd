@@ -1,0 +1,43 @@
+---
+title: "Chansu Han, Ph.D."
+subtitle: "Curriculum Vitae"
+author: ""
+date: today
+date-format: "MMMM D, YYYY"
+format:
+  pdf:
+    documentclass: article
+    papersize: a4
+    fontsize: 10pt
+    geometry:
+      - margin=1.8cm
+    toc: false
+    number-sections: false
+    colorlinks: true
+    linkcolor: blue
+    urlcolor: blue
+    pdf-engine: xelatex
+    mainfont: "Helvetica"
+    CJKmainfont: "Hiragino Sans"
+    include-in-header:
+      text: |
+        \usepackage{enumitem}
+        \setlist{nosep,leftmargin=*}
+        \usepackage{titlesec}
+        \titlespacing*{\section}{0pt}{1.2em}{0.4em}
+        \titlespacing*{\subsection}{0pt}{0.9em}{0.3em}
+        \usepackage{fancyhdr}
+        \pagestyle{fancy}
+        \fancyhf{}
+        \fancyfoot[C]{\thepage}
+        \renewcommand{\headrulewidth}{0pt}
+---
+
+**Researcher**, CREATE / Cybersecurity Laboratory, NICT, Japan · Visiting Assistant Professor, Kyushu University
+
+**Email:** han (at) nict.go.jp ·
+[Google Scholar](https://scholar.google.com/citations?user=ZvvIWZ4AAAAJ&hl=en) ·
+[ORCID](https://orcid.org/0000-0002-1728-5300) ·
+[dblp](https://dblp.org/pid/186/6829.html)
+
+{{< include _content.qmd >}}
