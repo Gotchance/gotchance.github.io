@@ -1,0 +1,9 @@
+<!-- PDF-only sections after Education (shared with Home). -->
+
+## Research Topics
+
+{{< include ../includes/_research-topics.qmd >}}
+
+## Featured Publications
+
+{{< include ../includes/_featured-publications.qmd >}}

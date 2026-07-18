@@ -1,0 +1,8 @@
+- **Security for AI / LLM Safety**
+  - Safety assessment of fine-tuned open-source LLMs
+  - Construction of LLM security benchmarking environments
+  - Development of benchmark datasets for LLM safety evaluation
+- **AI for Security (Network Analysis, Malware Analysis)**
+  - Early detection of malware activities and tracking of coordinated scanners
+  - Development of explainable network intrusion detection systems, and alert analysis
+  - Fast clustering of large-scale IoT malware and behavior analysis of variants

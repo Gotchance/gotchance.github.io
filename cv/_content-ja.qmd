@@ -1,0 +1,72 @@
+<details class="cv-details">
+<summary>Career History (Japanese)</summary>
+<div>
+
+<h3>Academic Background and Career</h3>
+| Date                 | Academic Background and Career                                                                                                                                                         |
+| -------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| --Feb. 2012          | Graduated Gwangdeok High School, Gwangju, Republic of Korea                                                                                                                            |
+| Apr. 2012--Mar. 2016 | Department of Electrical Engineering and Computer Science, School of Engineering, Kyushu University (Received Bachelor of Engineering)                                                 |
+| Apr. 2016--Mar. 2018 | Department of Informatics, Graduate School of Information Science and Electrical Engineering, Kyushu University (Received Master of Science)                                           |
+| Apr. 2018--Mar. 2021 | Department of Informatics, Graduate School of Information Science and Electrical Engineering, Kyushu University (Received Doctor of Engineering)                                       |
+| Apr. 2018--Mar. 2026 | Researcher, Cybersecurity Laboratory, National Institute of Information and Communications Technology (NICT)                                                                           |
+| Apr. 2023--present   | Visiting Assistant Professor (Research Advisor), Mathematical Engineering Laboratory, Graduate School and Faculty of Information Science and Electrical Engineering, Kyushu University |
+| Apr. 2023--present   | Tenure-Track Researcher, NICT                                                                                                                                                          |
+| Jun. 2023--Aug. 2023 | Visiting Researcher with the University of New Brunswick to collaborate on research with Prof. Ali Ghorbani, Director of the Canadian Cybersecurity Center, UNB.                       |
+| Apr. 2025–present    | Researcher, Center for Research on AI Security and Technology Evolution (CREATE), National Institute of Information and Communications Technology (NICT)                               |
+
+<h3>学歴</h3>
+|  日付  | 学歴 |
+| --- | --- |
+|  2012年2月  | 大韓民国　光州広域市　光徳高校卒業 |
+|  2012年4月  | 九州大学　工学部　電気情報工学科　入学 |
+|  2016年3月  | 九州大学　工学部　電気情報工学科　卒業 学士（工学）取得 |
+|  2016年4月  | 九州大学大学院　システム情報科学府　情報学専攻　修士課程　入学 |
+|  2018年3月  | 九州大学大学院　システム情報科学府　情報学専攻　修士課程　卒業 修士（理学）取得 |
+|  2018年4月  | 九州大学大学院　システム情報科学府　情報学専攻　博士後期課程　入学 |
+|  2021年3月  | 九州大学大学院　システム情報科学府　情報学専攻　博士後期課程　卒業 博士（工学）取得  |
+
+<h3>職歴（インターン含む）</h3>
+| 日付                | 職歴(インターン含む)                                                                                                                                           |
+| ------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2012年7月~2013年6月 | [株式会社 テンエックスラボ](https://10xlab.jp/) インターン(1年間)                                                                                              |
+| 2015年4月~2016年3月 | [九州大学 工学部 櫻井研究室](http://itslab.csce.kyushu-u.ac.jp/index-j.html) 学士（工学）修了                                                                  |
+| 2015年6月~2016年3月 | [公益財団法人 九州先端科学技術研究所](http://www.isit.or.jp/) 情報セキュリティ研究室 研究助手                                                                  |
+| 2016年4月~2018年3月 | [九州大学 大学院システム情報科学府 回路研究室](http://www.me.inf.kyushu-u.ac.jp/homepage.ja.html) 修士（理学）修了                                             |
+| 2016年4月~2018年3月 | [九州大学 アジア人財プログラム](http://www.aq-program.kyushu-u.ac.jp/) 修了                                                                                    |
+| 2016年8月~2016年9月 | [NTTデータ先端技術株式会社](http://www.intellilink.co.jp/) インターン(3週間)                                                                                   |
+| 2016年9月~2016年9月 | [セキュリティ・キャンプ九州 in 福岡 2016](http://www.security-camp.org/minicamp/kyushu2016.html) (3日間)                                                       |
+| 2017年2月~2017年3月 | [The 21st Century Challenges in Living Abroad Program, Chinese](http://www.isc.kyushu-u.ac.jp/intlweb/study/short-term) 台湾で中国語研修(3週間)                |
+| 2017年8月~2017年9月 | [情報通信研究機構(NICT) サイバーセキュリティ研究室](http://nict.go.jp/cyber/index.html) 共同研究員として出張 (16日間)                                          |
+| 2018年4月~2021年3月 | [九州大学 大学院システム情報科学府 数理工学研究室](http://www.me.inf.kyushu-u.ac.jp/homepage.ja.html) 博士（工学）修了                                         |
+| 2018年4月~現在      | [情報通信研究機構(NICT) サイバーセキュリティ研究室](http://nict.go.jp/cyber/index.html) 研究員                                                                 |
+| 2023年4月~現在      | [九州大学 大学院システム情報科学府 数理工学研究室](http://www.me.inf.kyushu-u.ac.jp/homepage.ja.html) 研究指導者(客員助教)                                     |
+| 2023年6月~2023年8月 | Visiting Researcher with the University of New Brunswick to collaborate on research with Dr. Ali Ghorbani, Director of the Canadian Cybersecurity Center, UNB. |
+
+<h3>奨学金受給</h3>
+|  日付  | 奨学財団名 |
+| --- | --- |
+|  2012年4月~2014年3月(2年間)  | 学習奨励金（日本学生支援機構JASSO） |
+|  2016年4月~2018年3月(2年間)  | NTTドコモ 留学生奨学金 |
+
+<h3>コミュニケーション可能な言語</h3>
+  * 韓国語（母国語）
+  * 日本語（ネイティブレベル）
+  * 英語（日常会話レベル）
+  * 中国語（初級者レベル）
+
+<h3>資格・受賞</h3>
+|  日付  | 資格・受賞 |
+| --- | --- |
+|  2005年9月  | 全国漢字能力検定試験 3級(韓国) |
+|  2011年9月  | コンピュータ活用能力 1級(韓国国家技術資格) |
+|  2011年10月  | ITQ Excel, PowerPoint, Internet 全てA等級(韓国) |
+|  2011年10月  | ITQ OA Master(韓国) |
+|  2011年12月  | 情報処理技能士(韓国国家技術資格) |
+|  2013年1月  | 九州大学 外国語プレゼンテーションコンテスト 中国語，日本語部門 全て優秀賞 |
+|  2016年1月  | 日本語能力試験 1級(日本) |
+|  2017年3月  | HSK 4級 |
+|  2017年10月  | IPA(経済産業省) 応用情報技術者試験 合格 |
+
+</div>
+</details>

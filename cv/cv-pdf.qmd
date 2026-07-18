@@ -1,43 +1,96 @@
 ---
-title: "Chansu Han, Ph.D."
-subtitle: "Curriculum Vitae"
+title: ""
 author: ""
-date: today
-date-format: "MMMM D, YYYY"
+date: ""
 format:
   pdf:
     documentclass: article
     papersize: a4
     fontsize: 10pt
     geometry:
-      - margin=1.8cm
+      - margin=1.6cm
+      - top=1.4cm
+      - bottom=1.6cm
     toc: false
     number-sections: false
     colorlinks: true
     linkcolor: blue
     urlcolor: blue
     pdf-engine: xelatex
-    mainfont: "Helvetica"
+    mainfont: "Helvetica Neue"
     CJKmainfont: "Hiragino Sans"
     include-in-header:
       text: |
         \usepackage{enumitem}
-        \setlist{nosep,leftmargin=*}
         \usepackage{titlesec}
-        \titlespacing*{\section}{0pt}{1.2em}{0.4em}
-        \titlespacing*{\subsection}{0pt}{0.9em}{0.3em}
         \usepackage{fancyhdr}
+        \usepackage{xeCJK}
+        \setCJKmainfont{Hiragino Sans}[
+          UprightFont = * W3,
+          BoldFont = * W6,
+          ItalicFont = * W3,
+          Scale = 0.95
+        ]
+        \setlist{nosep,leftmargin=1.1em,itemsep=0.2em,topsep=0.25em}
+        \setlist[enumerate]{leftmargin=1.4em}
+        \setlist[description]{
+          font=\normalfont,
+          style=sameline,
+          leftmargin=2.85cm,
+          labelwidth=2.65cm,
+          labelsep=0.2cm,
+          itemsep=0.55em,
+          parsep=0.05em,
+          topsep=0.2em
+        }
+        \titleformat{\section}{\large\bfseries}{\thesection}{0em}{}[\vspace{-0.4em}\rule{\textwidth}{0.4pt}]
+        \titleformat{\subsection}{\bfseries}{\thesubsection}{0em}{}
+        \titlespacing*{\section}{0pt}{1.1em}{0.45em}
+        \titlespacing*{\subsection}{0pt}{0.75em}{0.25em}
         \pagestyle{fancy}
         \fancyhf{}
-        \fancyfoot[C]{\thepage}
+        \fancyfoot[C]{\footnotesize\thepage}
         \renewcommand{\headrulewidth}{0pt}
+        \renewcommand{\maketitle}{}
+        \setlength{\parskip}{0.15em}
+        \setlength{\parindent}{0pt}
 ---
 
-**Researcher**, CREATE / Cybersecurity Laboratory, NICT, Japan · Visiting Assistant Professor, Kyushu University
+```{=latex}
+\begin{center}
+{\LARGE\bfseries Chansu Han, Ph.D.}\\[0.55em]
+{\normalsize Researcher, Center for Research on AI Security and Technology Evolution (CREATE)}\\[0.15em]
+{\normalsize National Institute of Information and Communications Technology (NICT), Japan}\\[0.15em]
+{\normalsize Visiting Assistant Professor, Kyushu University}\\[0.45em]
+{\small
+Email: han (at) nict.go.jp
+\quad$\cdot$\quad
+\href{https://gotchance.github.io/}{gotchance.github.io}
+}\\[0.25em]
+{\footnotesize
+\href{https://scholar.google.com/citations?user=ZvvIWZ4AAAAJ\&hl=en}{Google Scholar}
+\quad$\cdot$\quad
+\href{https://www.researchgate.net/profile/Chansu-Han-2}{ResearchGate}
+\quad$\cdot$\quad
+\href{https://dblp.org/pid/186/6829.html}{dblp}
+\quad$\cdot$\quad
+\href{https://www.semanticscholar.org/author/Chansu-Han/3467047}{Semantic Scholar}
+}\\[0.12em]
+{\footnotesize
+\href{https://www.webofscience.com/wos/author/record/K-3263-2019}{Web of Science}
+\quad$\cdot$\quad
+\href{https://orcid.org/0000-0002-1728-5300}{ORCID}
+\quad$\cdot$\quad
+\href{https://www.linkedin.com/in/chansu-han-aa0857193/}{LinkedIn}
+\quad$\cdot$\quad
+\href{https://github.com/Gotchance}{GitHub}
+}
+\end{center}
+\vspace{0.35em}
+```
 
-**Email:** han (at) nict.go.jp ·
-[Google Scholar](https://scholar.google.com/citations?user=ZvvIWZ4AAAAJ&hl=en) ·
-[ORCID](https://orcid.org/0000-0002-1728-5300) ·
-[dblp](https://dblp.org/pid/186/6829.html)
+{{< include _content-vita.qmd >}}
+
+{{< include _content-early.qmd >}}
 
 {{< include _content.qmd >}}

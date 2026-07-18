@@ -138,7 +138,22 @@ header.quarto-title-block:has(h1.title:empty) {
 }
 
 .cv-download {
-  margin-top: 1rem;
+  margin: 1rem 0 1.5rem 0;
+}
+
+.cv-pdf-embed {
+  margin: 0 0 2rem 0;
+  border: 1px solid #dee2e6;
+  border-radius: 4px;
+  overflow: hidden;
+  background: #f8f9fa;
+}
+
+.cv-pdf-embed iframe {
+  display: block;
+  width: 100%;
+  height: min(53vh, 600px);
+  border: 0;
 }
 
 .btn-pdf {
@@ -150,6 +165,84 @@ header.quarto-title-block:has(h1.title:empty) {
   text-decoration: none !important;
   font-weight: 600;
   font-size: 0.95rem;
+}
+
+/* Collapsible blocks (HackMD-style <details>) */
+details.cv-details {
+  margin: 1rem 0 1.5rem 0;
+  border: 1px solid #dee2e6;
+  border-radius: 4px;
+  padding: 0.35rem 0.9rem 0.5rem;
+  background: #fafbfc;
+}
+
+details.cv-details > summary {
+  cursor: pointer;
+  font-weight: 600;
+  font-size: 1.15rem;
+  color: #212529;
+  padding: 0.4rem 0;
+  list-style-position: outside;
+}
+
+details.cv-details > summary:hover {
+  color: $primary;
+}
+
+details.cv-details[open] > summary {
+  margin-bottom: 0.5rem;
+  border-bottom: 1px solid #e9ecef;
+}
+
+/* jhelvy-style timeline: date | body (definition list) */
+.cv-vita {
+  margin: 0.25rem 0 1.25rem 0;
+}
+
+.cv-vita dl {
+  display: grid;
+  grid-template-columns: 9.5rem 1fr;
+  gap: 0.65rem 1.25rem;
+  margin: 0;
+}
+
+.cv-vita dt {
+  font-size: 0.95rem;
+  font-weight: 400;
+  color: #495057;
+  line-height: 1.4;
+  margin: 0;
+}
+
+.cv-vita dd {
+  font-size: 1rem;
+  line-height: 1.45;
+  margin: 0 0 0.35rem 0;
+}
+
+.cv-vita dd p {
+  margin: 0;
+}
+
+.cv-vita dd strong {
+  font-weight: 600;
+}
+
+@media (max-width: 640px) {
+  .cv-vita dl {
+    grid-template-columns: 1fr;
+    gap: 0.1rem 0;
+  }
+
+  .cv-vita dt {
+    font-weight: 600;
+    color: #212529;
+    margin-top: 0.65rem;
+  }
+
+  .cv-vita dd {
+    margin-bottom: 0.65rem;
+  }
 }
 
 .btn-pdf:hover {
@@ -166,6 +259,64 @@ header.quarto-title-block:has(h1.title:empty) {
 #publications li,
 #featured-publications li {
   margin-bottom: 0.45rem;
+}
+
+/* ~10 entries visible; scroll for the rest (HTML only; PDF unaffected) */
+#refereed-journal-papers > ol,
+#refereed-conference-papers > ol,
+#non-refereed-domestic-conference-papers > ol,
+#non-refereed-oral-presentationtalk > ol {
+  max-height: calc(10 * 3.55rem);
+  overflow-y: auto;
+  overscroll-behavior: contain;
+  border: 1px solid #dee2e6;
+  border-radius: 4px;
+  padding: 0.55rem 0.65rem 0.55rem 1.5rem;
+  margin: 0.35rem 0 0.15rem 0;
+  background: #fff;
+  scrollbar-gutter: stable;
+}
+
+#refereed-journal-papers > ol::-webkit-scrollbar,
+#refereed-conference-papers > ol::-webkit-scrollbar,
+#non-refereed-domestic-conference-papers > ol::-webkit-scrollbar,
+#non-refereed-oral-presentationtalk > ol::-webkit-scrollbar {
+  width: 8px;
+}
+
+#refereed-journal-papers > ol::-webkit-scrollbar-thumb,
+#refereed-conference-papers > ol::-webkit-scrollbar-thumb,
+#non-refereed-domestic-conference-papers > ol::-webkit-scrollbar-thumb,
+#non-refereed-oral-presentationtalk > ol::-webkit-scrollbar-thumb {
+  background: #ced4da;
+  border-radius: 4px;
+}
+
+.pub-scroll-hint {
+  display: none;
+  font-size: 0.8rem;
+  color: #6c757d;
+  margin: 0 0 1rem 0.15rem;
+}
+
+.pub-scroll-hint.is-visible {
+  display: block;
+}
+
+@media print {
+  #refereed-journal-papers > ol,
+  #refereed-conference-papers > ol,
+  #non-refereed-domestic-conference-papers > ol,
+  #non-refereed-oral-presentationtalk > ol {
+    max-height: none;
+    overflow: visible;
+    border: none;
+    padding-left: 1.25rem;
+  }
+
+  .pub-scroll-hint {
+    display: none !important;
+  }
 }
 
 .table-scroll {

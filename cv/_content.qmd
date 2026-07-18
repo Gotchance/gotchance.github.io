@@ -1,42 +1,5 @@
-<!-- Shared CV body. Included by index.qmd (HTML) and cv-pdf.qmd (PDF). -->
+<!-- Shared CV body (web + PDF). Vita: _content-vita.qmd. PDF-only early: _content-early.qmd. -->
 
-## Current Position
-- **Researcher**
-
-    Since 2025, I have been appointed as a researcher at the Center for Research on AI Security and Technology Evolution (CREATE), National Institute of Information and Communications Technology (NICT), Japan. I am concurrently affiliated with the [[Cybersecurity Laboratory, NICT]](https://csl.nict.go.jp/en/), which I originally joined in 2018 after receiving my M.S. degree in informatics from Kyushu University under the supervision of Professor [[Jun'ichi Takeuchi]](http://www.me.inf.kyushu-u.ac.jp/%7etak/homepage.en.html).
-    - [[Cybersecurity Laboratory, National Institute of Information and Communications Technology (NICT), Tokyo, Japan.]](https://csl.nict.go.jp/en/people/chansu-han.html)
-- **Visiting Assistant Professor (Research Advisor)**
-
-    I have also been appointed as a visiting assistant professor at Kyushu University since April 2023.
-    - [[Mathematical Engineering Laboratory, Graduate School and Faculty of Information Science and Electrical Engineering, Kyushu University]](http://www.me.inf.kyushu-u.ac.jp/en/member.html)
-
-## Biography
-Chansu Han received his B.E. degree in computer science, and M.S. and Ph.D. degrees in informatics engineering from Kyushu University in 2016, 2018, and 2021, respectively. Since 2025, he has been a researcher at the Center for Research on AI Security and Technology Evolution (CREATE), National Institute of Information and Communications Technology (NICT), Japan. He is also concurrently affiliated with the Cybersecurity Laboratory, NICT, which he initially joined in 2018. Additionally, he has served as a Visiting Assistant Professor at Kyushu University since 2023. His research interests span cybersecurity and AI security, including large language model (LLM) safety, anomaly detection, and network/malware analysis.
-
-### Research Topics
-- Security for AI / LLM Safety:
-    - Safety assessment of fine-tuned open-source LLMs
-    - Construction of LLM security benchmarking environments
-    - Development of benchmark datasets for LLM safety evaluation
-- AI for Security (Network Analysis, Malware Analysis):
-	- Early detection of malware activities and tracking of coordinated scanners
-	- Development of explainable network intrusion detection systems, and alert analysis
-	- Fast clustering of large-scale IoT malware and behavior analysis of variants
-
-<hr>
-## Featured Publications
-- J. Kim, H. Lee, S. Hong, T. Takahashi, **C. Han**, T. Morikawa, and S. Choi, “Don’t Trust the AI Ecosystem: Analyzing Privacy Leakage in Compromised Open-Source Components,” *ACM CCS*, Nov 2026. **(Tier 1)**
-- K. Nikawa, **C. Han**, A. Tanaka, K. Iwamoto, T. Takahashi, and J. Takeuchi, “Improving Scalable Clustering for IoT Malware via Code Region Extraction,” *The 28th Annual International Conference on Information Security and Cryptology (ICISC)*, Nov 2025. **(Tier 3)** [[DOI]](https://doi.org/10.1007/978-981-95-8034-7_5)
-- K. Ma, **C. Han**, A. Tanaka, T. Takahashi, and J. Takeuchi, “Towards Architecture-Independent Function Call Analysis for IoT Malware,” *Information Security Conference (ISC)*, Oct 2025. **(Tier 3)** [[DOI]](https://doi.org/10.1007/978-3-032-08124-7_21)
-- K. Abduaziz, **C. Han**, and J. Shin, “Semi-supervised Traceability Analysis of Investigative Scanners of Darknet Traffic,” *Computers & Security*, Dec 2025. [[DOI]](https://doi.org/10.1016/j.cose.2025.104681)
-- Y. Chang, H. Chen, **C. Han**, T. Morikawa, T. Takahashi, and T. Lin, “FINISH: Efficient and Scalable NMF-based Federated Learning for Detecting Malware Activities,” *IEEE Transactions on Emerging Topics in Computing (TETC)*, Jul 2023. [[DOI]](https://doi.org/10.1109/TETC.2023.3292924) [[PDF]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10179267)
-- **C. Han**, J. Takeuchi, T. Takahashi, and D. Inoue, “*Dark-TRACER*: Early Detection Framework for Malware Activity Based on Anomalous Spatiotemporal Patterns,” *IEEE ACCESS*, Jan 2022. [[DOI]](https://doi.org/10.1109/ACCESS.2022.3145966) [[PDF]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9690867) [[Related Slides]](https://drive.google.com/file/d/1IlOar4ARu-olK4k-b5g6WWC4Id2abfnB/view?usp=sharing) [[Datasets]](https://csdataset.nict.go.jp/darknet-2022/) [[Codes]](https://github.com/Gotchance/Dark-TRACER)
-
-## Awards/Honors
-- 情報処理学会 CSEC優秀研究賞 (第104回CSEC研究会) (CSEC Best Research Award, IPSJ), 2024 (共著)
-- 情報処理学会 コンピュータセキュリティシンポジウム2021 CSS学生論文賞 (CSS Best Student Paper Award), 2021 (共著)
-
-<hr>
 ## Publications
 
 ### Refereed Journal Papers
@@ -71,8 +34,6 @@ Chansu Han received his B.E. degree in computer science, and M.S. and Ph.D. degr
 13. **C. Han**, A. Tanaka, J. Takeuchi, T. Takahashi, T. Morikawa, and T. Lin, “Towards Long-Term Continuous Tracing of Internet-Wide Scanning Campaigns Based on Darknet Analysis,” *International Conference on Information Systems Security and Privacy (ICISSP)*, Feb 2023. [[DOI]](https://doi.org/10.5220/0011769300003405) [[PDF]](https://www.researchgate.net/publication/369018254_Towards_Long-Term_Continuous_Tracing_of_Internet-Wide_Scanning_Campaigns_Based_on_Darknet_Analysis) [[Poster]](https://drive.google.com/file/d/1ai1mrLnSdTMXcB16utr4SJAVR4njhGHZ/view?usp=sharing) [[Datasets]](https://csdataset.nict.go.jp/darknet-2022/)
 
 
-### Before 2023 (Refereed Conference Papers)
-
 17. **C. Han**, A. Tanaka, and T. Takahashi, “Darknet Analysis-Based Early Detection Framework for Malware Activity: Issue and Potential Extension,” *IEEE International Conference on Big Data*, Dec 2022. [[DOI]](https://doi.org/10.1109/BigData55660.2022.10021021) [[PDF]](https://www.researchgate.net/publication/367467291_Darknet_Analysis-Based_Early_Detection_Framework_for_Malware_Activity_Issue_and_Potential_Extension) [[Slides]](https://drive.google.com/file/d/1ORDkdILvprY8D2wCTP49_lfTWglJh5SJ/view?usp=sharing) [[Datasets]](https://csdataset.nict.go.jp/darknet-2022/)
 7. K. Oshio, S. Takada, **C. Han**, A. Tanaka, and J. Takeuchi, “Poster: Flexible Function Estimation of IoT Malware Using Graph Embedding Technique,” *IEEE Symposium on Computers and Communications (ISCC)*, Jun 2022. [[DOI]](https://doi.org/10.1109/ISCC55528.2022.9912475) [[PDF]](https://www.researchgate.net/publication/365112136_Poster_Flexible_Function_Estimation_of_IoT_Malware_Using_Graph_Embedding_Technique) [[Poster]](https://drive.google.com/file/d/1VXEkAuXN9_SCL5mKY16S2oT_xb80e-D8/view?usp=sharing)
 8. K. Miyamoto, H. Goto, R. Ishibashi, **C. Han**, T. Ban, T. Takahashi, and J. Takeuchi, “Malicious Packet Classification Based on Neural Network Using Kitsune Features,” *Proceedings of the 2nd International Conference on Intelligent Systems and Pattern Recognition*, Springer, Jun 2022. [[DOI]](https://doi.org/10.1007/978-3-031-08277-1_25) [[PDF]](https://www.researchgate.net/publication/361364873_Malicious_Packet_Classification_Based_on_Neural_Network_Using_Kitsune_Features) [[Slides]](https://drive.google.com/file/d/1ZU98xh9WhpJLksvVZJtiMt_Zg4vVuO7-/view?usp=sharing)
@@ -89,7 +50,7 @@ Chansu Han received his B.E. degree in computer science, and M.S. and Ph.D. degr
 
 
 <hr>
-### Non-refereed Domestic Conference Papers (Japan)
+### Non-refereed Domestic Conference Papers
 
 1. K. Ma, **C. Han**, A. Tanaka, T. Takahashi, and J. Takeuchi, “Removing obstacles to function call analysis in IoT malware,” *Symposium on Cryptography and Information Security (SCIS2025)*, Jan 2025. [[Slides (in Japanese)]](https://drive.google.com/file/d/1i_rbRpaJP2xOZfzmEwwv9-3ui_OK-wmY/view?usp=sharing)
 2. S. Kawanaka, K. Miyamoto, **C. Han**, T. Ban, T. Takahashi, and J. Takeuchi, “Investigating the Factors Influencing Cyber-Attack Detection in NIDS Using Explainable AI,” *Symposium on Cryptography and Information Security (SCIS2025)*, Jan 2025. [[Slides (in Japanese)]](https://drive.google.com/file/d/1DzhHm1P3drSL59LMFM9CWAXgqRj--_00/view?usp=sharing)
@@ -101,8 +62,6 @@ Chansu Han received his B.E. degree in computer science, and M.S. and Ph.D. degr
 8. M. Iida, K. Miyamoto, Y. Takeishi, S. Kawanaka, **C. Han**, T. Ban, T. Takahashi, and J. Takeuchi, “Multimodal Feature Integration Toward High-Accuracy Network Intrusion Detection,” *IEICE Tech. Rep., vol.122, no.422,  ICSS2022-55*, pp.43-48, Mar 2023. [[Slides (in Japanese)]](https://drive.google.com/file/d/1XsXcgWFvKR2LK1KzLaVRJlT1VYVJJHuL/view?usp=sharing)
 9. Y. Kashiwabara, K. Miyamoto, M. Iida, S. Kawanaka, **C. Han**, T. Ban, T. Takahashi, and J. Takeuchi, “Consideration of a Packet Level Anomaly Communication Classification Model Using Word Embedding and LSTM,” *IEICE Tech. Rep., vol.122, no.422,  ICSS2022-53*, pp.31-36, Mar 2023. [[Slides (in Japanese)]](https://drive.google.com/file/d/1J9Agdh2n1aKLUpBZCqx9yDLoRabh6df1/view?usp=sharing)
 
-
-### Before 2023 (Non-refereed Domestic Conference Papers)
 
 10. **C. Han**, A. Tanaka, T. Takahashi, and J. Takeuchi, “Tracing Methodology for Scanning Campaigns Based on Darknet Analysis,” *IEICE Tech. Rep., vol.122, no.244, ICSS2022-43*, pp.31-36, Nov 2022. [[Slides (in Japanese)]](https://drive.google.com/file/d/1wB1Jh2Ft_sVIpevXUg8ROOSnQz89FKDJ/view?usp=sharing) [[Datasets]](https://csdataset.nict.go.jp/darknet-2022/)
 7. **C. Han**, A. Tanaka, and T. Takahashi, “Study on Validation and Future Extension of Early Detection Framework for Malware Activities Based on Darknet Analysis,” *Computer Security Symposium (CSS2022)*, Oct 2022. [[Slides (in Japanese)]](https://drive.google.com/file/d/1NExxRpbl0kvS2hMtldCZikUX0PzLSP0G/view?usp=sharing) [[Datasets]](https://csdataset.nict.go.jp/darknet-2022/)
@@ -129,7 +88,10 @@ Chansu Han received his B.E. degree in computer science, and M.S. and Ph.D. degr
 
 
 
-### In Japanese (Non-refereed Domestic Conference Papers)
+<details class="cv-details">
+<summary>In Japanese (Non-refereed Domestic Conference Papers)</summary>
+<div>
+
 
 1. 馬権聖, **韓燦洙**, 田中智, 高橋健志, 竹内純一, “IoTマルウェアにおける関数呼び出し分析の阻害要因の除去,” *暗号と情報セキュリティシンポジウム (SCIS2025)*, 2025年1月. [[Slides (in Japanese)]](https://drive.google.com/file/d/1i_rbRpaJP2xOZfzmEwwv9-3ui_OK-wmY/view?usp=sharing)
 1. 川中翔太, 宮本耕平, **韓燦洙**, 班涛, 高橋健志, 竹内純一, “説明可能AIを用いたNIDSにおけるサイバー攻撃検出要因の調査,” *暗号と情報セキュリティシンポジウム (SCIS2025)*, 2025年1月. [[Slides (in Japanese)]](https://drive.google.com/file/d/1DzhHm1P3drSL59LMFM9CWAXgqRj--_00/view?usp=sharing)
@@ -162,16 +124,32 @@ Chansu Han received his B.E. degree in computer science, and M.S. and Ph.D. degr
 9. **韓燦洙**, 島村隼平, 高橋健志, 井上大介, 竹内純一, 中尾康二, “ダークネットトラフィック分析に基づくサイバー攻撃検知手法の評価,” *2019年暗号と情報セキュリティシンポジウム (SCIS2019)*, 2019年1月. [[Slides]](https://drive.google.com/file/d/1snxK6ZKIKzCPa6_OtI0-TU4kFDS3CEuU/view?usp=sharing) [[Datasets]](https://csdataset.nict.go.jp/darknet-2022/index.ja.html)
 10. **韓燦洙**, 島村隼平, 高橋健志, 井上大介, 川喜田雅則, 竹内純一, 中尾康二, “Graphical Lassoを用いたダークネットデータのリアルタイム分析に基づくマルウェア活動検知に関する検討,” *信学技報, vol.117, no.481, ICSS2017-51*, pp.1-6, 2018年3月. [[Slides]](https://drive.google.com/file/d/1Skr58QPau27t5mFn_wJTFaFgyQW5iUPP/view?usp=sharing)
 11. **韓燦洙**, 松本晋一, 川本淳平, 櫻井幸一, “AndroidマルウェアのAPI呼出し記録による分類及び個人情報漏えい検知,” *火の国情報シンポジウム, 3A-4*, 2016. [[Slides]](https://drive.google.com/file/d/1MFJlulvPfX_7fJc5s9IUMje8uLA5z0qJ/view?usp=sharing)
+</div>
+</details>
 
 
 <hr>
+### Non-refereed Oral Presentation/Talk
+1. **C. Han**, “Challenges and Prospects for Cybersecurity in the AI Era” (AI時代におけるサイバーセキュリティの課題と展望), *ESTOC 2026 (Embedded Systems Technology Open Conference)*, Nagoya, Japan, Jun. 12, 2026. (Invited talk)
+1. **C. Han**, “AI Security Evaluation Platform” (AIセキュリティ評価基盤), *5th Security Young Professionals Meetup (セキュリティ若手の会; LT & Networking)*, NICT, Tokyo, Japan, Jun. 13, 2026. (Venue-sponsor talk)
+1. **C. Han**, “Early Detection and Tracing of Anomalous Scanning Campaigns Through Darknet Analysis,” *2025 Joint Workshop on Cybersecurity* (Northeastern University & University of Maryland), NICT, Tokyo, Japan, Aug. 6, 2025.
+1. M. Umizaki, **C. Han**, and T. Ino, “Basics and Latest Updates of CURE” (CUREの基本と最新アップデート情報), *FY2025 Co-Nexus A (1st Session)*, Jul. 17, 2025.
+1. **C. Han**, “Early Detection and Tracing of Anomalous Scanning Campaigns Through Darknet Analysis,” *KIIS–NICT International Joint Workshop: Unknown Threat and Trust in AI Security*, Tokyo, Japan, Dec. 20, 2024.
+1. **C. Han**, “From Packets to Explanation: Enhancing NIDS with XAI and Cyber-Attack Analysis,” *FY2024 NICT Domestic Advisory Committee Site Visit*, NICT, Japan, Dec. 9, 2024. (Poster)
+1. **C. Han**, “Darknet Analysis: Early Detection of Anomalous Scanning Activities,” *Research Gathering with National Taiwan University (NTU)*, Tokyo, Japan, Sep. 24, 2024.
+1. **C. Han**, “Overview of Cybersecurity Laboratory in NICT and Recent Trends in AI Safety,” *2024 First Autonomous Driving Technology Development Innovation Project Demand Company Technology Committee Meeting*, KATECH, Korea, Aug, 2024.
+1. **C. Han**, “Tracing Internet-wide Scanning Campaigns Based on Darknet Analysis,” *2023 TWN–NICT Cybersecurity Workshop*, Taipei, Taiwan, Dec. 5, 2023.
+1. **C. Han**, “Darknet Network Traffic Analysis for Detecting IoT Attack Campaigns,” *Workshop on Cyber Defense and Resilience (NICT–BCCC)*, NICT, Tokyo, Japan, Dec. 1, 2023.
+1. **C. Han**, “Progress Report on Darknet Analysis: Measurement Analysis and Tracing of Internet-Wide Scanner,” *CIC–NICT Workshop*, Canadian Institute for Cybersecurity (UNB), Canada, Aug. 4, 2023.
+1. A. Tanaka, **C. Han**, and T. Takahashi, “Port Set Clustering for Internet-Wide Scanner,” *The 6th RIKEN-IMI-ISM-NUS-ZIB-MODAL-NHR Workshop on Advances in Classical and Quantum Algorithms for Optimization and Machine Learning*, Sep. 2022.
+1. **C. Han**, “Real-time Detection of Malware Activities on Darknet by Estimating Anomalous Synchronization,” *French–Japanese Cybersecurity Intermediate Workshop 2021 (WG3)*, Feb. 25, 2021.
+1. **C. Han**, “Real-time Detection of Anomalous Cooperation based on Darknet using Graphical Lasso,” *The 1st International Joint Conference on AI & Data Science*, Suwon, Korea, Nov. 2019.
+1. **C. Han** et al., “A Fast Algorithm for Constructing Phylogenetic Trees with Application to IoT Malware Clustering,” *The 3rd Joint Workshop of TWISC and NICT*, Kinmen, Taiwan, Sep. 20–21, 2019.
+1. **C. Han**, presentations at *KISTI–NICT / SCH Joint Security Workshops*, 2018–2024 (selected): “Real-time Detection of Malicious Cooperative Behaviors by the Graphical Lasso from Darknet Traffic” (NICT–SCH, Aug. 2018); “GLASSO Engine: Evaluation of Cyber Attack Detection Method based on Darknet Traffic Analysis” (KISTI–SCH–NICT, Dec. 2018); “A Fast Algorithm for Constructing Phylogenetic Trees with Application to IoT Malware Clustering” (7th NICT–KISTI–SCH, Oct. 2019); “Early Detection and Tracing of Anomalous Scanning Campaigns through Darknet Analysis” (9th KISTI–NICT, Nov. 2024).
+1. **C. Han**, presentations at *NICTER Project Workshop*, 2018–2024 (selected): “Progress and Latest Detection Cases of glasso & NMF Engines” (11th, Nov. 2018); “Introduction to Research Activities on Darknet, Malware, and Livenet Analysis” (12th, Nov. 2019); “Real-time Detection of Malware Activities and Automatic Fingerprint Identification of Internet-wide Scanners” (14th, Nov. 2021, w/ R. Isawa and A. Tanaka); “Tracing Scanner Groups through Darknet Analysis” (16th, Nov. 2023, w/ A. Tanaka); “Between AI and Cybersecurity: Trials Toward Coexistence” (AIとサイバーセキュリティの狭間で：両立を目指した歩みと試行錯誤) (2024, Dec. 2024).
+
 ### Non-refereed Academic Magazine
 1. T. Takahashi, K. Furumoto, and **C. Han**, “Cyber Wars: 2. Boosting Cybersecurity with Machine Learning Techniques,” *IPSJ Magazine, vol.61(7), pp.672-677*, Jul. 2020.
-
-### Non-refereed Oral Presentation/Talk
-1. **Chansu Han**, “Overview of Cybersecurity Laboratory in NICT and Recent Trends in AI Safety,” *2024 First Autonomous Driving Technology Development Innovation Project Demand Company Technology Committee Meeting*, KATECH, Korea, Aug, 2024.
-1. A. Tanaka, **C. Han**, and T. Takahashi, “Port Set Clustering for Internet-Wide Scanner,” *The 6th RIKEN-IMI-ISM-NUS-ZIB-MODAL-NHR Workshop on Advances in Classical and Quantum Algorithms for Optimization and Machine Learning*, Sep. 2022.
-2. **Chansu Han**, “Real-time Detection of Anomalous Cooperation based on Darknet using Graphical Lasso,” *The 1st International Joint Conference on AI & Data Science*, Suwon, Korea, Nov. 2019.
 
 ### Thesis
 1. Real-time Detection of Malware Activities and Analysis of Behavioral Differences Between IoT Malware, Doctoral Dissertation, *ISEE, Kyushu University*, Date Accepted: 2021-01-12, Granted Date: 2021-03-24, Degree: Doctor of Engineering [[PDF]](https://catalog.lib.kyushu-u.ac.jp/opac_download_md/4475145/isee0693.pdf) [[Slides (in Japanese)]](https://drive.google.com/file/d/1jNFK8CPlbF7-diEdqFEt6e3nH_uJSviC/view?usp=sharing) [[Details]](http://hdl.handle.net/2324/4475145)
@@ -181,56 +159,107 @@ Chansu Han received his B.E. degree in computer science, and M.S. and Ph.D. degr
 <hr>
 # Others
 
+## Datasets
+
+- **NICT Darknet Dataset 2022**: publicly released darknet traffic dataset ([website](https://csdataset.nict.go.jp/darknet-2022/)). Provided to 31 research groups/institutions (as of July 2026).
+
 ## Projects
-- Tenure-Track Researcher, NICT, 2023-Current, 4M JPY (yearly)
-- NARLabs-NICT Joint Project: Efficient and effective network management and cybersecurity, 2024.04-2026.03, 5M JPY
-- NARLabs-NICT Joint Project: NICTER(Network Incident analysis Center for Tactical Emergency Response), 2021.04-2023.03, 5M JPY
-- 電波利用料: 電波の有効利用のためのIoTマルウェアの挙動検知及び駆除技術の実現，横国大(主体)，2020-2022(3年)，総務省, 1B JPY
-    - MITIGATE, Research and Development for Expansion of Radio Wave Resources (JPJ000254), Ministry of Internal Affairs and Communications, Japan., 1B JPY
-- 官民研究開発投資拡大プログラム（PRISM）「AI技術領域」: サイバー攻撃ハイブリッド高速分析プラットフォームの研究開発，NICT(主体)，2019(1年), 200M JPY
-- NICTER Project (Network Incident analysis Center for Tactical Emergency Response)
-https://www.nicter.jp/en/
+- **Joint Research on AI Safety with US Specialized Organizations**, NICT, FY2025–FY2026, subsidy from the Ministry of Internal Affairs and Communications (MIC), Japan; FY2025: 250M JPY, FY2026: 300M JPY
+- **Tenure-Track Researcher**, NICT, 2023–present, 4M JPY/year
+- **NARLabs–NICT Joint Project**: Efficient and Effective Network Management and Cybersecurity, Apr. 2024–Mar. 2026, 5M JPY
+- **NARLabs–NICT Joint Project**: NICTER (Network Incident analysis Center for Tactical Emergency Response), Apr. 2021–Mar. 2023, 5M JPY
+- **MITIGATE**: Research and Development for Expansion of Radio Wave Resources (JPJ000254) — IoT malware behavior detection and remediation for efficient radio spectrum use; Yokohama National University (lead), MIC, Japan, 2020–2022, 1B JPY
+- **PRISM (Public/Private R&D Investment Strategic Expansion Program), AI Technology Area**: R&D of a Hybrid High-Speed Cyber Attack Analysis Platform; NICT (lead), 2019, 200M JPY
+- **NICTER Project** (Network Incident analysis Center for Tactical Emergency Response): [https://www.nicter.jp/en/](https://www.nicter.jp/en/)
 
 ## Awards/Honors
-- 情報処理学会 CSEC優秀研究賞 (第104回CSEC研究会) (CSEC Best Research Award, IPSJ), 2024 (共著)
-- 情報処理学会 コンピュータセキュリティシンポジウム2021 CSS学生論文賞 (CSS Best Student Paper Award, IPSJ), 2021 (共著)
+- CSEC Best Research Award, IPSJ (104th CSEC Workshop), 2024 (co-author)
+- CSS Best Student Paper Award, IPSJ Computer Security Symposium 2021, 2021 (co-author)
 
-## Teaching/Education/Lecture
-- 非常勤講師，津田塾大学，2024年度, 2023年度
+## Teaching
+- Part-time Lecturer, Tsuda University, FY2023–FY2024
+  - Course: *Artificial Intelligence and Machine Learning* (人工知能・機械学習（演習付）, CS3032), Department of Computer Science
+
+## Mentoring
+
+### Graduate Students (Kyushu University; including students supervised as Visiting Assistant Professor)
+
+**Ph.D.**
+
+- Vincent Takahashi, Kyushu University, 2025–present
+- Kohei Miyamoto, Kyushu University, 2021–2024
+- Tianxiang He, Kyushu University, 2018–2023
+
+**Master’s**
+
+- Keiji Inoue, Kyushu University, 2025–present
+- Kosuke Nikawa, Kyushu University, 2023–2025
+- Shota Kawanaka, Kyushu University, 2022–2024 (RA at NICT, 2024)
+- Kensei Ma, Kyushu University, 2022–2024
+- Satoshi Takada, Kyushu University, 2021–2023
+- Masazumi Iida, Kyushu University, 2022–2023
+- Kei Oshio, Kyushu University, 2022–2023
+- Yoshikatsu Kashiwabara, Kyushu University, 2022–2023
+- Ryosuke Ishibashi, Kyushu University, 2020–2022
+- Hiroki Goto, Kyushu University, 2020–2022
+- Reo Kawasoe, Kyushu University, 2019–2021
+- Wanju Wei, Kyushu University, 2019–2020
+- Hirohito Nakahara, Kyushu University, 2016–2017
+
+### Research Assistants (RA), NICT
+- Soma Kato, Kyushu University, 2025–present
+- Shu Akabane, Kanagawa Institute of Technology, 2024
+- Yuta Nakagawa, Yokohama National University, 2019
+
+### Interns and Cooperative Visiting Researchers
+- Mainak Basak, Hankyong National University (HNU), Korea, 2026
+- Hyeonjin Jung, Yonsei University, Korea, 2026
+- Han-Ju Lee, Yonsei University, Korea, 2025–2026
+- Jin-Seong Kim, Yonsei University, Korea, 2025–2026
+- Shincheol Lee, Dongguk University, Korea, 2025
+- Insik Choi, Sejong University, Korea, 2025
+- Thomas Winninger, Télécom SudParis, France, 2025
+- Yu-Hsun Lee, National Institute of Cyber Security (NICS), Taiwan, 2024
+- Meng-Hsueh Yu, National Institute of Cyber Security (NICS), Taiwan, 2024
+- Martin Horth, Télécom SudParis, France, 2023
+- Vincent Lin, National Taiwan University (NTU), Taiwan, 2023
+- Tien-Ning Lee, National Yang Ming Chiao Tung University (NYCU), Taiwan, 2023
 
 ## Patents
-- [2022-123952, 2022-123955] フィンガープリント特定システム及びフィンガープリント特定方法, 2022
+- Fingerprint Identification System and Method, Japanese Patent Applications 2022-123952 and 2022-123955, 2022
 
-## Mass Media/Exhibition
-- 人工知能学会全国大会 企業展示，2026：AIセキュリティ研究センター(CREATE) 〜AIセキュリティ評価基盤〜
-- INTEROP Tokyo展示･デモ，2026
-    - 2026年度：AIセキュリティ研究センター(CREATE) 〜AIセキュリティ評価基盤〜
-- CEATEC展示･デモ，2025
-    - 2025年度：安全･安心なAI時代のために 〜LLMセキュリティ評価と攻撃･防御の最前線〜
-- NICTオープンハウス 展示･デモ，2025--2026
-    - 2026年度：AI時代のセキュリティ最前線 〜AIによる防御とAIの安全性評価〜
-    - 2025年度：AIセキュリティ研究センター｢CREATE｣ 〜AIの安全性と信頼性を支える取り組み〜
-- **韓燦洙**, “サイバー脅威　AIで発見,” *日刊工業新聞｢NICT先端研究｣第141回掲載*, 2020年7月28日 [[PDF]](https://www.nict.go.jp/gaibu-keisai/oi25v200000005r2-att/141.pdf)
+## Media & Exhibitions
+- Corporate exhibition, Annual Conference of the Japanese Society for Artificial Intelligence (JSAI), 2026: CREATE — AI Security Evaluation Platform
+- INTEROP Tokyo exhibition & demo, 2026: CREATE — AI Security Evaluation Platform
+- CEATEC exhibition & demo, 2025: LLM Security Evaluation and Attack/Defense Frontiers
+- NICT Open House exhibition & demo, 2025–2026: AI security evaluation and defense
+- **C. Han**, “Discovering Cyber Threats with AI,” *Nikkan Kogyo Shimbun* (NICT Advanced Research, No. 141), Jul. 28, 2020 [[PDF]](https://www.nict.go.jp/gaibu-keisai/oi25v200000005r2-att/141.pdf)
 
-## Member
+## Memberships
 - Information Processing Society of Japan (IPSJ)
 
 <hr>
 ## Professional Services
 
 ### Editorial Service
-- Editorial Committee, Journal of Information Processing (IPSJ), Special issue on Computer Security Technologies for AI Society, 2024--2025
-- Editorial Committee, Journal of Information Processing (IPSJ), Special issue on Cybersecurity Technologies for Secure Supply-Chain, 2023--2024
+- Editorial Committee, *Journal of Information Processing* (IPSJ), Special Issue on Computer Security Technologies for AI Society, 2024–2025
+- Editorial Committee, *Journal of Information Processing* (IPSJ), Special Issue on Cybersecurity Technologies for Secure Supply-Chain, 2023–2024
 
 ### Conference/Workshop Organization
-- [Local Arrangement Chair] International Conference on Artificial Intelligence Computing and Systems (AICompS), 2025
+- Special Session Organizer (SS-19: AI Security), *SCIS&ISIS 2026*, Hachioji, Tokyo, Japan, Nov. 2–5, 2026 [[website]](https://soft-cr.org/scis/2026/special_session.html)
+- Organizing Committee, *NICT AI Security Workshop: Strengthening U.S.–Japan Collaboration on AI Security*, Cosmos Club, Washington, DC, USA, Jan. 22, 2026 (sponsored by CREATE, NICT)
+- Organizing Committee, *Asia Symposium on AI and Cybersecurity* (KIIS–NICT; supported by KOFST), NICT, Japan, Sep. 25–26, 2025
+- Organizing Committee, *KIIS–NICT International Joint Workshop: Unknown Threat and Trust in AI Security* (KIIS; supported by KOFST), Tokyo, Japan, Dec. 20–21, 2024
+- Organizing Committee, *The 9th KISTI–NICT International Joint Workshop*, Tokyo, Japan, Nov. 11–12, 2024
+- Local Arrangement Chair, International Conference on Artificial Intelligence Computing and Systems (AICompS), 2025
 
 ### Program Committee Member
-- IEEE Conference on Dependable and Secure Computing (DSC), 2026, 2024(Poster Session Chair)
+- IEEE Conference on Dependable and Secure Computing (DSC), 2026; 2024 (Poster Session Chair)
 - International Conference on Neural Information Processing (ICONIP), 2024, 2021, 2019
 - IEEE International Joint Conference on Neural Networks (IJCNN), 2024
 
 ### Session Chair
+- *The 9th KISTI–NICT International Joint Workshop*, Tokyo, Japan, Nov. 11, 2024
 - International Conference on Information Systems Security and Privacy (ICISSP), 2023
 - Computer Security Symposium (CSS), 2021, 2020
 
@@ -251,74 +280,3 @@ https://www.nicter.jp/en/
 - IEICE Transactions on Communications, 2019
 - International Journal of Information Security, 2019
 - Annual Computer Security Applications Conference (ACSAC), 2018
-
-<hr>
-## Academic Background and Career
-| Date                 | Academic Background and Career                                                                                                                                                         |
-| -------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| --Feb. 2012          | Graduated Gwangdeok High School, Gwangju, Republic of Korea                                                                                                                            |
-| Apr. 2012--Mar. 2016 | Department of Electrical Engineering and Computer Science, School of Engineering, Kyushu University (Received Bachelor of Engineering)                                                 |
-| Apr. 2016--Mar. 2018 | Department of Informatics, Graduate School of Information Science and Electrical Engineering, Kyushu University (Received Master of Science)                                           |
-| Apr. 2018--Mar. 2021 | Department of Informatics, Graduate School of Information Science and Electrical Engineering, Kyushu University (Received Doctor of Engineering)                                       |
-| Apr. 2018--Mar. 2026 | Researcher, Cybersecurity Laboratory, National Institute of Information and Communications Technology (NICT)                                                                           |
-| Apr. 2023--present   | Visiting Assistant Professor (Research Advisor), Mathematical Engineering Laboratory, Graduate School and Faculty of Information Science and Electrical Engineering, Kyushu University |
-| Apr. 2023--present                | Tenure-Track Researcher, NICT                                                                                                                                                                                       |
-| Jun. 2023--Aug. 2023 | Visiting Researcher with the University of New Brunswick to collaborate on research with Prof. Ali Ghorbani, Director of the Canadian Cybersecurity Center, UNB.                       |
-| Apr. 2025–present    | Researcher, Center for Research on AI Security and Technology Evolution (CREATE), National Institute of Information and Communications Technology (NICT)                               |
-
-
-## 履歴（日本語）
-
-### 学歴
-|  日付  | 学歴 |
-| --- | --- |
-|  2012年2月  | 大韓民国　光州広域市　光徳高校卒業 |
-|  2012年4月  | 九州大学　工学部　電気情報工学科　入学 |
-|  2016年3月  | 九州大学　工学部　電気情報工学科　卒業 学士（工学）取得 |
-|  2016年4月  | 九州大学大学院　システム情報科学府　情報学専攻　修士課程　入学 |
-|  2018年3月  | 九州大学大学院　システム情報科学府　情報学専攻　修士課程　卒業 修士（理学）取得 |
-|  2018年4月  | 九州大学大学院　システム情報科学府　情報学専攻　博士後期課程　入学 |
-|  2021年3月  | 九州大学大学院　システム情報科学府　情報学専攻　博士後期課程　卒業 博士（工学）取得  |
-
-### 職歴（インターン含む）
-| 日付                | 職歴(インターン含む)                                                                                                                                           |
-| ------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 2012年7月~2013年6月 | [[株式会社 テンエックスラボ]](https://10xlab.jp/) インターン(1年間)                                                                                              |
-| 2015年4月~2016年3月 | [[九州大学 工学部 櫻井研究室]](http://itslab.csce.kyushu-u.ac.jp/index-j.html) 学士（工学）修了                                                                  |
-| 2015年6月~2016年3月 | [[公益財団法人 九州先端科学技術研究所]](http://www.isit.or.jp/) 情報セキュリティ研究室 研究助手                                                                  |
-| 2016年4月~2018年3月 | [[九州大学 大学院システム情報科学府 回路研究室]](http://www.me.inf.kyushu-u.ac.jp/homepage.ja.html) 修士（理学）修了                                             |
-| 2016年4月~2018年3月 | [[九州大学 アジア人財プログラム]](http://www.aq-program.kyushu-u.ac.jp/) 修了                                                                                    |
-| 2016年8月~2016年9月 | [[NTTデータ先端技術株式会社]](http://www.intellilink.co.jp/) インターン(3週間)                                                                                   |
-| 2016年9月~2016年9月 | [[セキュリティ・キャンプ九州 in 福岡 2016]](http://www.security-camp.org/minicamp/kyushu2016.html) (3日間)                                                       |
-| 2017年2月~2017年3月 | [[The 21st Century Challenges in Living Abroad Program, Chinese]](http://www.isc.kyushu-u.ac.jp/intlweb/study/short-term) 台湾で中国語研修(3週間)                |
-| 2017年8月~2017年9月 | [[情報通信研究機構(NICT) サイバーセキュリティ研究室]](http://nict.go.jp/cyber/index.html) 共同研究員として出張 (16日間)                                          |
-| 2018年4月~2021年3月 | [[九州大学 大学院システム情報科学府 数理工学研究室]](http://www.me.inf.kyushu-u.ac.jp/homepage.ja.html) 博士（工学）修了                                         |
-| 2018年4月~現在      | [[情報通信研究機構(NICT) サイバーセキュリティ研究室]](http://nict.go.jp/cyber/index.html) 研究員                                                                 |
-| 2023年4月~現在      | [[九州大学 大学院システム情報科学府 数理工学研究室]](http://www.me.inf.kyushu-u.ac.jp/homepage.ja.html) 研究指導者(客員助教)                                     |
-| 2023年6月~2023年8月 | Visiting Researcher with the University of New Brunswick to collaborate on research with Dr. Ali Ghorbani, Director of the Canadian Cybersecurity Center, UNB. |
-
-### 奨学金受給
-|  日付  | 奨学財団名 |
-| --- | --- |
-|  2012年4月~2014年3月(2年間)  | 学習奨励金（日本学生支援機構JASSO） |
-|  2016年4月~2018年3月(2年間)  | NTTドコモ 留学生奨学金 |
-
-### コミュニケーション可能な言語
-  * 韓国語（母国語）
-  * 日本語（ネイティブレベル）
-  * 英語（日常会話レベル）
-  * 中国語（初級者レベル）
-
-### 資格・受賞
-|  日付  | 資格・受賞 |
-| --- | --- |
-|  2005年9月  | 全国漢字能力検定試験 3級(韓国) |
-|  2011年9月  | コンピュータ活用能力 1級(韓国国家技術資格) |
-|  2011年10月  | ITQ Excel, PowerPoint, Internet 全てA等級(韓国) |
-|  2011年10月  | ITQ OA Master(韓国) |
-|  2011年12月  | 情報処理技能士(韓国国家技術資格) |
-|  2013年1月  | 九州大学 外国語プレゼンテーションコンテスト 中国語，日本語部門 全て優秀賞 |
-|  2016年1月  | 日本語能力試験 1級(日本) |
-|  2017年3月  | HSK 4級 |
-|  2017年10月  | IPA(経済産業省) 応用情報技術者試験 合格 |
-

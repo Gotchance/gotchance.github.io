@@ -1,0 +1,35 @@
+## Academic Appointments
+
+::: {.cv-vita}
+2025 – present
+:   **National Institute of Information and Communications Technology (NICT)**, Japan\
+    Researcher, Center for Research on AI Security and Technology Evolution (CREATE)
+
+2023 – present
+:   **Kyushu University**, Japan\
+    Visiting Assistant Professor (Research Advisor), Mathematical Engineering Laboratory
+
+2018 – 2026
+:   **National Institute of Information and Communications Technology (NICT)**, Japan\
+    Researcher, Cybersecurity Laboratory (Tenure-Track Researcher since 2023)
+
+2023 (Jun – Aug)
+:   **University of New Brunswick**, Canada\
+    Visiting Researcher (Canadian Institute for Cybersecurity)
+:::
+
+## Education
+
+::: {.cv-vita}
+2021
+:   **Kyushu University**, Japan\
+    Doctor of Engineering
+
+2018
+:   **Kyushu University**, Japan\
+    Master of Science
+
+2016
+:   **Kyushu University**, Japan\
+    Bachelor of Engineering
+:::

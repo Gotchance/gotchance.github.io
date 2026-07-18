@@ -1,0 +1,42 @@
+<script>
+(() => {
+  const selectors = [
+    "#refereed-journal-papers > ol",
+    "#refereed-conference-papers > ol",
+    "#non-refereed-domestic-conference-papers > ol",
+    "#non-refereed-oral-presentationtalk > ol",
+  ];
+
+  const updateHint = (ol, hint) => {
+    const overflow = ol.scrollHeight > ol.clientHeight + 1;
+    const atBottom = ol.scrollTop + ol.clientHeight >= ol.scrollHeight - 2;
+    hint.classList.toggle("is-visible", overflow && !atBottom);
+  };
+
+  const init = () => {
+    for (const sel of selectors) {
+      const ol = document.querySelector(sel);
+      if (!ol) continue;
+
+      let hint = ol.nextElementSibling;
+      if (!hint || !hint.classList.contains("pub-scroll-hint")) {
+        hint = document.createElement("p");
+        hint.className = "pub-scroll-hint";
+        hint.textContent = "Scroll for more";
+        ol.insertAdjacentElement("afterend", hint);
+      }
+
+      const refresh = () => updateHint(ol, hint);
+      ol.addEventListener("scroll", refresh, { passive: true });
+      window.addEventListener("resize", refresh);
+      refresh();
+    }
+  };
+
+  if (document.readyState === "loading") {
+    document.addEventListener("DOMContentLoaded", init);
+  } else {
+    init();
+  }
+})();
+</script>
