@@ -271,20 +271,20 @@ CVprofile_confDL/
 - [x] CV ページ ↔ 学会ページのナビゲーション
 - [x] 見やすさの仕上げ（空列削除、セル短縮、モバイル調整、YAML 化など）
 
-### Phase 3: 公開・自動化（1 日）
+### Phase 3: 公開・自動化（任意・見送り）
 
-- [ ] GitHub Actions: push to `main` → `quarto render` → `docs/` deploy
-- [ ] PDF を `docs/cv/Chansu_Han_CV.pdf` として artifact も保存
-- [ ] GitHub Pages 設定（Source: GitHub Actions）
+- [ ] GitHub Actions: push to `main` → `quarto render` → `docs/` deploy（現状の docs push 運用で可のため見送り）
+- [ ] PDF を artifact としても保存（任意）
+- [ ] GitHub Pages Source を Actions に切り替え（任意。現状は `/docs`）
 - [ ] カスタムドメイン（任意）
 
 ### Phase 4: 仕上げ（任意）
 
-- [ ] HackMD 旧ページに移行先 URL を追記
-- [ ] Google Scholar / ORCID / 所属ページから新 URL へリンク更新
+- [x] HackMD 旧ページに移行先 URL を追記
+- [x] Google Scholar / ORCID / 所属ページから新 URL へリンク更新
 - [x] 学会データの YAML 化（更新効率向上）→ `conferences/data/conferences.yml`
-- [ ] 日本語履歴の独立ページ (`/cv/ja`)
-- [ ] アクセス解析（Plausible / Google Analytics）
+- [x] 日本語履歴の独立ページ (`/cv/ja`) — 不要と判断
+- [x] アクセス解析（Plausible / Google Analytics）— 不要と判断
 
 ---
 

@@ -251,10 +251,11 @@
 - Organizing Committee, *Asia Symposium on AI and Cybersecurity* (KIIS–NICT; supported by KOFST), NICT, Japan, Sep. 25–26, 2025
 - Organizing Committee, *KIIS–NICT International Joint Workshop: Unknown Threat and Trust in AI Security* (KIIS; supported by KOFST), Tokyo, Japan, Dec. 20–21, 2024
 - Organizing Committee, *The 9th KISTI–NICT International Joint Workshop*, Tokyo, Japan, Nov. 11–12, 2024
-- Local Arrangement Chair, International Conference on Artificial Intelligence Computing and Systems (AICompS), 2025
+- Local Arrangement Chair, International Conference on Artificial Intelligence Computing and Systems (AICompS), 2026, 2025
+- Poster Session Chair, IEEE Conference on Dependable and Secure Computing (DSC), 2024
 
 ### Program Committee Member
-- IEEE Conference on Dependable and Secure Computing (DSC), 2026; 2024 (Poster Session Chair)
+- IEEE Conference on Dependable and Secure Computing (DSC), 2026, 2024
 - International Conference on Neural Information Processing (ICONIP), 2024, 2021, 2019
 - IEEE International Joint Conference on Neural Networks (IJCNN), 2024
 
