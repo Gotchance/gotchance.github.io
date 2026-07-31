@@ -16,7 +16,7 @@
 
 ### Refereed Conference Papers
 
-1. J. Kim, H. Lee, S. Hong, T. Takahashi, **C. Han**, T. Morikawa, and S. Choi, “Don’t Trust the AI Ecosystem: Analyzing Privacy Leakage in Compromised Open-Source Components,” *ACM CCS*, Nov 2026. **(Tier 1)**
+1. J. Kim, H. Lee, S. Hong, T. Takahashi, **C. Han**, T. Morikawa, and S. Choi, “Don’t Trust the AI Ecosystem: Analyzing Privacy Leakage in Compromised Open-Source Components,” *ACM CCS*, Nov 2026. **(Tier 1)** [[arXiv]](https://arxiv.org/abs/2607.27886)
 1. H. Lee, J. Kim, **C. Han**, G. Bang, T. Takahashi, and S. Choi, “An Empirical Study on the Privacy Effects of Model Merging in Vision Language Models,” *International Conference on Ubiquitous and Future Networks (ICUFN)*, Jul 2026.
 1. K. Nikawa, **C. Han**, A. Tanaka, K. Iwamoto, T. Takahashi, and J. Takeuchi, “Improving Scalable Clustering for IoT Malware via Code Region Extraction,” *The 28th Annual International Conference on Information Security and Cryptology (ICISC)*, Nov 2025. **(Tier 3)** [[DOI]](https://doi.org/10.1007/978-981-95-8034-7_5)
 1. S. Kato, **C. Han**, T. Takahashi, and K. Sakurai, “A Survey of Jailbreak Attacks and Defenses for Large Language Models,” *The International Conference on Artificial Intelligence Computing and Systems (AICompS)*, Nov 2025.
