@@ -23,12 +23,13 @@
 ### Refereed Conference Papers
 
 <!--
+1. **C. Han** and T. Takahashi, ''Safety Direction Adapter: Training-Free Post-Hoc Re-Alignment for Fine-Tuned Open-Weight LLMs,'' *NDSS*, 2027. **(Tier 1)**
 1. K. Inoue, **C. Han**, Y. Takeishi, T. Takahashi, and J. Takeuchi, ''Beyond Difference-in-Means: Towards Richer Activation Steering Representations,'' *AAAI*, 2027 **(Tier 1)**
 1. S. Kato, **C. Han**, T. Takahashi, and K. Sakurai, ''MemTAP: Memory-Augmented Tree of Attacks with Pruning for Automated Jailbreak Generation against Large Language Models,'' *IEEE DSC*, 2026.
 1. **C. Han**, and T. Takahashi, ''Does Refusal-Direction Drift on Safety Benchmarks Predict Fine-Tuning Safety Loss?,'' *IEEE DSC Workshop*, 2026.
 1. **C. Han**, and T. Takahashi, ''Weight Drift as a Fine-Tuning Safety Screen: Signal and Its Limits,'' *SCIS&ISIS*, 2026.
 1. S. Lee, **C. Han**, I. Choi, and T. Takahashi, ''From CVEs to Countermeasures: Benchmarking D3FEND Selection on Attack-Defense Scenarios,'' *SCIS&ISIS*, 2026.
-. J. Kim, H. Lee, **C. Han**, and S. Choi, ''Isolating the Signal from Noise: Model Inversion Attacks against PEFT-Based Text Classifiers,'' *EMNLP*, 2026. **(Tier 1)**
+1. J. Kim, H. Lee, **C. Han**, and S. Choi, ''Isolating the Signal from Noise: Model Inversion Attacks against PEFT-Based Text Classifiers,'' *EMNLP*, 2026. **(Tier 1)**
 1. S. Lee, **C. Han**, S. Choi, and T. Takahashi, ''Toward Systematic Cyberattack Analysis via MITRE ATT&CK TTP Mapping,'' *Information Security Conference (ISC)*, 2026. **(Tier 3)**
 1. **[Rejected]** K. Miyamoto, **C. Han**, A. Tanaka, and T. Takahashi, ''Experimental Study of Backdoor Attacks on Auto-regressive and Diffusion-based LLMs,'' *The 28th Annual International Conference on Information Security and Cryptology (ICISC)*, 2025. **(Tier 3)**
 -->
@@ -300,12 +301,12 @@ Budget: 200 Million Yen
 - Editorial Committee, *Journal of Information Processing* (IPSJ), Special Issue on Cybersecurity Technologies for Secure Supply-Chain, 2023–2024
 
 ### Conference/Workshop Organization
-- Special Session Organizer (SS-19: AI Security), *SCIS&ISIS 2026*, Hachioji, Tokyo, Japan, Nov. 2–5, 2026 [[website]](https://soft-cr.org/scis/2026/special_session.html)
+- Local Arrangement Chair, International Conference on Artificial Intelligence Computing and Systems (AICompS), 2026, 2025 [[website]](https://aicomps2026.conferenceservice.jp/)
+- Special Session Organizer (SS-19: AI Security; including review and meta-review), SCIS&ISIS, 2026 [[website]](https://soft-cr.org/scis/2026/special_session.html)
 - Organizing Committee, *NICT AI Security Workshop: Strengthening U.S.–Japan Collaboration on AI Security*, Cosmos Club, Washington, DC, USA, Jan. 22, 2026 (sponsored by CREATE, NICT)
 - Organizing Committee, *Asia Symposium on AI and Cybersecurity* (KIIS–NICT; supported by KOFST), NICT, Japan, Sep. 25–26, 2025
 - Organizing Committee, *KIIS–NICT International Joint Workshop: Unknown Threat and Trust in AI Security* (KIIS; supported by KOFST), Tokyo, Japan, Dec. 20–21, 2024
 - Organizing Committee, *The 9th KISTI–NICT International Joint Workshop*, Tokyo, Japan, Nov. 11–12, 2024
-- Local Arrangement Chair, International Conference on Artificial Intelligence Computing and Systems (AICompS), 2026, 2025
 - Poster Session Chair, IEEE Conference on Dependable and Secure Computing (DSC), 2024
 
 ### Program Committee Member
@@ -319,6 +320,7 @@ Budget: 200 Million Yen
 - Computer Security Symposium (CSS), 2021, 2020
 
 ### Review Experiences
+- SCIS&ISIS, 2026
 - IEEE Conference on Dependable and Secure Computing (DSC), 2026, 2024
 - IEEE Transactions on Reliability, 2025, 2024
 - IPSJ Journal of Information Processing, 2025, 2024, 2022, 2021
