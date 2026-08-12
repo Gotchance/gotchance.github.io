@@ -6,6 +6,7 @@ project:
     - cv/index.qmd
     - conferences/index.qmd
   pre-render:
+    - scripts/update-last-updated.sh
     - scripts/render-conference-table.sh
   post-render:
     - scripts/render-cv-pdf.sh
@@ -26,7 +27,7 @@ website:
         href: https://github.com/Gotchance
         aria-label: GitHub
   page-footer:
-    center: "Last updated: 2026-07-18"
+    center: "Last updated: 2026-08-12"
 
 format:
   html:
