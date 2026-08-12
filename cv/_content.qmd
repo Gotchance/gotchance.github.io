@@ -5,8 +5,8 @@
 ### Refereed Journal Papers
 
 <!--
+1. **[Under Review]** M. Basak, **C. Han**, T. Takahashi, and G. Shin, ''KARL: Knowledge-Aligned Reinforcement Learning with Cyber-Threat Graph Reasoning for Robust Zero-Day Defense,'' *Engineering Applications of Artificial Intelligence (EAAI)*, 2026.
 1. **[Under Revision]** B. Lin, Y. Chang, C. Chan, H. Chen, T. Morikawa, **C. Han**, H. C. Tanuwidjaja, T. Takahashi, W. Liao, and T. Lin, ''Can You Spot My Malicious Network Activity? NIDS Evasion through Flow Camouflage Attack,'' *IEEE Transactions on Dependable and Secure Computing (TDSC)*, 2026.
-1. **[Under Review]** M. Basak, **C. Han**, T. Takahashi, and G. Shin, ''KARL: Knowledge-Aligned Reinforcement Learning with Cyber-Threat Graph Reasoning for Robust Zero-Day Defense,'' *IEEE ACCESS*, 2026.
 1. **[Under Submission]** M. Basak, **C. Han**, T. Takahashi, and G. Shin, ''A Bilateral Network Security Framework for Federated Threat Intelligence: A Comprehensive Study of Secure Information Sharing and Standard Intelligence Exchange,'' *ACM Computing Surveys*, 2026.
 -->
 
@@ -320,7 +320,8 @@ Budget: 200 Million Yen
 - Computer Security Symposium (CSS), 2021, 2020
 
 ### Review Experiences
-- SCIS&ISIS, 2026
+- ACM Digital Threats: Research and Practice (DTRAP), 2026
+- Joint International Conference on Soft Computing and Intelligent Systems and International Symposium on Advanced Intelligent Systems (SCIS&ISIS), 2026
 - IEEE Conference on Dependable and Secure Computing (DSC), 2026, 2024
 - IEEE Transactions on Reliability, 2025, 2024
 - IPSJ Journal of Information Processing, 2025, 2024, 2022, 2021
