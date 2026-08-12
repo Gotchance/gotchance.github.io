@@ -1,18 +1,27 @@
 #!/usr/bin/env bash
-# Update website page-footer "Last updated" date before Quarto render.
+# Update "Last updated" date (Asia/Tokyo) before Quarto render.
+# Targets: website footer (_quarto.yml) and CV PDF footer (cv/cv-pdf.qmd).
 set -euo pipefail
 ROOT="$(cd "$(dirname "$0")/.." && pwd)"
-YML="$ROOT/_quarto.yml"
 TODAY="$(TZ=Asia/Tokyo date +%Y-%m-%d)"
 
-if [[ ! -f "$YML" ]]; then
-  echo "ERROR: $YML not found" >&2
-  exit 1
-fi
+update_file() {
+  local file="$1"
+  local pattern="$2"
+  if [[ ! -f "$file" ]]; then
+    echo "ERROR: $file not found" >&2
+    exit 1
+  fi
+  local tmp
+  tmp="$(mktemp)"
+  sed -E "$pattern" "$file" > "$tmp"
+  mv "$tmp" "$file"
+}
 
-# macOS and GNU sed compatible in-place edit
-tmp="$(mktemp)"
-sed -E "s/(center: \"Last updated: )[0-9]{4}-[0-9]{2}-[0-9]{2}(\")/\1${TODAY}\2/" "$YML" > "$tmp"
-mv "$tmp" "$YML"
+update_file "$ROOT/_quarto.yml" \
+  "s/(center: \"Last updated: )[0-9]{4}-[0-9]{2}-[0-9]{2}(\")/\1${TODAY}\2/"
 
-echo "OK: Last updated → ${TODAY}"
+update_file "$ROOT/cv/cv-pdf.qmd" \
+  "s/(fancyfoot\[L\]\{\\footnotesize Last updated: )[0-9]{4}-[0-9]{2}-[0-9]{2}/\1${TODAY}/"
+
+echo "OK: Last updated → ${TODAY} (website + CV PDF)"
