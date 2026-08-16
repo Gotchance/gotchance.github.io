@@ -22,6 +22,6 @@ update_file "$ROOT/_quarto.yml" \
   "s/(center: \"Last updated: )[0-9]{4}-[0-9]{2}-[0-9]{2}(\")/\1${TODAY}\2/"
 
 update_file "$ROOT/cv/cv-pdf.qmd" \
-  "s/(fancyfoot\[L\]\{\\footnotesize Last updated: )[0-9]{4}-[0-9]{2}-[0-9]{2}/\1${TODAY}/"
+  "s/(Last updated: )[0-9]{4}-[0-9]{2}-[0-9]{2}/\1${TODAY}/"
 
 echo "OK: Last updated → ${TODAY} (website + CV PDF)"

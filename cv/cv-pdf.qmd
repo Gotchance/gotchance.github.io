@@ -49,7 +49,7 @@ format:
         \titlespacing*{\subsection}{0pt}{0.75em}{0.25em}
         \pagestyle{fancy}
         \fancyhf{}
-        \fancyfoot[L]{\footnotesize Last updated: 2026-08-12}
+        \fancyfoot[L]{\footnotesize Last updated: 2026-08-17}
         \fancyfoot[C]{\footnotesize\thepage}
         \renewcommand{\headrulewidth}{0pt}
         \renewcommand{\maketitle}{}
