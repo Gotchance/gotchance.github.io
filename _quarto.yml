@@ -13,6 +13,7 @@ project:
 
 website:
   title: " "
+  favicon: cv/assets/favicon.svg
   navbar:
     title: false
     left:
@@ -27,7 +28,7 @@ website:
         href: https://github.com/Gotchance
         aria-label: GitHub
   page-footer:
-    center: "Last updated: 2026-08-12"
+    center: "Last updated: 2026-08-17"
 
 format:
   html:
