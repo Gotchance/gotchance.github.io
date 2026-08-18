@@ -23,7 +23,7 @@
 ### Refereed Conference Papers
 
 <!--
-1. **C. Han** and T. Takahashi, ''Safety Direction Adapter: Training-Free Post-Hoc Re-Alignment for Fine-Tuned Open-Weight LLMs,'' *NDSS*, 2027. **(Tier 1)**
+1. **C. Han** and T. Takahashi, ''Safety Direction Adapter: A Training-Free Post-Hoc Safety Patch for Fine-Tuned Open-Weight LLMs,'' *NDSS*, 2027. **(Tier 1)**
 1. K. Inoue, **C. Han**, Y. Takeishi, T. Takahashi, and J. Takeuchi, ''Beyond Difference-in-Means: Towards Richer Activation Steering Representations,'' *AAAI*, 2027 **(Tier 1)**
 1. S. Kato, **C. Han**, T. Takahashi, and K. Sakurai, ''MemTAP: Memory-Augmented Tree of Attacks with Pruning for Automated Jailbreak Generation against Large Language Models,'' *IEEE DSC*, 2026.
 1. **C. Han**, and T. Takahashi, ''Does Refusal-Direction Drift on Safety Benchmarks Predict Fine-Tuning Safety Loss?,'' *IEEE DSC Workshop*, 2026.
@@ -189,12 +189,16 @@
 - **NICT Darknet Dataset 2022**: publicly released darknet traffic dataset ([website](https://csdataset.nict.go.jp/darknet-2022/)). Provided to 31 research groups/institutions (as of July 2026).
 
 ## Projects
-- **Joint Research on AI Safety with US Specialized Organizations**, NICT, FY2025–FY2026, subsidy from the Ministry of Internal Affairs and Communications (MIC), Japan; FY2025: 250M JPY, FY2026: 300M JPY
-- **Tenure-Track Researcher**, NICT, 2023–present, 4M JPY/year
-- **NARLabs–NICT Joint Project**: Efficient and Effective Network Management and Cybersecurity, Apr. 2024–Mar. 2026, 5M JPY
-- **NARLabs–NICT Joint Project**: NICTER (Network Incident analysis Center for Tactical Emergency Response), Apr. 2021–Mar. 2023, 5M JPY
-- **MITIGATE**: Research and Development for Expansion of Radio Wave Resources (JPJ000254) — IoT malware behavior detection and remediation for efficient radio spectrum use; Yokohama National University (lead), MIC, Japan, 2020–2022, 1B JPY
-- **PRISM (Public/Private R&D Investment Strategic Expansion Program), AI Technology Area**: R&D of a Hybrid High-Speed Cyber Attack Analysis Platform; NICT (lead), 2019, 200M JPY
+
+### Grants as PI
+- **Tenure-Track Researcher Grant**, NICT (internal research grant), 2023–present, **PI**, 4M JPY/year
+
+### Project Member
+- **Joint Research on AI Safety with US Specialized Organizations**, NICT, FY2025–FY2026, subsidy from the Ministry of Internal Affairs and Communications (MIC), Japan; **Project member**; total: FY2025 250M JPY, FY2026 300M JPY
+- **NARLabs–NICT Joint Project**: Efficient and Effective Network Management and Cybersecurity, Apr. 2024–Mar. 2026, **Project member**; total: 5M JPY
+- **NARLabs–NICT Joint Project**: NICTER (Network Incident analysis Center for Tactical Emergency Response), Apr. 2021–Mar. 2023, **Project member**; total: 5M JPY
+- **MITIGATE**: Research and Development for Expansion of Radio Wave Resources (JPJ000254) — IoT malware behavior detection and remediation for efficient radio spectrum use; Yokohama National University (lead), MIC, Japan, 2020–2022, **Project member**; total: 1B JPY
+- **PRISM (Public/Private R&D Investment Strategic Expansion Program), AI Technology Area**: R&D of a Hybrid High-Speed Cyber Attack Analysis Platform; NICT (lead), 2019, **Project member**; total: 200M JPY
 - **NICTER Project** (Network Incident analysis Center for Tactical Emergency Response): [https://www.nicter.jp/en/](https://www.nicter.jp/en/)
 
 <!--
@@ -202,28 +206,28 @@
 NARLabs-NICT Joint Project: Efficient and Effective Network Management and Cybersecurity
 Funding Agency: NARLabs / NICT
 Researchers: 14
-Role: Joint
+Role: Project member
 Budget: 5 Million Yen
 
 2021.04–2023.03
 NARLabs-NICT Joint Project: NICTER (Network Incident analysis Center for Tactical Emergency Response)
 Funding Agency: NARLabs / NICT
 Researchers: 10
-Role: Joint
+Role: Project member
 Budget: 5 Million Yen
 
 2020.04–2022.03
 MITIGATE, Research and Development for Expansion of Radio Wave Resources (JPJ000254)
 Funding Agency: Ministry of Internal Affairs and Communications (MIC), Japan
 Researchers: 25+
-Role: Joint
+Role: Project member
 Budget: 660 Million Yen
 
 2019.04–2020.03
 PRISM Program (AI Technology Domain): Development of Cyber Attack Hybrid High-Speed Analysis Platform (Lead: NICT)
 Funding Agency: Cabinet Office, Government of Japan
 Researchers: 20
-Role: Joint
+Role: Project member
 Budget: 200 Million Yen
 -->
 
