@@ -25,8 +25,6 @@
 <!--
 1. **C. Han** and T. Takahashi, ''Safety Direction Adapter: A Training-Free Post-Hoc Safety Patch for Fine-Tuned Open-Weight LLMs,'' *NDSS*, 2027. **(Tier 1)**
 1. K. Inoue, **C. Han**, Y. Takeishi, T. Takahashi, and J. Takeuchi, ''Beyond Difference-in-Means: Towards Richer Activation Steering Representations,'' *AAAI*, 2027 **(Tier 1)**
-1. S. Kato, **C. Han**, T. Takahashi, and K. Sakurai, ''MemTAP: Memory-Augmented Tree of Attacks with Pruning for Automated Jailbreak Generation against Large Language Models,'' *IEEE DSC*, 2026.
-1. **C. Han**, and T. Takahashi, ''Does Refusal-Direction Drift on Safety Benchmarks Predict Fine-Tuning Safety Loss?,'' *IEEE DSC Workshop*, 2026.
 1. **C. Han**, and T. Takahashi, ''Weight Drift as a Fine-Tuning Safety Screen: Signal and Its Limits,'' *SCIS&ISIS*, 2026.
 1. S. Lee, **C. Han**, I. Choi, and T. Takahashi, ''From CVEs to Countermeasures: Benchmarking D3FEND Selection on Attack-Defense Scenarios,'' *SCIS&ISIS*, 2026.
 1. J. Kim, H. Lee, **C. Han**, and S. Choi, ''Isolating the Signal from Noise: Model Inversion Attacks against PEFT-Based Text Classifiers,'' *EMNLP*, 2026. **(Tier 1)**
@@ -35,6 +33,8 @@
 -->
 
 1. J. Kim, H. Lee, S. Hong, T. Takahashi, **C. Han**, T. Morikawa, and S. Choi, “Don’t Trust the AI Ecosystem: Analyzing Privacy Leakage in Compromised Open-Source Components,” *ACM CCS*, Nov 2026. **(Tier 1)** [[arXiv]](https://arxiv.org/abs/2607.27886)
+1. S. Kato, **C. Han**, T. Takahashi, and K. Sakurai, “MemTAP: Memory-Augmented Tree of Attacks with Pruning for Automated Jailbreak Generation against Large Language Models,” *Workshop on Trustworthy and Secure AI for Cyber Defense (Trustworthy-SecureAI), IEEE DSC*, Oct 2026.
+1. **C. Han** and T. Takahashi, “Does Refusal-Direction Drift on Safety Benchmarks Predict Fine-Tuning Safety Loss?,” *Workshop on Trustworthy and Secure AI for Cyber Defense (Trustworthy-SecureAI), IEEE DSC*, Oct 2026.
 1. H. Lee, J. Kim, **C. Han**, G. Bang, T. Takahashi, and S. Choi, “An Empirical Study on the Privacy Effects of Model Merging in Vision Language Models,” *International Conference on Ubiquitous and Future Networks (ICUFN)*, Jul 2026.
 1. K. Nikawa, **C. Han**, A. Tanaka, K. Iwamoto, T. Takahashi, and J. Takeuchi, “Improving Scalable Clustering for IoT Malware via Code Region Extraction,” *The 28th Annual International Conference on Information Security and Cryptology (ICISC)*, Nov 2025. **(Tier 3)** [[DOI]](https://doi.org/10.1007/978-981-95-8034-7_5)
 1. S. Kato, **C. Han**, T. Takahashi, and K. Sakurai, “A Survey of Jailbreak Attacks and Defenses for Large Language Models,” *The International Conference on Artificial Intelligence Computing and Systems (AICompS)*, Nov 2025.
@@ -115,7 +115,7 @@
 <div>
 
 <!--
-1. **韓燦洙**, 高橋健志, ''重み空間ドリフトと拒否方向回転による公開fine-tuned LLMs の安全性監査,'' *コンピュータセキュリティシンポジウム2023 (CSS2026)*, 2026年10月.
+1. **韓燦洙**, 高橋健志, ''重み空間ドリフトと拒否方向回転による公開fine-tuned LLMs の安全性監査,'' *コンピュータセキュリティシンポジウム2026 (CSS2026)*, 2026年10月.
 -->
 
 1. 馬権聖, **韓燦洙**, 田中智, 高橋健志, 竹内純一, “IoTマルウェアにおける関数呼び出し分析の阻害要因の除去,” *暗号と情報セキュリティシンポジウム (SCIS2025)*, 2025年1月. [[Slides (in Japanese)]](https://drive.google.com/file/d/1i_rbRpaJP2xOZfzmEwwv9-3ui_OK-wmY/view?usp=sharing)
@@ -155,8 +155,8 @@
 
 <hr>
 ### Non-refereed Oral Presentation/Talk
-1. **C. Han**, “Challenges and Prospects for Cybersecurity in the AI Era” (AI時代におけるサイバーセキュリティの課題と展望), *ESTOC 2026 (Embedded Systems Technology Open Conference)*, Nagoya, Japan, Jun. 12, 2026. (Invited talk)
 1. **C. Han**, “AI Security Evaluation Platform” (AIセキュリティ評価基盤), *5th Security Young Professionals Meetup (セキュリティ若手の会; LT & Networking)*, NICT, Tokyo, Japan, Jun. 13, 2026. (Venue-sponsor talk)
+1. **C. Han**, “Challenges and Prospects for Cybersecurity in the AI Era” (AI時代におけるサイバーセキュリティの課題と展望), *ESTOC 2026 (Embedded Systems Technology Open Conference)*, Nagoya, Japan, Jun. 12, 2026. (Invited talk)
 1. **C. Han**, “Early Detection and Tracing of Anomalous Scanning Campaigns Through Darknet Analysis,” *2025 Joint Workshop on Cybersecurity* (Northeastern University & University of Maryland), NICT, Tokyo, Japan, Aug. 6, 2025.
 1. M. Umizaki, **C. Han**, and T. Ino, “Basics and Latest Updates of CURE” (CUREの基本と最新アップデート情報), *FY2025 Co-Nexus A (1st Session)*, Jul. 17, 2025.
 1. **C. Han**, “Early Detection and Tracing of Anomalous Scanning Campaigns Through Darknet Analysis,” *KIIS–NICT International Joint Workshop: Unknown Threat and Trust in AI Security*, Tokyo, Japan, Dec. 20, 2024.
