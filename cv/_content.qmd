@@ -72,6 +72,7 @@
 
 <!--
 1. **C. Han**, and T. Takahashi, ''Auditing Public Fine-Tuned LLMs via Weight-Space Drift and Refusal-Direction Rotation,'' *Computer Security Symposium (CSS2026)*, Oct 2026.
+1. S. Kato, **C. Han**, T. Takahashi, and K. Sakurai, ''Systematic Classification of Jailbreak Attacks against Large Language Models and Quantitative Evaluation of Threat Priority,'' *Computer Security Symposium (CSS2026)*, Oct 2026.
 -->
 
 1. K. Ma, **C. Han**, A. Tanaka, T. Takahashi, and J. Takeuchi, “Removing obstacles to function call analysis in IoT malware,” *Symposium on Cryptography and Information Security (SCIS2025)*, Jan 2025. [[Slides (in Japanese)]](https://drive.google.com/file/d/1i_rbRpaJP2xOZfzmEwwv9-3ui_OK-wmY/view?usp=sharing)
@@ -116,6 +117,7 @@
 
 <!--
 1. **韓燦洙**, 高橋健志, ''重み空間ドリフトと拒否方向回転による公開fine-tuned LLMs の安全性監査,'' *コンピュータセキュリティシンポジウム2026 (CSS2026)*, 2026年10月.
+1. 加藤颯真, **韓燦洙**, 高橋健志, 櫻井幸一, ''大規模言語モデルに対するjailbreak攻撃の体系的分類と脅威優先度の定量評価,'' *コンピュータセキュリティシンポジウム2026 (CSS2026)*, 2026年10月.
 -->
 
 1. 馬権聖, **韓燦洙**, 田中智, 高橋健志, 竹内純一, “IoTマルウェアにおける関数呼び出し分析の阻害要因の除去,” *暗号と情報セキュリティシンポジウム (SCIS2025)*, 2025年1月. [[Slides (in Japanese)]](https://drive.google.com/file/d/1i_rbRpaJP2xOZfzmEwwv9-3ui_OK-wmY/view?usp=sharing)
@@ -234,6 +236,10 @@ Budget: 200 Million Yen
 ## Awards/Honors
 - CSEC Best Research Award, IPSJ (104th CSEC Workshop), 2024 (co-author)
 - CSS Best Student Paper Award, IPSJ Computer Security Symposium 2021, 2021 (co-author)
+
+## Scholarships
+- **NTT DOCOMO Scholarship for International Students**, 2016–2018 (Master’s, Kyushu University); 120,000 JPY/month
+- **Honors Scholarship for Privately Financed International Students (JASSO)**, 2012–2014 (Undergraduate, Kyushu University); 48,000 JPY/month
 
 ## Teaching
 - Part-time Lecturer, Tsuda University, FY2023–FY2024
