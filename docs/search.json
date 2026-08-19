@@ -173,5 +173,12 @@
     "title": "Curriculum Vitae",
     "section": "Scholarships",
     "text": "Scholarships\n\nNTT DOCOMO Scholarship for International Students, Apr. 2016–Mar. 2018 (Master’s, Kyushu University); 120,000 JPY/month\nHonors Scholarship for Privately Financed International Students (JASSO), Apr. 2012–Mar. 2014 (Undergraduate, Kyushu University); 48,000 JPY/month"
+  },
+  {
+    "objectID": "cv/index.html#standards-and-framework-contributions",
+    "href": "cv/index.html#standards-and-framework-contributions",
+    "title": "Curriculum Vitae",
+    "section": "Standards and Framework Contributions",
+    "text": "Standards and Framework Contributions\n\nContributor, MITRE ATLAS (Adversarial Threat Landscape for AI Systems), 2025–2026\nDirect contributions (NICT/CREATE; March 2026 release):\n\nCase study: LLMSmith: RCE Vulnerabilities in LLM-Integrated Applications (AML.CS0052) [ATLAS]\nSub-technique: Discover AI Agent Configuration: Call Chains (AML.T0084.003) [ATLAS]"
   }
 ]

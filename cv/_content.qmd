@@ -293,6 +293,13 @@ Budget: 200 Million Yen
 ## Patents
 - Fingerprint Identification System and Method, Japanese Patent Applications 2022-123952 and 2022-123955, 2022
 
+## Standards and Framework Contributions
+
+- Contributor, [MITRE ATLAS](https://atlas.mitre.org/contribute) (Adversarial Threat Landscape for AI Systems), 2025–2026
+- Direct contributions (NICT/CREATE; [March 2026 release](https://atlas.mitre.org/resources/updates/2026-03)):
+  - Case study: *LLMSmith: RCE Vulnerabilities in LLM-Integrated Applications* (AML.CS0052) [[ATLAS]](https://atlas.mitre.org/studies/AML.CS0052)
+  - Sub-technique: *Discover AI Agent Configuration: Call Chains* (AML.T0084.003) [[ATLAS]](https://atlas.mitre.org/techniques/AML.T0084.003)
+
 ## Media & Exhibitions
 - Corporate exhibition, Annual Conference of the Japanese Society for Artificial Intelligence (JSAI), 2026: CREATE — AI Security Evaluation Platform
 - INTEROP Tokyo exhibition & demo, 2026: CREATE — AI Security Evaluation Platform
