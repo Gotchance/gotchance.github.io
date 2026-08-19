@@ -238,8 +238,8 @@ Budget: 200 Million Yen
 - CSS Best Student Paper Award, IPSJ Computer Security Symposium 2021, 2021 (co-author)
 
 ## Scholarships
-- **NTT DOCOMO Scholarship for International Students**, 2016–2018 (Master’s, Kyushu University); 120,000 JPY/month
-- **Honors Scholarship for Privately Financed International Students (JASSO)**, 2012–2014 (Undergraduate, Kyushu University); 48,000 JPY/month
+- **NTT DOCOMO Scholarship for International Students**, Apr. 2016–Mar. 2018 (Master’s, Kyushu University); 120,000 JPY/month
+- **Honors Scholarship for Privately Financed International Students (JASSO)**, Apr. 2012–Mar. 2014 (Undergraduate, Kyushu University); 48,000 JPY/month
 
 ## Teaching
 - Part-time Lecturer, Tsuda University, FY2023–FY2024
