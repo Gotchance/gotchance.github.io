@@ -31,8 +31,8 @@
 -->
 
 1. J. Kim, H. Lee, S. Hong, T. Takahashi, **C. Han**, T. Morikawa, and S. Choi, “Don’t Trust the AI Ecosystem: Analyzing Privacy Leakage in Compromised Open-Source Components,” *ACM CCS*, Nov 2026. **(Tier 1)** [[arXiv]](https://arxiv.org/abs/2607.27886)
-1. **C. Han** and T. Takahashi, “Weight Drift as a Fine-Tuning Safety Screen: Signal and Its Limits,” *International Conference on Soft Computing and Intelligent Systems and International Symposium on Advanced Intelligent Systems (SCIS&ISIS)*, 2026.
-1. S. Lee, **C. Han**, I. Choi, and T. Takahashi, “From CVEs to Countermeasures: Benchmarking D3FEND Selection on Attack-Defense Scenarios,” *International Conference on Soft Computing and Intelligent Systems and International Symposium on Advanced Intelligent Systems (SCIS&ISIS)*, 2026.
+1. **C. Han** and T. Takahashi, “Weight Drift as a Fine-Tuning Safety Screen: Signal and Its Limits,” *Joint International Conference on Soft Computing and Intelligent Systems and International Symposium on Advanced Intelligent Systems (SCIS&ISIS)*, Nov 2026.
+1. S. Lee, **C. Han**, I. Choi, and T. Takahashi, “From CVEs to Countermeasures: Benchmarking D3FEND Selection on Attack-Defense Scenarios,” *Joint International Conference on Soft Computing and Intelligent Systems and International Symposium on Advanced Intelligent Systems (SCIS&ISIS)*, Nov 2026.
 1. S. Kato, **C. Han**, T. Takahashi, and K. Sakurai, “MemTAP: Memory-Augmented Tree of Attacks with Pruning for Automated Jailbreak Generation against Large Language Models,” *Workshop on Trustworthy and Secure AI for Cyber Defense, IEEE DSC*, Oct 2026.
 1. **C. Han** and T. Takahashi, “Does Refusal-Direction Drift on Safety Benchmarks Predict Fine-Tuning Safety Loss?,” *Workshop on Trustworthy and Secure AI for Cyber Defense, IEEE DSC*, Oct 2026.
 1. H. Lee, J. Kim, **C. Han**, G. Bang, T. Takahashi, and S. Choi, “An Empirical Study on the Privacy Effects of Model Merging in Vision Language Models,” *International Conference on Ubiquitous and Future Networks (ICUFN)*, Jul 2026. [[DOI]](https://doi.org/10.1109/ICUFN69619.2026.11628764)
