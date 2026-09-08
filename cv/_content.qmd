@@ -23,19 +23,19 @@
 ### Refereed Conference Papers
 
 <!--
-1. **C. Han** and T. Takahashi, ''Safety Direction Adapter: A Training-Free Post-Hoc Safety Patch for Fine-Tuned Open-Weight LLMs,'' *NDSS*, 2027. **(Tier 1)**
-1. K. Inoue, **C. Han**, Y. Takeishi, T. Takahashi, and J. Takeuchi, ''Beyond Difference-in-Means: Towards Richer Activation Steering Representations,'' *AAAI*, 2027 **(Tier 1)**
-1. **C. Han**, and T. Takahashi, ''Weight Drift as a Fine-Tuning Safety Screen: Signal and Its Limits,'' *SCIS&ISIS*, 2026.
-1. S. Lee, **C. Han**, I. Choi, and T. Takahashi, ''From CVEs to Countermeasures: Benchmarking D3FEND Selection on Attack-Defense Scenarios,'' *SCIS&ISIS*, 2026.
-1. J. Kim, H. Lee, **C. Han**, and S. Choi, ''Isolating the Signal from Noise: Model Inversion Attacks against PEFT-Based Text Classifiers,'' *EMNLP*, 2026. **(Tier 1)**
-1. S. Lee, **C. Han**, S. Choi, and T. Takahashi, ''Toward Systematic Cyberattack Analysis via MITRE ATT&CK TTP Mapping,'' *Information Security Conference (ISC)*, 2026. **(Tier 3)**
-1. **[Rejected]** K. Miyamoto, **C. Han**, A. Tanaka, and T. Takahashi, ''Experimental Study of Backdoor Attacks on Auto-regressive and Diffusion-based LLMs,'' *The 28th Annual International Conference on Information Security and Cryptology (ICISC)*, 2025. **(Tier 3)**
+1. **C. Han** and T. Takahashi, ''Safety Direction Adapter: A Training-Free Post-Hoc Safety Patch for Fine-Tuned Open-Weight LLMs,'' *NDSS*, Mar 2027. **(Tier 1)**
+1. **C. Han**, S. Choi, and T. Takahashi, ''Mapper-Free Refusal Bypass Across Open-Weight Architecture Variants,'' *Workshop on Recent Advances in Resilient and Trustworthy MAchine learning-driveN systems (ARTMAN)*, Dec 2026.
+1. K. Inoue, **C. Han**, Y. Takeishi, T. Takahashi, and J. Takeuchi, ''Extending Difference-in-Means Activation Steering with Reference Points and Covariance Structure,'' *AAAI*, Feb 2027 **(Tier 1)**
+1. **[Rejected]** S. Lee, **C. Han**, S. Choi, and T. Takahashi, ''Toward Systematic Cyberattack Analysis via MITRE ATT&CK TTP Mapping,'' *Information Security Conference (ISC)*, 2026. **(Tier 3)**
+1. **[Rejected]** J. Kim, H. Lee, **C. Han**, and S. Choi, ''Isolating the Signal from Noise: Model Inversion Attacks against PEFT-Based Text Classifiers,'' *EMNLP*, 2026. **(Tier 1)**
 -->
 
 1. J. Kim, H. Lee, S. Hong, T. Takahashi, **C. Han**, T. Morikawa, and S. Choi, “Don’t Trust the AI Ecosystem: Analyzing Privacy Leakage in Compromised Open-Source Components,” *ACM CCS*, Nov 2026. **(Tier 1)** [[arXiv]](https://arxiv.org/abs/2607.27886)
-1. S. Kato, **C. Han**, T. Takahashi, and K. Sakurai, “MemTAP: Memory-Augmented Tree of Attacks with Pruning for Automated Jailbreak Generation against Large Language Models,” *Workshop on Trustworthy and Secure AI for Cyber Defense (Trustworthy-SecureAI), IEEE DSC*, Oct 2026.
-1. **C. Han** and T. Takahashi, “Does Refusal-Direction Drift on Safety Benchmarks Predict Fine-Tuning Safety Loss?,” *Workshop on Trustworthy and Secure AI for Cyber Defense (Trustworthy-SecureAI), IEEE DSC*, Oct 2026.
-1. H. Lee, J. Kim, **C. Han**, G. Bang, T. Takahashi, and S. Choi, “An Empirical Study on the Privacy Effects of Model Merging in Vision Language Models,” *International Conference on Ubiquitous and Future Networks (ICUFN)*, Jul 2026.
+1. **C. Han** and T. Takahashi, “Weight Drift as a Fine-Tuning Safety Screen: Signal and Its Limits,” *International Conference on Soft Computing and Intelligent Systems and International Symposium on Advanced Intelligent Systems (SCIS&ISIS)*, 2026.
+1. S. Lee, **C. Han**, I. Choi, and T. Takahashi, “From CVEs to Countermeasures: Benchmarking D3FEND Selection on Attack-Defense Scenarios,” *International Conference on Soft Computing and Intelligent Systems and International Symposium on Advanced Intelligent Systems (SCIS&ISIS)*, 2026.
+1. S. Kato, **C. Han**, T. Takahashi, and K. Sakurai, “MemTAP: Memory-Augmented Tree of Attacks with Pruning for Automated Jailbreak Generation against Large Language Models,” *Workshop on Trustworthy and Secure AI for Cyber Defense, IEEE DSC*, Oct 2026.
+1. **C. Han** and T. Takahashi, “Does Refusal-Direction Drift on Safety Benchmarks Predict Fine-Tuning Safety Loss?,” *Workshop on Trustworthy and Secure AI for Cyber Defense, IEEE DSC*, Oct 2026.
+1. H. Lee, J. Kim, **C. Han**, G. Bang, T. Takahashi, and S. Choi, “An Empirical Study on the Privacy Effects of Model Merging in Vision Language Models,” *International Conference on Ubiquitous and Future Networks (ICUFN)*, Jul 2026. [[DOI]](https://doi.org/10.1109/ICUFN69619.2026.11628764)
 1. K. Nikawa, **C. Han**, A. Tanaka, K. Iwamoto, T. Takahashi, and J. Takeuchi, “Improving Scalable Clustering for IoT Malware via Code Region Extraction,” *The 28th Annual International Conference on Information Security and Cryptology (ICISC)*, Nov 2025. **(Tier 3)** [[DOI]](https://doi.org/10.1007/978-981-95-8034-7_5)
 1. S. Kato, **C. Han**, T. Takahashi, and K. Sakurai, “A Survey of Jailbreak Attacks and Defenses for Large Language Models,” *The International Conference on Artificial Intelligence Computing and Systems (AICompS)*, Nov 2025.
 1. Y. Lee, **C. Han**, M. Peng, and T. Takahashi, “LLM-Based Multi-Label Mapping of Snort Rules to ATT&CK,” *IEEE Conference on Dependable and Secure Computing (DSC)*, Oct 2025. [[DOI]](https://doi.org/10.1109/DSC65356.2025.11260863)
@@ -72,7 +72,7 @@
 
 <!--
 1. **C. Han**, and T. Takahashi, ''Auditing Public Fine-Tuned LLMs via Weight-Space Drift and Refusal-Direction Rotation,'' *Computer Security Symposium (CSS2026)*, Oct 2026.
-1. S. Kato, **C. Han**, T. Takahashi, and K. Sakurai, ''Systematic Classification of Jailbreak Attacks against Large Language Models and Quantitative Evaluation of Threat Priority,'' *Computer Security Symposium (CSS2026)*, Oct 2026.
+1. S. Kato, **C. Han**, T. Takahashi, and K. Sakurai, ''Bypass-Mechanism-Based Classification of Jailbreak Attacks against Large Language Models and Quantitative Evaluation of Threat Priority,'' *Computer Security Symposium (CSS2026)*, Oct 2026.
 -->
 
 1. K. Ma, **C. Han**, A. Tanaka, T. Takahashi, and J. Takeuchi, “Removing obstacles to function call analysis in IoT malware,” *Symposium on Cryptography and Information Security (SCIS2025)*, Jan 2025. [[Slides (in Japanese)]](https://drive.google.com/file/d/1i_rbRpaJP2xOZfzmEwwv9-3ui_OK-wmY/view?usp=sharing)
@@ -116,8 +116,8 @@
 <div>
 
 <!--
-1. **韓燦洙**, 高橋健志, ''重み空間ドリフトと拒否方向回転による公開fine-tuned LLMs の安全性監査,'' *コンピュータセキュリティシンポジウム2026 (CSS2026)*, 2026年10月.
-1. 加藤颯真, **韓燦洙**, 高橋健志, 櫻井幸一, ''大規模言語モデルに対するjailbreak攻撃の体系的分類と脅威優先度の定量評価,'' *コンピュータセキュリティシンポジウム2026 (CSS2026)*, 2026年10月.
+1. **韓燦洙**, 高橋健志, ''重み空間ドリフトと拒否方向回転による公開fine-tuned LLMsの安全性監査,'' *コンピュータセキュリティシンポジウム2026 (CSS2026)*, 2026年10月.
+1. 加藤颯真, **韓燦洙**, 高橋健志, 櫻井幸一, ''大規模言語モデルに対するjailbreak攻撃の回避機構別分類と脅威優先度の定量評価,'' *コンピュータセキュリティシンポジウム2026 (CSS2026)*, 2026年10月.
 -->
 
 1. 馬権聖, **韓燦洙**, 田中智, 高橋健志, 竹内純一, “IoTマルウェアにおける関数呼び出し分析の阻害要因の除去,” *暗号と情報セキュリティシンポジウム (SCIS2025)*, 2025年1月. [[Slides (in Japanese)]](https://drive.google.com/file/d/1i_rbRpaJP2xOZfzmEwwv9-3ui_OK-wmY/view?usp=sharing)
@@ -337,7 +337,9 @@ Budget: 200 Million Yen
 - Computer Security Symposium (CSS), 2021, 2020
 
 ### Review Experiences
+- AAAI Conference on Artificial Intelligence (AAAI), 2027
 - ACM Digital Threats: Research and Practice (DTRAP), 2026
+- ACM Transactions on Internet Technology (TOIT), 2026
 - Joint International Conference on Soft Computing and Intelligent Systems and International Symposium on Advanced Intelligent Systems (SCIS&ISIS), 2026
 - IEEE Conference on Dependable and Secure Computing (DSC), 2026, 2024
 - IEEE Transactions on Reliability, 2025, 2024
