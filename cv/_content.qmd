@@ -23,6 +23,8 @@
 ### Refereed Conference Papers
 
 <!--
+1. **C. Han**, S. Choi, and T. Takahashi, ''Where Does Intervenable Refusal Live in Multimodal LM Derivatives?,'' *ICLR*, Mar 2027. **(Tier 1)**
+1. **[Rejected]** S. Lee, **C. Han**, S. Choi, and T. Takahashi, ''Toward Systematic Cyberattack Analysis via MITRE ATT&CK TTP Mapping,'' *International Conference on Information Security and Cryptology (ICISC)*, 2026. **(Tier 3)**
 1. **C. Han** and T. Takahashi, ''Safety Direction Adapter: A Training-Free Post-Hoc Safety Patch for Fine-Tuned Open-Weight LLMs,'' *NDSS*, Mar 2027. **(Tier 1)**
 1. **C. Han**, S. Choi, and T. Takahashi, ''Mapper-Free Refusal Bypass Across Open-Weight Architecture Variants,'' *Workshop on Recent Advances in Resilient and Trustworthy MAchine learning-driveN systems (ARTMAN)*, Dec 2026.
 1. K. Inoue, **C. Han**, Y. Takeishi, T. Takahashi, and J. Takeuchi, ''Extending Difference-in-Means Activation Steering with Reference Points and Covariance Structure,'' *AAAI*, Feb 2027 **(Tier 1)**
@@ -340,6 +342,7 @@ Budget: 200 Million Yen
 - AAAI Conference on Artificial Intelligence (AAAI), 2027
 - ACM Digital Threats: Research and Practice (DTRAP), 2026
 - ACM Transactions on Internet Technology (TOIT), 2026
+- Springer Nature, International Journal of Information Security (IJIS), 2026, 2019
 - Joint International Conference on Soft Computing and Intelligent Systems and International Symposium on Advanced Intelligent Systems (SCIS&ISIS), 2026
 - IEEE Conference on Dependable and Secure Computing (DSC), 2026, 2024
 - IEEE Transactions on Reliability, 2025, 2024
@@ -355,5 +358,4 @@ Budget: 200 Million Yen
 - IEICE Transactions on Information and Systems, 2021
 - International Computer Symposium (ICS), 2020
 - IEICE Transactions on Communications, 2019
-- International Journal of Information Security, 2019
 - Annual Computer Security Applications Conference (ACSAC), 2018
