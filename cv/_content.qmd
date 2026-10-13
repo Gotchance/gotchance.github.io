@@ -72,11 +72,8 @@
 <hr>
 ### Non-refereed Domestic Conference Papers
 
-<!--
-1. **C. Han**, and T. Takahashi, ''Auditing Public Fine-Tuned LLMs via Weight-Space Drift and Refusal-Direction Rotation,'' *Computer Security Symposium (CSS2026)*, Oct 2026.
-1. S. Kato, **C. Han**, T. Takahashi, and K. Sakurai, ''Bypass-Mechanism-Based Classification of Jailbreak Attacks against Large Language Models and Quantitative Evaluation of Threat Priority,'' *Computer Security Symposium (CSS2026)*, Oct 2026.
--->
-
+1. **C. Han**, and T. Takahashi, “Auditing Public Fine-Tuned LLMs via Weight-Space Drift and Refusal-Direction Rotation,” *Computer Security Symposium (CSS2026)*, Oct 2026.
+1. S. Kato, **C. Han**, T. Takahashi, and K. Sakurai, “Bypass-Mechanism-Based Classification of Jailbreak Attacks against Large Language Models and Quantitative Evaluation of Threat Priority,” *Computer Security Symposium (CSS2026)*, Oct 2026.
 1. K. Ma, **C. Han**, A. Tanaka, T. Takahashi, and J. Takeuchi, “Removing obstacles to function call analysis in IoT malware,” *Symposium on Cryptography and Information Security (SCIS2025)*, Jan 2025. [[Slides (in Japanese)]](https://drive.google.com/file/d/1i_rbRpaJP2xOZfzmEwwv9-3ui_OK-wmY/view?usp=sharing)
 2. S. Kawanaka, K. Miyamoto, **C. Han**, T. Ban, T. Takahashi, and J. Takeuchi, “Investigating the Factors Influencing Cyber-Attack Detection in NIDS Using Explainable AI,” *Symposium on Cryptography and Information Security (SCIS2025)*, Jan 2025. [[Slides (in Japanese)]](https://drive.google.com/file/d/1DzhHm1P3drSL59LMFM9CWAXgqRj--_00/view?usp=sharing)
 3. K. Ma, **C. Han**, A. Tanaka, T. Takahashi, and J. Takeuchi, “Study of Graphing Methods for Functional Analysis of IoT Malware Using Function Call Sequence Graphs,” *Computer Security Symposium (CSS2024)*, Oct 2024. [[Slides (in Japanese)]](https://drive.google.com/file/d/1Qr1ONg_9mDc82YWU53S20DMaYv_d5tBZ/view?usp=sharing)
@@ -86,8 +83,6 @@
 7. K. Miyamoto, **C. Han**, T. Ban, T. Takahashi, and J. Takeuchi, “An early and successive traffic classification based on packet-level features and prediction,” *Computer Security Symposium (CSS2023)*, Oct 2023. [[Slides (in Japanese)]](https://drive.google.com/file/d/1d_dwSs4EKPKMGn68AY2AjMqn8iFU6HZu/view?usp=sharing)
 8. M. Iida, K. Miyamoto, Y. Takeishi, S. Kawanaka, **C. Han**, T. Ban, T. Takahashi, and J. Takeuchi, “Multimodal Feature Integration Toward High-Accuracy Network Intrusion Detection,” *IEICE Tech. Rep., vol.122, no.422,  ICSS2022-55*, pp.43-48, Mar 2023. [[Slides (in Japanese)]](https://drive.google.com/file/d/1XsXcgWFvKR2LK1KzLaVRJlT1VYVJJHuL/view?usp=sharing)
 9. Y. Kashiwabara, K. Miyamoto, M. Iida, S. Kawanaka, **C. Han**, T. Ban, T. Takahashi, and J. Takeuchi, “Consideration of a Packet Level Anomaly Communication Classification Model Using Word Embedding and LSTM,” *IEICE Tech. Rep., vol.122, no.422,  ICSS2022-53*, pp.31-36, Mar 2023. [[Slides (in Japanese)]](https://drive.google.com/file/d/1J9Agdh2n1aKLUpBZCqx9yDLoRabh6df1/view?usp=sharing)
-
-
 10. **C. Han**, A. Tanaka, T. Takahashi, and J. Takeuchi, “Tracing Methodology for Scanning Campaigns Based on Darknet Analysis,” *IEICE Tech. Rep., vol.122, no.244, ICSS2022-43*, pp.31-36, Nov 2022. [[Slides (in Japanese)]](https://drive.google.com/file/d/1wB1Jh2Ft_sVIpevXUg8ROOSnQz89FKDJ/view?usp=sharing) [[Datasets]](https://csdataset.nict.go.jp/darknet-2022/)
 7. **C. Han**, A. Tanaka, and T. Takahashi, “Study on Validation and Future Extension of Early Detection Framework for Malware Activities Based on Darknet Analysis,” *Computer Security Symposium (CSS2022)*, Oct 2022. [[Slides (in Japanese)]](https://drive.google.com/file/d/1NExxRpbl0kvS2hMtldCZikUX0PzLSP0G/view?usp=sharing) [[Datasets]](https://csdataset.nict.go.jp/darknet-2022/)
 8. A. Tanaka, **C. Han**, and T. Takahashi, “Destination Port Set Analysis via Internet-Wide Scanner Fingerprint,” *Computer Security Symposium (CSS2022)*, Oct 2022. [[Slides (in Japanese)]](https://drive.google.com/file/d/1CfIvloo8aJYCiehmD0X5MWSPcS7wnO_L/view?usp=sharing)
@@ -117,11 +112,8 @@
 <summary>In Japanese (Non-refereed Domestic Conference Papers)</summary>
 <div>
 
-<!--
-1. **韓燦洙**, 高橋健志, ''重み空間ドリフトと拒否方向回転による公開fine-tuned LLMsの安全性監査,'' *コンピュータセキュリティシンポジウム2026 (CSS2026)*, 2026年10月.
-1. 加藤颯真, **韓燦洙**, 高橋健志, 櫻井幸一, ''大規模言語モデルに対するjailbreak攻撃の回避機構別分類と脅威優先度の定量評価,'' *コンピュータセキュリティシンポジウム2026 (CSS2026)*, 2026年10月.
--->
-
+1. **韓燦洙**, 高橋健志, “重み空間ドリフトと拒否方向回転による公開fine-tuned LLMsの安全性監査,” *コンピュータセキュリティシンポジウム2026 (CSS2026)*, 2026年10月.
+1. 加藤颯真, **韓燦洙**, 高橋健志, 櫻井幸一, “大規模言語モデルに対するjailbreak攻撃の回避機構別分類と脅威優先度の定量評価,” *コンピュータセキュリティシンポジウム2026 (CSS2026)*, 2026年10月.
 1. 馬権聖, **韓燦洙**, 田中智, 高橋健志, 竹内純一, “IoTマルウェアにおける関数呼び出し分析の阻害要因の除去,” *暗号と情報セキュリティシンポジウム (SCIS2025)*, 2025年1月. [[Slides (in Japanese)]](https://drive.google.com/file/d/1i_rbRpaJP2xOZfzmEwwv9-3ui_OK-wmY/view?usp=sharing)
 1. 川中翔太, 宮本耕平, **韓燦洙**, 班涛, 高橋健志, 竹内純一, “説明可能AIを用いたNIDSにおけるサイバー攻撃検出要因の調査,” *暗号と情報セキュリティシンポジウム (SCIS2025)*, 2025年1月. [[Slides (in Japanese)]](https://drive.google.com/file/d/1DzhHm1P3drSL59LMFM9CWAXgqRj--_00/view?usp=sharing)
 1. 馬権聖, **韓燦洙**, 田中智, 高橋健志, 竹内純一, “関数呼び出し時系列グラフを用いたIoTマルウェアの機能分析のためのグラフ作成手法の検討,” *コンピュータセキュリティシンポジウム2024 (CSS2024)*, 2024年10月. [[Slides (in Japanese)]](https://drive.google.com/file/d/1Qr1ONg_9mDc82YWU53S20DMaYv_d5tBZ/view?usp=sharing)
