@@ -159,6 +159,8 @@
 
 <hr>
 ### Non-refereed Oral Presentation/Talk
+1. **C. Han**, “CREATE: NICT’s AI Security R&D Initiative,” *Visit by CISPA Representatives (Helmholtz Association)*, NICT Nihonbashi Office, Tokyo, Japan, Oct. 8, 2026.
+1. **C. Han**, “Latest Trends in AI Security Research + AI Security Evaluation Platform” (AIセキュリティ研究の最新動向 + AIセキュリティ評価基盤), *FY2026 Co-Nexus A (2nd Session)*, Tokyo, Japan, Sep. 17, 2026.
 1. **C. Han**, “AI Security Evaluation Platform” (AIセキュリティ評価基盤), *5th Security Young Professionals Meetup (セキュリティ若手の会; LT & Networking)*, NICT, Tokyo, Japan, Jun. 13, 2026. (Venue-sponsor talk)
 1. **C. Han**, “Challenges and Prospects for Cybersecurity in the AI Era” (AI時代におけるサイバーセキュリティの課題と展望), *ESTOC 2026 (Embedded Systems Technology Open Conference)*, Nagoya, Japan, Jun. 12, 2026. (Invited talk)
 1. **C. Han**, “Early Detection and Tracing of Anomalous Scanning Campaigns Through Darknet Analysis,” *2025 Joint Workshop on Cybersecurity* (Northeastern University & University of Maryland), NICT, Tokyo, Japan, Aug. 6, 2025.
