@@ -72,9 +72,13 @@ conferences:
       dl: Apr 24
 - name: ICICS
   tier: '3'
-  approx_dl: Mar, Jun
+  approx_dl: Feb, May
   h5: https://scholar.google.com/citations?hl=en&view_op=search_venues&vq=International+Information+and+Communications+Security+Conference
   editions:
+    2027:
+      label: Oct 27-30, Chengdu, China
+      url: https://icics2027.github.io/ICICS-bot/
+      dl: Feb 28, May 30
     2026:
       label: Oct 27-30, Fukui, Japan
       url: https://sulab-sever.u-aizu.ac.jp/icics2026/
@@ -314,12 +318,16 @@ conferences:
       dl: Mar 13
 - name: ACISP
   tier: '3'
-  approx_dl: Nov, Feb
+  approx_dl: Nov, Mar
   h5: https://scholar.google.com/citations?hl=en&view_op=search_venues&vq=ACISP
   editions:
+    2027:
+      label: TBA, Melbourne, Australia
+      url: https://acisp.org/
+      dl: Nov 30, Mar 1
     2026:
       label: Jul 6-9, Perth, Australia
-      url: https://acisp.org/index.html
+      url: https://acisp.org/
     2025:
       label: Jul 14-16, Wollongong, Australia
       url: https://uow-ic2.github.io/acisp2025/
@@ -406,6 +414,9 @@ conferences:
   tier: '3'
   approx_dl: Dec, Feb
   editions:
+    2027:
+      label: Jun 30-Jul 2, Enschede, Netherlands
+      url: https://www.dimva.org/
     2026:
       label: Jul 1-3, Chania, Greece
       url: https://dimva.org/dimva2026/
@@ -432,9 +443,13 @@ conferences:
       url: https://dimva2020.campus.ciencias.ulisboa.pt/
 - name: SecureComm
   tier: '3'
-  approx_dl: Jan, Feb
+  approx_dl: Feb, Apr
   h5: https://scholar.google.com/citations?hl=en&view_op=search_venues&vq=Security+and+Privacy+in+Communication+Networks
   editions:
+    2027:
+      label: Oct 15-18, Hefei, China
+      url: https://securecomm.eai-conferences.org/2027/
+      dl: Feb 1, Apr 15
     2026:
       label: Jul 21-24, Lancaster, UK
       url: https://securecomm.eai-conferences.org/2026/
@@ -471,6 +486,10 @@ conferences:
   approx_dl: beg. Jan
   h5: https://scholar.google.com/citations?hl=en&view_op=search_venues&vq=ACM+Conference+on+Data+and+Application+Security+and+Privacy
   editions:
+    2027:
+      label: Jun 14-17, Fort Collins, CO
+      url: https://www.codaspy.org/2027/
+      dl: Nov 23
     2026:
       label: Jun 23-25, Frankfurt, Germany
       url: https://www.codaspy.org/2026/
@@ -1035,23 +1054,23 @@ conferences:
   approx_dl: beg. Aug
   h5: https://scholar.google.com/citations?hl=en&view_op=search_venues&vq=Trust%2C+Security+and+Privacy+in+Computing+and+Communications
   editions:
-    2024:
+    2025:
       label: Nov 14-17, Guiyang, China
       url: https://ieee-aiplus-2025.org/
       dl: Aug 1
-    2023:
+    2024:
       label: Dec 17-21, Sanya, China
       url: http://ieee-aiplus.org/2024/trustcom/index.php
-      dl: Sep 1
-    2022:
+      dl: Oct 1
+    2023:
       label: Nov 1-3, Exeter, UK
       url: https://hpcn.exeter.ac.uk/trustcom2023/
       dl: Jul 1
-    2021:
+    2022:
       label: Oct 28-30, Wuhan, China
       url: http://www.ieee-hust-ncc.org/2022/TrustCom/
       dl: Jul 1
-    2020:
+    2021:
       label: Aug 18-20, Shenyang, China
       url: https://trustcom2021.sau.edu.cn/
       dl: Mar 20
