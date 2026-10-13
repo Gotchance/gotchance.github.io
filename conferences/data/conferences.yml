@@ -17,7 +17,7 @@ conferences:
   h5: https://scholar.google.com/citations?hl=en&view_op=search_venues&vq=%22ACM+Symposium+on+Computer+and+Communications+Security%22
   editions:
     2027:
-      label: Oct TBA, Atlanta
+      label: Oct 11-15, Atlanta
       url: https://www.sigsac.org/ccs/CCS2027/
     2026:
       label: Nov 15-19, The Hague, Netherlands
@@ -135,7 +135,7 @@ conferences:
   h5: https://scholar.google.com/citations?hl=en&view_op=search_venues&vq=%22IEEE+Symposium+on+Security+and+Privacy%22
   editions:
     2027:
-      label: May TBA, Montreal, Canada
+      label: May 17-20, Montreal, Canada
       url: https://sp2027.ieee-security.org/
       dl: Jun 11, Nov 17
     2026:
@@ -165,7 +165,7 @@ conferences:
   h5: https://scholar.google.com/citations?hl=en&view_op=search_venues&vq=IEEE+Computer+Security+Foundations+Symposium
   editions:
     2027:
-      label: TBA, 2027
+      label: Sep 13-17, Tokyo, Japan
       url: https://csf2027.ieee-security.org/
       dl: Aug 3, Oct 15, Jan 28
     2026:
@@ -948,13 +948,13 @@ conferences:
       label: Fukui, Japan
       url: https://www.iwsec.org/index.html
 - name: IEEE DSC
-  approx_dl: mid. Jun
+  approx_dl: mid. Jul
   h5: https://scholar.google.com/citations?hl=en&view_op=search_venues&vq=IEEE+Conference+on+Dependable+and+Secure+Computing
   editions:
     2026:
       label: Oct 9-11, New York, NY
-      url: https://attend.ieee.org/dsc-2025/dsc-2026/
-      dl: Jun 12
+      url: https://attend.ieee.org/dsc/
+      dl: Jul 15
     2025:
       label: Oct 18-20, Taipei, Taiwan
       url: https://attend.ieee.org/dsc-2025/
@@ -1081,28 +1081,35 @@ conferences:
       dl: Sep 5
 - name: ICISC
   tier: '3'
-  approx_dl: mid. Sep
+  approx_dl: end. Aug
   editions:
-    2024:
+    2026:
+      label: Nov 18-20, Seoul, Korea
+      url: https://www.icisc.org/
+      dl: Aug 28
+    2025:
       label: Nov 19-21, Seoul, Korea
-      url: http://www.icisc.org/
+      url: https://www.icisc.org/
       dl: Sep 5
-    2023:
+    2024:
       label: Nov 20-22, Seoul, Korea
-      url: http://www.icisc.org/
+      url: https://www.icisc.org/
       dl: Sep 6
-    2022:
+    2023:
       label: Nov 29-Dec 1, Seoul, Korea
-      url: http://www.icisc.org/
+      url: https://www.icisc.org/
       dl: Oct 6
-    2021:
+    2022:
       label: Nov 30-Dec 2, Seoul, Korea
-      url: http://www.icisc.org/
+      url: https://www.icisc.org/
       dl: Sep 16
-    2020:
+    2021:
       label: Dec 1-3, Seoul, Korea
-      url: http://www.icisc.org/
+      url: https://www.icisc.org/
       dl: Sep 7
+    2020:
+      label: Dec 2-4, Seoul, Korea
+      url: https://www.icisc.org/
 - name: SAC
   tier: '3'
   approx_dl: beg. Oct

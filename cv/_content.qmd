@@ -344,11 +344,11 @@ Budget: 200 Million Yen
 - ACM Digital Threats: Research and Practice (DTRAP), 2026
 - ACM Transactions on Internet Technology (TOIT), 2026
 - Springer Nature, International Journal of Information Security (IJIS), 2026, 2019
-- Joint International Conference on Soft Computing and Intelligent Systems and International Symposium on Advanced Intelligent Systems (SCIS&ISIS), 2026
+- International Conference on Artificial Intelligence Computing and Systems (AICompS), 2026, 2025
 - IEEE Conference on Dependable and Secure Computing (DSC), 2026, 2024
+- Joint International Conference on Soft Computing and Intelligent Systems and International Symposium on Advanced Intelligent Systems (SCIS&ISIS), 2026
 - IEEE Transactions on Reliability, 2025, 2024
 - IPSJ Journal of Information Processing, 2025, 2024, 2022, 2021
-- International Conference on Artificial Intelligence Computing and Systems (AICompS), 2026, 2025
 - International Conference on Neural Information Processing (ICONIP), 2024, 2021, 2019
 - IEEE International Joint Conference on Neural Networks (IJCNN), 2024
 - Peer-to-Peer Networking and Applications, 2023
