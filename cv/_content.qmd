@@ -23,15 +23,16 @@
 ### Refereed Conference Papers
 
 <!--
+1. K. Ma, **C. Han**, and T. Takahashi, ''CyberTempt: Measuring Unsafe Path Choice by Agents on Benign Operational Tasks,'' *ACM/SIGAPP Symposium on Applied Computing (SAC)*, 2027. **(Tier 3)**
+1. S. Lee, **C. Han**, and T. Takahashi, ''A General-Purpose Policy and Enforcement Layer for Secure Agent Tool Calls,'' *ACM/SIGAPP Symposium on Applied Computing (SAC)*, 2027. **(Tier 3)**
 1. **C. Han**, S. Choi, and T. Takahashi, ''Where Does Intervenable Refusal Live in Multimodal LM Derivatives?,'' *ICLR*, 2027. **(Tier 1)**
 1. S. Lee, **C. Han**, S. Choi, and T. Takahashi, ''Toward Systematic Cyberattack Analysis via MITRE ATT&CK TTP Mapping,'' *International Conference on Information Security and Cryptology (ICISC)*, 2026. **(Tier 3)**
 1. **C. Han** and T. Takahashi, ''Safety Direction Adapter: A Training-Free Post-Hoc Safety Patch for Fine-Tuned Open-Weight LLMs,'' *NDSS*, Mar 2027. **(Tier 1)**
-1. **C. Han**, S. Choi, and T. Takahashi, ''Mapper-Free Refusal Bypass Across Open-Weight Architecture Variants,'' *Workshop on Recent Advances in Resilient and Trustworthy MAchine learning-driveN systems (ARTMAN)*, Dec 2026.
 1. K. Inoue, **C. Han**, Y. Takeishi, T. Takahashi, and J. Takeuchi, ''Extending Difference-in-Means Activation Steering with Reference Points and Covariance Structure,'' *AAAI*, Feb 2027 **(Tier 1)**
-1. **[Rejected]** S. Lee, **C. Han**, S. Choi, and T. Takahashi, ''Toward Systematic Cyberattack Analysis via MITRE ATT&CK TTP Mapping,'' *Information Security Conference (ISC)*, 2026. **(Tier 3)**
 1. **[Rejected]** J. Kim, H. Lee, **C. Han**, and S. Choi, ''Isolating the Signal from Noise: Model Inversion Attacks against PEFT-Based Text Classifiers,'' *EMNLP*, 2026. **(Tier 1)**
 -->
 
+1. **C. Han**, S. Choi, and T. Takahashi, “Mapper-Free Refusal Bypass Across Open-Weight Architecture Variants,” *Workshop on Recent Advances in Resilient and Trustworthy MAchine learning-driveN systems (ARTMAN), ACSAC*, Dec 2026.
 1. J. Kim, H. Lee, S. Hong, T. Takahashi, **C. Han**, T. Morikawa, and S. Choi, “Don’t Trust the AI Ecosystem: Analyzing Privacy Leakage in Compromised Open-Source Components,” *ACM CCS*, Nov 2026. **(Tier 1)** [[arXiv]](https://arxiv.org/abs/2607.27886)
 1. **C. Han** and T. Takahashi, “Weight Drift as a Fine-Tuning Safety Screen: Signal and Its Limits,” *Joint International Conference on Soft Computing and Intelligent Systems and International Symposium on Advanced Intelligent Systems (SCIS&ISIS)*, Nov 2026.
 1. S. Lee, **C. Han**, I. Choi, and T. Takahashi, “From CVEs to Countermeasures: Benchmarking D3FEND Selection on Attack-Defense Scenarios,” *Joint International Conference on Soft Computing and Intelligent Systems and International Symposium on Advanced Intelligent Systems (SCIS&ISIS)*, Nov 2026.
