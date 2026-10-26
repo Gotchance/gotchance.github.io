@@ -5,9 +5,10 @@
 ### Refereed Journal Papers
 
 <!--
+1. **[Under Review]** A. Karimov, K. Abduaziz, **C. Han**, S. Lee, and J. Shin, ''Inter-Arrival Timing for Behavior-Based Traceability of Darknet Scanners,'' *Computers & Security*, 2026.
 1. **[Under Review]** M. Basak, **C. Han**, T. Takahashi, and G. Shin, ''KARL: Knowledge-Aligned Reinforcement Learning with Cyber-Threat Graph Reasoning for Robust Zero-Day Defense,'' *Engineering Applications of Artificial Intelligence (EAAI)*, 2026.
 1. **[Under Revision]** B. Lin, Y. Chang, C. Chan, H. Chen, T. Morikawa, **C. Han**, H. C. Tanuwidjaja, T. Takahashi, W. Liao, and T. Lin, ''Can You Spot My Malicious Network Activity? NIDS Evasion through Flow Camouflage Attack,'' *IEEE Transactions on Dependable and Secure Computing (TDSC)*, 2026.
-1. **[Under Submission]** M. Basak, **C. Han**, T. Takahashi, and G. Shin, ''A Bilateral Network Security Framework for Federated Threat Intelligence: A Comprehensive Study of Secure Information Sharing and Standard Intelligence Exchange,'' *ACM Computing Surveys*, 2026.
+1. **[Rejected]** M. Basak, **C. Han**, T. Takahashi, and G. Shin, ''A Bilateral Network Security Framework for Federated Threat Intelligence: A Comprehensive Study of Secure Information Sharing and Standard Intelligence Exchange,'' *ACM Computing Surveys*, 2026.
 -->
 
 1. K. Abduaziz, **C. Han**, and J. Shin, “Semi-supervised Traceability Analysis of Investigative Scanners of Darknet Traffic,” *Computers & Security*, Dec 2025. [[DOI]](https://doi.org/10.1016/j.cose.2025.104681)
@@ -26,7 +27,6 @@
 1. K. Ma, **C. Han**, and T. Takahashi, ''CyberTempt: Measuring Unsafe Path Choice by Agents on Benign Operational Tasks,'' *ACM/SIGAPP Symposium on Applied Computing (SAC)*, 2027. **(Tier 3)**
 1. S. Lee, **C. Han**, and T. Takahashi, ''A General-Purpose Policy and Enforcement Layer for Secure Agent Tool Calls,'' *ACM/SIGAPP Symposium on Applied Computing (SAC)*, 2027. **(Tier 3)**
 1. **C. Han**, S. Choi, and T. Takahashi, ''Where Does Intervenable Refusal Live in Multimodal LM Derivatives?,'' *ICLR*, 2027. **(Tier 1)**
-1. S. Lee, **C. Han**, S. Choi, and T. Takahashi, ''Toward Systematic Cyberattack Analysis via MITRE ATT&CK TTP Mapping,'' *International Conference on Information Security and Cryptology (ICISC)*, 2026. **(Tier 3)**
 1. **C. Han** and T. Takahashi, ''Safety Direction Adapter: A Training-Free Post-Hoc Safety Patch for Fine-Tuned Open-Weight LLMs,'' *NDSS*, Mar 2027. **(Tier 1)**
 1. K. Inoue, **C. Han**, Y. Takeishi, T. Takahashi, and J. Takeuchi, ''Extending Difference-in-Means Activation Steering with Reference Points and Covariance Structure,'' *AAAI*, Feb 2027 **(Tier 1)**
 1. **[Rejected]** J. Kim, H. Lee, **C. Han**, and S. Choi, ''Isolating the Signal from Noise: Model Inversion Attacks against PEFT-Based Text Classifiers,'' *EMNLP*, 2026. **(Tier 1)**
@@ -36,6 +36,7 @@
 1. J. Kim, H. Lee, S. Hong, T. Takahashi, **C. Han**, T. Morikawa, and S. Choi, “Don’t Trust the AI Ecosystem: Analyzing Privacy Leakage in Compromised Open-Source Components,” *ACM CCS*, Nov 2026. **(Tier 1)** [[arXiv]](https://arxiv.org/abs/2607.27886)
 1. **C. Han** and T. Takahashi, “Weight Drift as a Fine-Tuning Safety Screen: Signal and Its Limits,” *Joint International Conference on Soft Computing and Intelligent Systems and International Symposium on Advanced Intelligent Systems (SCIS&ISIS)*, Nov 2026.
 1. S. Lee, **C. Han**, I. Choi, and T. Takahashi, “From CVEs to Countermeasures: Benchmarking D3FEND Selection on Attack-Defense Scenarios,” *Joint International Conference on Soft Computing and Intelligent Systems and International Symposium on Advanced Intelligent Systems (SCIS&ISIS)*, Nov 2026.
+1. S. Lee, **C. Han**, S. Choi, and T. Takahashi, “Toward Systematic Cyberattack Analysis via MITRE ATT&CK TTP Mapping,” *The 29th Annual International Conference on Information Security and Cryptology (ICISC)*, Nov 2026. **(Tier 3)**
 1. S. Kato, **C. Han**, T. Takahashi, and K. Sakurai, “MemTAP: Memory-Augmented Tree of Attacks with Pruning for Automated Jailbreak Generation against Large Language Models,” *Workshop on Trustworthy and Secure AI for Cyber Defense, IEEE DSC*, Oct 2026.
 1. **C. Han** and T. Takahashi, “Does Refusal-Direction Drift on Safety Benchmarks Predict Fine-Tuning Safety Loss?,” *Workshop on Trustworthy and Secure AI for Cyber Defense, IEEE DSC*, Oct 2026.
 1. H. Lee, J. Kim, **C. Han**, G. Bang, T. Takahashi, and S. Choi, “An Empirical Study on the Privacy Effects of Model Merging in Vision Language Models,” *International Conference on Ubiquitous and Future Networks (ICUFN)*, Jul 2026. [[DOI]](https://doi.org/10.1109/ICUFN69619.2026.11628764)
