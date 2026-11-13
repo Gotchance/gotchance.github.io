@@ -5,6 +5,7 @@
 ### Refereed Journal Papers
 
 <!--
+1. **[Under Submission]** J. Kim, H. Lee, **C. Han**, T. Takahashi, and S. Choi, ''Isolating the Signal from Noise: Model Inversion Attacks against PEFT-Based Text Classifiers,'' *IEEE ACCESS*, 2026.
 1. **[Under Review]** A. Karimov, K. Abduaziz, **C. Han**, S. Lee, and J. Shin, ''Inter-Arrival Timing for Behavior-Based Traceability of Darknet Scanners,'' *ACM Transactions on Internet Technology (TOIT)*, 2026.
 1. **[Under Review]** M. Basak, **C. Han**, T. Takahashi, and G. Shin, ''KARL: Knowledge-Aligned Reinforcement Learning with Cyber-Threat Graph Reasoning for Robust Zero-Day Defense,'' *Engineering Applications of Artificial Intelligence (EAAI)*, 2026.
 1. **[Under Revision]** B. Lin, Y. Chang, C. Chan, H. Chen, T. Morikawa, **C. Han**, H. C. Tanuwidjaja, T. Takahashi, W. Liao, and T. Lin, ''Can You Spot My Malicious Network Activity? NIDS Evasion through Flow Camouflage Attack,'' *IEEE Transactions on Dependable and Secure Computing (TDSC)*, 2026.
@@ -34,7 +35,7 @@
 -->
 
 1. **C. Han**, S. Choi, and T. Takahashi, “Mapper-Free Refusal Bypass Across Open-Weight Architecture Variants,” *Workshop on Recent Advances in Resilient and Trustworthy MAchine learning-driveN systems (ARTMAN), ACSAC*, Dec 2026.
-1. J. Kim, H. Lee, S. Hong, T. Takahashi, **C. Han**, T. Morikawa, and S. Choi, “Don’t Trust the AI Ecosystem: Analyzing Privacy Leakage in Compromised Open-Source Components,” *ACM CCS*, Nov 2026. **(Tier 1)** [[arXiv]](https://arxiv.org/abs/2607.27886)
+1. J. Kim, H. Lee, S. Hong, T. Takahashi, **C. Han**, T. Morikawa, and S. Choi, “Don’t Trust the AI Ecosystem: Analyzing Privacy Leakage in Compromised Open-Source Components,” *ACM CCS*, Nov 2026. **(Tier 1)** [[DOI]](https://doi.org/10.1145/3830454.3832679) [[arXiv]](https://arxiv.org/abs/2607.27886)
 1. S. Lee, **C. Han**, S. Choi, and T. Takahashi, “Toward Systematic Cyberattack Analysis via MITRE ATT&CK TTP Mapping,” *The 29th Annual International Conference on Information Security and Cryptology (ICISC)*, Nov 2026. **(Tier 3)**
 1. **C. Han** and T. Takahashi, “Weight Drift as a Fine-Tuning Safety Screen: Signal and Its Limits,” *Joint International Conference on Soft Computing and Intelligent Systems and International Symposium on Advanced Intelligent Systems (SCIS&ISIS)*, Nov 2026.
 1. S. Lee, **C. Han**, I. Choi, and T. Takahashi, “From CVEs to Countermeasures: Benchmarking D3FEND Selection on Attack-Defense Scenarios,” *Joint International Conference on Soft Computing and Intelligent Systems and International Symposium on Advanced Intelligent Systems (SCIS&ISIS)*, Nov 2026.
