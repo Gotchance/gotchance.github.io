@@ -30,7 +30,6 @@
 1. **C. Han**, S. Choi, and T. Takahashi, ''Where Does Intervenable Refusal Live in Multimodal LM Derivatives?,'' *ICLR*, 2027. **(Tier 1)**
 1. K. Inoue, **C. Han**, Y. Takeishi, T. Takahashi, and J. Takeuchi, ''Extending Difference-in-Means Activation Steering with Reference Points and Covariance Structure,'' *AAAI*, Feb 2027 **(Tier 1)**
 1. **C. Han**, G. Shin, S. Choi, and T. Takahashi, ''Does Refusal Saturate on One Direction? Leftover Causality after Recursive Re-extraction,'' *The 3rd International Conference on Artificial Intelligence and Computing Systems (AICompS)*, Dec 2026.
-1. [rejected] **C. Han** and T. Takahashi, ''Safety Direction Adapter: A Training-Free Post-Hoc Safety Patch for Fine-Tuned Open-Weight LLMs,'' *NDSS*, Mar 2027. **(Tier 1)**
 1. **[Rejected]** J. Kim, H. Lee, **C. Han**, and S. Choi, ''Isolating the Signal from Noise: Model Inversion Attacks against PEFT-Based Text Classifiers,'' *EMNLP*, 2026. **(Tier 1)**
 -->
 
@@ -72,6 +71,9 @@
 2. **C. Han**, J. Shimamura, T. Takahashi, D. Inoue, M. Kawakita, J. Takeuchi, and K. Nakao, “Real-Time Detection of Malware Activities by Analyzing Darknet Traffic Using Graphical Lasso,” *IEEE International Conference on Trust, Security and Privacy in Computing and Communications (TrustCom): Security Track*, 2019. **(Tier 3)** (Acceptance rate 28.67%=82/286) [[DOI]](https://doi.org/10.1109/TrustCom/BigDataSE.2019.00028) [[PDF]](https://www.researchgate.net/publication/336946818_Real-Time_Detection_of_Malware_Activities_by_Analyzing_Darknet_Traffic_Using_Graphical_Lasso) [[Slides]](https://drive.google.com/file/d/1dIJjqipH49RewPDGlMT3LL-xODIclPqc/view?usp=sharing) [[Datasets]](https://csdataset.nict.go.jp/darknet-2022/)
 3. **C. Han**, K. Kono, M. Kawakita, and J. Takeuchi, “Botnet Detection Using Graphical Lasso with Graph Density,” *Neural Information Processing - 23rd International Conference (ICONIP), vol.9947*, pp.537-545, 2016. [[DOI]](https://doi.org/10.1007/978-3-319-46687-3_59) [[PDF]](https://www.researchgate.net/publication/309176434_Botnet_Detection_Using_Graphical_Lasso_with_Graph_Density) [[Slides]](https://drive.google.com/file/d/1QbywuJC7g0pKLfpLqaSbuQqQSXPYW40M/view?usp=sharing)
 
+### Preprints
+
+1. **C. Han** and T. Takahashi, “Safety Direction Adapter: A Training-Free Post-Hoc Safety Patch for Fine-Tuned Open-Weight LLMs,” *arXiv preprint arXiv:2611.10056*, Nov 2026. [[arXiv]](https://arxiv.org/abs/2611.10056)
 
 <hr>
 ### Non-refereed Domestic Conference Papers
