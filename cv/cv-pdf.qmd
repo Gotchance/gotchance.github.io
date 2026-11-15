@@ -62,7 +62,8 @@ format:
 {\LARGE\bfseries Chansu Han, Ph.D.}\\[0.55em]
 {\normalsize Researcher, Center for Research on AI Security and Technology Evolution (CREATE)}\\[0.15em]
 {\normalsize National Institute of Information and Communications Technology (NICT), Japan}\\[0.15em]
-{\normalsize Visiting Assistant Professor, Kyushu University}\\[0.45em]
+{\normalsize Visiting Assistant Professor, Kyushu University}\\[0.15em]
+{\normalsize Visiting Professor, Yonsei University}\\[0.45em]
 {\small
 Email: han (at) nict.go.jp
 \quad$\cdot$\quad

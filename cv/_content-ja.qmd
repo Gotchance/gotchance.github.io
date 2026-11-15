@@ -14,6 +14,7 @@
 | Apr. 2023--present   | Tenure-Track Researcher, NICT                                                                                                                                                          |
 | Jun. 2023--Aug. 2023 | Visiting Researcher with the University of New Brunswick to collaborate on research with Prof. Ali Ghorbani, Director of the Canadian Cybersecurity Center, UNB.                       |
 | Apr. 2025–present    | Researcher, Center for Research on AI Security and Technology Evolution (CREATE), National Institute of Information and Communications Technology (NICT)                               |
+| Nov. 2026–present    | Visiting Professor, School of Software (AI Security), Yonsei University Mirae Campus                                                                                                  |
 
 <h3>学歴</h3>
 |  日付  | 学歴 |
@@ -42,6 +43,7 @@
 | 2018年4月~現在      | [情報通信研究機構(NICT) サイバーセキュリティ研究室](http://nict.go.jp/cyber/index.html) 研究員                                                                 |
 | 2023年4月~現在      | [九州大学 大学院システム情報科学府 数理工学研究室](http://www.me.inf.kyushu-u.ac.jp/homepage.ja.html) 研究指導者(客員助教)                                     |
 | 2023年6月~2023年8月 | Visiting Researcher with the University of New Brunswick to collaborate on research with Dr. Ali Ghorbani, Director of the Canadian Cybersecurity Center, UNB. |
+| 2026年11月~現在     | 延世大学 未来キャンパス ソフトウェア学部（AIセキュリティ）客員教授                                                                                           |
 
 <h3>奨学金受給</h3>
 |  日付  | 奨学財団名 |
