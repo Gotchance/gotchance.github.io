@@ -10,6 +10,7 @@ project:
     - scripts/render-conference-table.sh
   post-render:
     - scripts/render-cv-pdf.sh
+    - scripts/sync-slides.sh
 
 website:
   title: " "
