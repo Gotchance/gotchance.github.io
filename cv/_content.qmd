@@ -118,8 +118,8 @@
 <summary>In Japanese (Non-refereed Domestic Conference Papers)</summary>
 <div>
 
-1. **韓燦洙**, 高橋健志, “重み空間ドリフトと拒否方向回転による公開fine-tuned LLMsの安全性監査,” *コンピュータセキュリティシンポジウム2026 (CSS2026)*, 2026年10月.
-1. 加藤颯真, **韓燦洙**, 高橋健志, 櫻井幸一, “大規模言語モデルに対するjailbreak攻撃の回避機構別分類と脅威優先度の定量評価,” *コンピュータセキュリティシンポジウム2026 (CSS2026)*, 2026年10月.
+1. **韓燦洙**, 高橋健志, “重み空間ドリフトと拒否方向回転による公開fine-tuned LLMsの安全性監査,” *コンピュータセキュリティシンポジウム2026 (CSS2026)*, 2026年10月. [[Slides]](https://gotchance.github.io/slides/2026/CSS2026_WeightRefusalAudit.pdf)
+1. 加藤颯真, **韓燦洙**, 高橋健志, 櫻井幸一, “大規模言語モデルに対するjailbreak攻撃の回避機構別分類と脅威優先度の定量評価,” *コンピュータセキュリティシンポジウム2026 (CSS2026)*, 2026年10月. [[Slides]](https://gotchance.github.io/slides/2026/CSS2026_JailbreakClassification.pdf)
 1. 馬権聖, **韓燦洙**, 田中智, 高橋健志, 竹内純一, “IoTマルウェアにおける関数呼び出し分析の阻害要因の除去,” *暗号と情報セキュリティシンポジウム (SCIS2025)*, 2025年1月. [[Slides (in Japanese)]](https://drive.google.com/file/d/1i_rbRpaJP2xOZfzmEwwv9-3ui_OK-wmY/view?usp=sharing)
 1. 川中翔太, 宮本耕平, **韓燦洙**, 班涛, 高橋健志, 竹内純一, “説明可能AIを用いたNIDSにおけるサイバー攻撃検出要因の調査,” *暗号と情報セキュリティシンポジウム (SCIS2025)*, 2025年1月. [[Slides (in Japanese)]](https://drive.google.com/file/d/1DzhHm1P3drSL59LMFM9CWAXgqRj--_00/view?usp=sharing)
 1. 馬権聖, **韓燦洙**, 田中智, 高橋健志, 竹内純一, “関数呼び出し時系列グラフを用いたIoTマルウェアの機能分析のためのグラフ作成手法の検討,” *コンピュータセキュリティシンポジウム2024 (CSS2024)*, 2024年10月. [[Slides (in Japanese)]](https://drive.google.com/file/d/1Qr1ONg_9mDc82YWU53S20DMaYv_d5tBZ/view?usp=sharing)
